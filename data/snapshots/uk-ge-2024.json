@@ -5218,63 +5218,93 @@
  "national": [
   {
    "party": "Labour",
-   "seats": 411
+   "seats": 411,
+   "votes": 9708716.0,
+   "vote_pct": 33.7
   },
   {
    "party": "Conservative",
-   "seats": 121
+   "seats": 121,
+   "votes": 6828925.0,
+   "vote_pct": 23.7
   },
   {
    "party": "Liberal Democrats",
-   "seats": 72
+   "seats": 72,
+   "votes": 3519143.0,
+   "vote_pct": 12.2
   },
   {
    "party": "SNP",
-   "seats": 9
+   "seats": 9,
+   "votes": 724758.0,
+   "vote_pct": 2.5
   },
   {
    "party": "Sinn Féin",
-   "seats": 7
+   "seats": 7,
+   "votes": 210891.0,
+   "vote_pct": 0.7
   },
   {
    "party": "Independent",
-   "seats": 6
+   "seats": 6,
+   "votes": 564243.0,
+   "vote_pct": 2.0
   },
   {
    "party": "DUP",
-   "seats": 5
+   "seats": 5,
+   "votes": 172058.0,
+   "vote_pct": 0.6
   },
   {
    "party": "Reform UK",
-   "seats": 5
+   "seats": 5,
+   "votes": 4117610.0,
+   "vote_pct": 14.3
   },
   {
    "party": "Green",
-   "seats": 4
+   "seats": 4,
+   "votes": 1841888.0,
+   "vote_pct": 6.4
   },
   {
    "party": "Plaid Cymru",
-   "seats": 4
+   "seats": 4,
+   "votes": 194811.0,
+   "vote_pct": 0.7
   },
   {
    "party": "SDLP",
-   "seats": 2
+   "seats": 2,
+   "votes": 86861.0,
+   "vote_pct": 0.3
   },
   {
    "party": "Alliance",
-   "seats": 1
+   "seats": 1,
+   "votes": 117191.0,
+   "vote_pct": 0.4
   },
   {
    "party": "Speaker",
-   "seats": 1
+   "seats": 1,
+   "votes": 25238.0,
+   "vote_pct": 0.1
   },
   {
    "party": "TUV",
-   "seats": 1
+   "seats": 1,
+   "votes": 48685.0,
+   "vote_pct": 0.2
   },
   {
    "party": "UUP",
-   "seats": 1
+   "seats": 1,
+   "votes": 94779.0,
+   "vote_pct": 0.3
   }
  ],
  "detail": null

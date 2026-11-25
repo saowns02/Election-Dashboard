@@ -74,9 +74,11 @@ def add_vote_share(result: ElectionResult, html: str) -> None:
     for t in tables(html, min_rows=6, must_contain=("Conservative", "Labour")):
         cols = flat_cols(t)
         tops = [c.split(" | ")[0].lower() for c in cols]
-        if not tops or not tops[0].startswith("party") or "votes" not in tops:
+        if not tops or not tops[0].startswith(("party", "affiliat")):
             continue
-        vgroup = [i for i, c in enumerate(tops) if c == "votes"]
+        vgroup = [i for i, c in enumerate(tops) if c in ("votes", "aggregate votes")]
+        if not vgroup:
+            continue
         t.columns = range(len(cols))
         # within the Votes group: the big integer column is the count, the "%" one the share
         sample = t.head(5)
@@ -84,7 +86,7 @@ def add_vote_share(result: ElectionResult, html: str) -> None:
         pcol = next((i for i in vgroup if sample[i].astype(str).str.contains("%").any()), None)
         if vcol is None:
             continue
-        party_cols = [i for i, c in enumerate(tops) if c.startswith("party")]
+        party_cols = [i for i, c in enumerate(tops) if c.startswith(("party", "affiliat"))]
         found = {}
         for _, r in t.iterrows():
             name = next((clean(r[i]) for i in party_cols if clean(r[i]) and clean(r[i]).lower() != "nan"), "")
