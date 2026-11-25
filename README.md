@@ -1,57 +1,72 @@
-# Bangladesh Election 2026 Dashboard
+# Election Centre
 
-A Streamlit prototype of a broadcast-style election night dashboard for Bangladesh, with a district-level results map, national seat tally and a close-races table.
+An interactive, map-first election results dashboard for **Bangladesh**, the **United Kingdom** and the **United States**, covering every national election from 2016 to today. It is fed live from Wikipedia and adds new elections as they happen.
 
-> **Note:** all results in this dashboard are simulated. The app generates random vote margins and counting progress on every refresh to demonstrate how a live results page could look. It does not show real or official election results.
+## What you can do
 
-## Features
+- **Explore the map**: Bangladesh by district (64), the UK by constituency (650 equal-size hexagons) and the US by state.
+- **Click any area** to open its local results: every constituency in a Bangladeshi district with winner and runner-up vote bars, the elected MP for a UK seat, or a state's vote split.
+- **Switch map views**:
+  - **Winner**: who won each area.
+  - **Seats changed hands**: gains compared with the previous election.
+  - **Margin**: safe, likely or lean seats.
+  - **Timeline**: press ▶ to watch the map change election by election.
+- **Highlight a party** to fade out the rest of the map.
+- **Read the national picture** beside the map: headline, seat bar with the majority line, a parliament arc and party totals with seat change.
+- **Search and sort** every constituency or state below the map, and see seat history from 2016 to today.
 
-- **District map**: a choropleth of Bangladesh's 64 districts, shaded by the leading party, with vote margin and counting status on hover.
-- **Seat tally**: headline metrics for seats declared out of 300 and seats won by each party.
-- **Key battlegrounds**: a table of races with a margin under 5,000 votes, sorted closest first, with a progress bar for the share of votes counted.
-- **Flash updates**: sample news alerts in the style of a live results feed.
-- **Refresh button**: reruns the simulation to mimic results coming in.
+## Elections included
 
-## How the simulation works
+| Country | Elections |
+|---|---|
+| Bangladesh | 2018, 2024, 2026 general elections (Jatiya Sangsad, 300 seats) |
+| United Kingdom | 2017, 2019, 2024 general elections (650 seats) |
+| United States | 2016, 2020, 2024 presidential; 2016–2026 House of Representatives |
 
-For each district, the app:
+## Live data and future elections
 
-1. Picks a random counting progress between 20% and 99%, and marks the district as declared once it passes 90%.
-2. Assigns a leading party using simple regional rules. Named strongholds go to a set party, named battleground districts are a coin toss between the two largest blocs, and all other districts lean 70/30.
-3. Draws a random vote margin, with tighter ranges in battleground districts.
+Results are read from the English Wikipedia article for each election through the Wikimedia REST API. Editors update these articles continuously on election night.
 
-The national tally adds a fixed baseline to each party's declared districts, so the totals read like a 300-seat parliament rather than a 64-district count.
+- **Recent elections** (the last 30 days) are re-fetched every 5 minutes, and the page refreshes itself. A **Live** badge marks them.
+- **Settled elections** load from snapshots bundled in `data/snapshots/`, so the app still works if Wikipedia is down or rate-limits requests. Rebuild the snapshots with `python scripts/refresh_snapshots.py`.
+- **New elections** are added automatically:
+  - US presidential and House elections come from the fixed November calendar.
+  - UK and Bangladeshi general elections are detected when Wikipedia's *Next … general election* article moves to a dated title.
 
-To use real data, replace `get_live_data()` in `app.py` with a function that returns a DataFrame with the same columns (`District`, `Leading Party`, `Margin`, `Status`, `Reporting`) from an API or a regularly updated CSV.
+Wikipedia is not an official source. For official figures, see the Bangladesh Election Commission, the House of Commons Library and US state election offices.
 
-## Map data
-
-District boundaries load at startup from public GeoJSON sources, trying the first and falling back to the second:
-
-- [Bangladesh GeoJSON project](https://github.com/fahim-muntasir-niloy/Bangladesh-geojson_project) (64 districts)
-- [geoBoundaries](https://github.com/wmgeolab/geoBoundaries) (BGD ADM2)
-
-An internet connection is needed to load the map.
-
-## Tech stack
-
-Python, Streamlit, Plotly Express, GeoPandas, pandas and NumPy.
-
-## Getting started
-
-Requires Python 3.9 or later.
+## Run locally
 
 ```bash
-git clone https://github.com/saowns02/Election-Dashboard.git
-cd Election-Dashboard
-pip install streamlit pandas geopandas plotly numpy
+pip install -r requirements.txt
 streamlit run app.py
 ```
 
-Streamlit opens the dashboard in your browser, usually at `http://localhost:8501`.
+## Deploy (free) on Streamlit Community Cloud
 
-## Project structure
+1. Go to https://share.streamlit.io and sign in with GitHub.
+2. Click **Create app** and choose this repository, the branch, and `app.py` as the main file.
+3. Click **Deploy**. You get a public `*.streamlit.app` URL.
+
+## Project layout
 
 ```
-└── app.py   # Page setup, map loading, results simulation and dashboard layout
+app.py                     Streamlit UI (map, side panel, tables, history)
+election_data/
+  registry.py              election catalogue, live/snapshot loading, auto-discovery
+  wiki.py                  Wikimedia REST client with disk cache and back-off
+  bd.py, uk.py, us.py      per-country parsers
+  geo.py                   map geometry (district polygons, UK hex grid)
+  parties.py               party names and colours
+data/snapshots/            bundled results
+data/geo/                  boundary files
+static/topojson/           Plotly base-map files, served locally
+scripts/refresh_snapshots.py
 ```
+
+## Credits
+
+- Results: Wikipedia contributors (CC BY-SA 4.0)
+- Bangladesh district boundaries: [geoBoundaries](https://www.geoboundaries.org) (CC BY 4.0)
+- UK constituency hex maps: [ODI Leeds HexMaps](https://github.com/odileeds/hexmaps)
+- Base-map topojson: [plotly.js](https://github.com/plotly/plotly.js) (MIT)

@@ -1,0 +1,433 @@
+{
+ "country": "United States",
+ "key": "us-house-2018",
+ "year": 2018,
+ "title": "2018 House of Representatives Elections",
+ "kind": "house",
+ "unit_label": "State",
+ "total_seats": 435,
+ "majority": 218,
+ "seat_label": "House seats",
+ "source": "https://en.wikipedia.org/wiki/2018_United_States_House_of_Representatives_elections",
+ "fetched_at": 1795608495.0620737,
+ "notes": [
+  "Map colour shows which party won the majority of each state's House delegation."
+ ],
+ "units": [
+  {
+   "unit": "Alabama",
+   "code": "AL",
+   "seats_Democratic": 1,
+   "seats_Republican": 6,
+   "winner": "Republican",
+   "margin_seats": 5
+  },
+  {
+   "unit": "Alaska",
+   "code": "AK",
+   "seats_Democratic": 0,
+   "seats_Republican": 1,
+   "winner": "Republican",
+   "margin_seats": 1
+  },
+  {
+   "unit": "Arizona",
+   "code": "AZ",
+   "seats_Democratic": 5,
+   "seats_Republican": 4,
+   "winner": "Democratic",
+   "margin_seats": 1
+  },
+  {
+   "unit": "Arkansas",
+   "code": "AR",
+   "seats_Democratic": 0,
+   "seats_Republican": 4,
+   "winner": "Republican",
+   "margin_seats": 4
+  },
+  {
+   "unit": "California",
+   "code": "CA",
+   "seats_Democratic": 46,
+   "seats_Republican": 7,
+   "winner": "Democratic",
+   "margin_seats": 39
+  },
+  {
+   "unit": "Colorado",
+   "code": "CO",
+   "seats_Democratic": 4,
+   "seats_Republican": 3,
+   "winner": "Democratic",
+   "margin_seats": 1
+  },
+  {
+   "unit": "Connecticut",
+   "code": "CT",
+   "seats_Democratic": 5,
+   "seats_Republican": 0,
+   "winner": "Democratic",
+   "margin_seats": 5
+  },
+  {
+   "unit": "Delaware",
+   "code": "DE",
+   "seats_Democratic": 1,
+   "seats_Republican": 0,
+   "winner": "Democratic",
+   "margin_seats": 1
+  },
+  {
+   "unit": "Florida",
+   "code": "FL",
+   "seats_Democratic": 13,
+   "seats_Republican": 14,
+   "winner": "Republican",
+   "margin_seats": 1
+  },
+  {
+   "unit": "Georgia",
+   "code": "GA",
+   "seats_Democratic": 5,
+   "seats_Republican": 9,
+   "winner": "Republican",
+   "margin_seats": 4
+  },
+  {
+   "unit": "Hawaii",
+   "code": "HI",
+   "seats_Democratic": 2,
+   "seats_Republican": 0,
+   "winner": "Democratic",
+   "margin_seats": 2
+  },
+  {
+   "unit": "Idaho",
+   "code": "ID",
+   "seats_Democratic": 0,
+   "seats_Republican": 2,
+   "winner": "Republican",
+   "margin_seats": 2
+  },
+  {
+   "unit": "Illinois",
+   "code": "IL",
+   "seats_Democratic": 13,
+   "seats_Republican": 5,
+   "winner": "Democratic",
+   "margin_seats": 8
+  },
+  {
+   "unit": "Indiana",
+   "code": "IN",
+   "seats_Democratic": 2,
+   "seats_Republican": 7,
+   "winner": "Republican",
+   "margin_seats": 5
+  },
+  {
+   "unit": "Iowa",
+   "code": "IA",
+   "seats_Democratic": 3,
+   "seats_Republican": 1,
+   "winner": "Democratic",
+   "margin_seats": 2
+  },
+  {
+   "unit": "Kansas",
+   "code": "KS",
+   "seats_Democratic": 1,
+   "seats_Republican": 3,
+   "winner": "Republican",
+   "margin_seats": 2
+  },
+  {
+   "unit": "Kentucky",
+   "code": "KY",
+   "seats_Democratic": 1,
+   "seats_Republican": 5,
+   "winner": "Republican",
+   "margin_seats": 4
+  },
+  {
+   "unit": "Louisiana",
+   "code": "LA",
+   "seats_Democratic": 1,
+   "seats_Republican": 5,
+   "winner": "Republican",
+   "margin_seats": 4
+  },
+  {
+   "unit": "Maine",
+   "code": "ME",
+   "seats_Democratic": 2,
+   "seats_Republican": 0,
+   "winner": "Democratic",
+   "margin_seats": 2
+  },
+  {
+   "unit": "Maryland",
+   "code": "MD",
+   "seats_Democratic": 7,
+   "seats_Republican": 1,
+   "winner": "Democratic",
+   "margin_seats": 6
+  },
+  {
+   "unit": "Massachusetts",
+   "code": "MA",
+   "seats_Democratic": 9,
+   "seats_Republican": 0,
+   "winner": "Democratic",
+   "margin_seats": 9
+  },
+  {
+   "unit": "Michigan",
+   "code": "MI",
+   "seats_Democratic": 7,
+   "seats_Republican": 7,
+   "winner": "Tie",
+   "margin_seats": 0
+  },
+  {
+   "unit": "Minnesota",
+   "code": "MN",
+   "seats_Democratic": 5,
+   "seats_Republican": 3,
+   "winner": "Democratic",
+   "margin_seats": 2
+  },
+  {
+   "unit": "Mississippi",
+   "code": "MS",
+   "seats_Democratic": 1,
+   "seats_Republican": 3,
+   "winner": "Republican",
+   "margin_seats": 2
+  },
+  {
+   "unit": "Missouri",
+   "code": "MO",
+   "seats_Democratic": 2,
+   "seats_Republican": 6,
+   "winner": "Republican",
+   "margin_seats": 4
+  },
+  {
+   "unit": "Montana",
+   "code": "MT",
+   "seats_Democratic": 0,
+   "seats_Republican": 1,
+   "winner": "Republican",
+   "margin_seats": 1
+  },
+  {
+   "unit": "Nebraska",
+   "code": "NE",
+   "seats_Democratic": 0,
+   "seats_Republican": 3,
+   "winner": "Republican",
+   "margin_seats": 3
+  },
+  {
+   "unit": "Nevada",
+   "code": "NV",
+   "seats_Democratic": 3,
+   "seats_Republican": 1,
+   "winner": "Democratic",
+   "margin_seats": 2
+  },
+  {
+   "unit": "New Hampshire",
+   "code": "NH",
+   "seats_Democratic": 2,
+   "seats_Republican": 0,
+   "winner": "Democratic",
+   "margin_seats": 2
+  },
+  {
+   "unit": "New Jersey",
+   "code": "NJ",
+   "seats_Democratic": 11,
+   "seats_Republican": 1,
+   "winner": "Democratic",
+   "margin_seats": 10
+  },
+  {
+   "unit": "New Mexico",
+   "code": "NM",
+   "seats_Democratic": 3,
+   "seats_Republican": 0,
+   "winner": "Democratic",
+   "margin_seats": 3
+  },
+  {
+   "unit": "New York",
+   "code": "NY",
+   "seats_Democratic": 21,
+   "seats_Republican": 6,
+   "winner": "Democratic",
+   "margin_seats": 15
+  },
+  {
+   "unit": "North Carolina",
+   "code": "NC",
+   "seats_Democratic": 3,
+   "seats_Republican": 9,
+   "winner": "Republican",
+   "margin_seats": 6
+  },
+  {
+   "unit": "North Dakota",
+   "code": "ND",
+   "seats_Democratic": 0,
+   "seats_Republican": 1,
+   "winner": "Republican",
+   "margin_seats": 1
+  },
+  {
+   "unit": "Ohio",
+   "code": "OH",
+   "seats_Democratic": 4,
+   "seats_Republican": 12,
+   "winner": "Republican",
+   "margin_seats": 8
+  },
+  {
+   "unit": "Oklahoma",
+   "code": "OK",
+   "seats_Democratic": 1,
+   "seats_Republican": 4,
+   "winner": "Republican",
+   "margin_seats": 3
+  },
+  {
+   "unit": "Oregon",
+   "code": "OR",
+   "seats_Democratic": 4,
+   "seats_Republican": 1,
+   "winner": "Democratic",
+   "margin_seats": 3
+  },
+  {
+   "unit": "Pennsylvania",
+   "code": "PA",
+   "seats_Democratic": 9,
+   "seats_Republican": 9,
+   "winner": "Tie",
+   "margin_seats": 0
+  },
+  {
+   "unit": "Rhode Island",
+   "code": "RI",
+   "seats_Democratic": 2,
+   "seats_Republican": 0,
+   "winner": "Democratic",
+   "margin_seats": 2
+  },
+  {
+   "unit": "South Carolina",
+   "code": "SC",
+   "seats_Democratic": 2,
+   "seats_Republican": 5,
+   "winner": "Republican",
+   "margin_seats": 3
+  },
+  {
+   "unit": "South Dakota",
+   "code": "SD",
+   "seats_Democratic": 0,
+   "seats_Republican": 1,
+   "winner": "Republican",
+   "margin_seats": 1
+  },
+  {
+   "unit": "Tennessee",
+   "code": "TN",
+   "seats_Democratic": 2,
+   "seats_Republican": 7,
+   "winner": "Republican",
+   "margin_seats": 5
+  },
+  {
+   "unit": "Texas",
+   "code": "TX",
+   "seats_Democratic": 13,
+   "seats_Republican": 23,
+   "winner": "Republican",
+   "margin_seats": 10
+  },
+  {
+   "unit": "Utah",
+   "code": "UT",
+   "seats_Democratic": 1,
+   "seats_Republican": 3,
+   "winner": "Republican",
+   "margin_seats": 2
+  },
+  {
+   "unit": "Vermont",
+   "code": "VT",
+   "seats_Democratic": 1,
+   "seats_Republican": 0,
+   "winner": "Democratic",
+   "margin_seats": 1
+  },
+  {
+   "unit": "Virginia",
+   "code": "VA",
+   "seats_Democratic": 7,
+   "seats_Republican": 4,
+   "winner": "Democratic",
+   "margin_seats": 3
+  },
+  {
+   "unit": "Washington",
+   "code": "WA",
+   "seats_Democratic": 7,
+   "seats_Republican": 3,
+   "winner": "Democratic",
+   "margin_seats": 4
+  },
+  {
+   "unit": "West Virginia",
+   "code": "WV",
+   "seats_Democratic": 0,
+   "seats_Republican": 3,
+   "winner": "Republican",
+   "margin_seats": 3
+  },
+  {
+   "unit": "Wisconsin",
+   "code": "WI",
+   "seats_Democratic": 3,
+   "seats_Republican": 5,
+   "winner": "Republican",
+   "margin_seats": 2
+  },
+  {
+   "unit": "Wyoming",
+   "code": "WY",
+   "seats_Democratic": 0,
+   "seats_Republican": 1,
+   "winner": "Republican",
+   "margin_seats": 1
+  }
+ ],
+ "national": [
+  {
+   "party": "Democratic",
+   "seats": 235
+  },
+  {
+   "party": "Republican",
+   "seats": 199
+  },
+  {
+   "party": "Other/Pending",
+   "seats": 1
+  }
+ ],
+ "detail": null
+}

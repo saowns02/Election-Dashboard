@@ -1,0 +1,5287 @@
+{
+ "country": "United Kingdom",
+ "key": "uk-ge-2019",
+ "year": 2019,
+ "title": "2019 General Election",
+ "kind": "general",
+ "unit_label": "Constituency",
+ "total_seats": 650,
+ "majority": 326,
+ "seat_label": "Seats",
+ "source": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_2019_United_Kingdom_general_election",
+ "fetched_at": 1795607678.7580252,
+ "notes": [
+  "Each hexagon is one constituency (equal area), so the map reflects seats, not land area."
+ ],
+ "units": [
+  {
+   "unit": "Aberavon",
+   "key": "aberavon",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Stephen Kinnock",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Aberconwy",
+   "key": "aberconwy",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Robin Millar",
+   "notes": "Incumbent, Guto Bebb, did not stand"
+  },
+  {
+   "unit": "Aberdeen North",
+   "key": "aberdeen north",
+   "winner": "SNP",
+   "prev_winner": "SNP",
+   "member": "Kirsty Blackman",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Aberdeen South",
+   "key": "aberdeen south",
+   "winner": "SNP",
+   "prev_winner": "Conservative",
+   "member": "Stephen Flynn",
+   "notes": "Incumbent, Ross Thomson, did not stand"
+  },
+  {
+   "unit": "Airdrie and Shotts",
+   "key": "airdrie and shotts",
+   "winner": "SNP",
+   "prev_winner": "SNP",
+   "member": "Neil Gray",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Aldershot",
+   "key": "aldershot",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Leo Docherty",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Aldridge-Brownhills",
+   "key": "aldridge brownhills",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Wendy Morton",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Altrincham and Sale West",
+   "key": "altrincham and sale west",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Graham Brady",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Alyn and Deeside",
+   "key": "alyn and deeside",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Mark Tami",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Amber Valley",
+   "key": "amber valley",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Nigel Mills",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Angus",
+   "key": "angus",
+   "winner": "SNP",
+   "prev_winner": "Conservative",
+   "member": "Dave Doogan",
+   "notes": "Defeated incumbent, Kirstene Hair"
+  },
+  {
+   "unit": "Arfon",
+   "key": "arfon",
+   "winner": "Plaid Cymru",
+   "prev_winner": "Plaid Cymru",
+   "member": "Hywel Williams",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Argyll and Bute",
+   "key": "argyll and bute",
+   "winner": "SNP",
+   "prev_winner": "SNP",
+   "member": "Brendan O'Hara",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Arundel and South Downs",
+   "key": "arundel and south downs",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Andrew Griffith",
+   "notes": "Incumbent, Nick Herbert, did not stand"
+  },
+  {
+   "unit": "Ashfield",
+   "key": "ashfield",
+   "winner": "Conservative",
+   "prev_winner": "Labour",
+   "member": "Lee Anderson",
+   "notes": "Incumbent, Gloria de Piero, did not stand. Elected as Conservative MP, whip suspended in 2024. Defected to Reform UK on 11 March 2024."
+  },
+  {
+   "unit": "Ashford",
+   "key": "ashford",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Damian Green",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Ashton-under-Lyne",
+   "key": "ashton under lyne",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Angela Rayner",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Aylesbury",
+   "key": "aylesbury",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Rob Butler",
+   "notes": "Incumbent, David Lidington, did not stand"
+  },
+  {
+   "unit": "Ayr, Carrick and Cumnock",
+   "key": "ayr carrick and cumnock",
+   "winner": "SNP",
+   "prev_winner": "Conservative",
+   "member": "Allan Dorans",
+   "notes": "Incumbent, Bill Grant, did not stand"
+  },
+  {
+   "unit": "Banbury",
+   "key": "banbury",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Victoria Prentis",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Banff and Buchan",
+   "key": "banff and buchan",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "David Duguid",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Barking",
+   "key": "barking",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Margaret Hodge",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Barnsley Central",
+   "key": "barnsley central",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Dan Jarvis",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Barnsley East",
+   "key": "barnsley east",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Stephanie Peacock",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Barrow and Furness",
+   "key": "barrow and furness",
+   "winner": "Conservative",
+   "prev_winner": "Independent",
+   "member": "Simon Fell",
+   "notes": "Incumbent, John Woodcock, did not stand"
+  },
+  {
+   "unit": "Basildon and Billericay",
+   "key": "basildon and billericay",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "John Baron",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Basingstoke",
+   "key": "basingstoke",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Maria Miller",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Bassetlaw",
+   "key": "bassetlaw",
+   "winner": "Conservative",
+   "prev_winner": "Vacant",
+   "member": "Brendan Clarke-Smith",
+   "notes": "Incumbent, John Mann, did not stand"
+  },
+  {
+   "unit": "Bath",
+   "key": "bath",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Liberal Democrats",
+   "member": "Wera Hobhouse",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Batley and Spen",
+   "key": "batley and spen",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Tracy Brabin",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Battersea",
+   "key": "battersea",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Marsha de Cordova",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Beaconsfield",
+   "key": "beaconsfield",
+   "winner": "Conservative",
+   "prev_winner": "Independent",
+   "member": "Joy Morrissey",
+   "notes": "Defeated incumbent, Dominic Grieve"
+  },
+  {
+   "unit": "Beckenham",
+   "key": "beckenham",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Bob Stewart",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Bedford",
+   "key": "bedford",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Mohammad Yasin",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Belfast East",
+   "key": "belfast east",
+   "winner": "DUP",
+   "prev_winner": "DUP",
+   "member": "Gavin Robinson",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Belfast North",
+   "key": "belfast north",
+   "winner": "Sinn Féin",
+   "prev_winner": "DUP",
+   "member": "John Finucane",
+   "notes": "Defeated incumbent, Nigel Dodds"
+  },
+  {
+   "unit": "Belfast South",
+   "key": "belfast south",
+   "winner": "SDLP",
+   "prev_winner": "DUP",
+   "member": "Claire Hanna",
+   "notes": "Defeated incumbent, Emma Little-Pengelly"
+  },
+  {
+   "unit": "Belfast West",
+   "key": "belfast west",
+   "winner": "Sinn Féin",
+   "prev_winner": "Sinn Féin",
+   "member": "Paul Maskey",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Bermondsey and Old Southwark",
+   "key": "bermondsey and old southwark",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Neil Coyle",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Berwick-upon-Tweed",
+   "key": "berwick upon tweed",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Anne-Marie Trevelyan",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Berwickshire, Roxburgh and Selkirk",
+   "key": "berwickshire roxburgh and selkirk",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "John Lamont",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Bethnal Green and Bow",
+   "key": "bethnal green and bow",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Rushanara Ali",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Beverley and Holderness",
+   "key": "beverley and holderness",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Graham Stuart",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Bexhill and Battle",
+   "key": "bexhill and battle",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Huw Merriman",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Bexleyheath and Crayford",
+   "key": "bexleyheath and crayford",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "David Evennett",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Birkenhead",
+   "key": "birkenhead",
+   "winner": "Labour",
+   "prev_winner": "Birkenhead Social Justice",
+   "member": "Mick Whitley",
+   "notes": "Defeated incumbent, Frank Field"
+  },
+  {
+   "unit": "Birmingham Edgbaston",
+   "key": "birmingham edgbaston",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Preet Gill",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Birmingham Erdington",
+   "key": "birmingham erdington",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Jack Dromey",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Birmingham Hall Green",
+   "key": "birmingham hall green",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Tahir Ali",
+   "notes": "Defeated incumbent, Roger Godsiff"
+  },
+  {
+   "unit": "Birmingham Hodge Hill",
+   "key": "birmingham hodge hill",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Liam Byrne",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Birmingham Ladywood",
+   "key": "birmingham ladywood",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Shabana Mahmood",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Birmingham Northfield",
+   "key": "birmingham northfield",
+   "winner": "Conservative",
+   "prev_winner": "Labour",
+   "member": "Gary Sambrook",
+   "notes": "Defeated incumbent, Richard Burden"
+  },
+  {
+   "unit": "Birmingham Perry Barr",
+   "key": "birmingham perry barr",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Khalid Mahmood",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Birmingham Selly Oak",
+   "key": "birmingham selly oak",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Steve McCabe",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Birmingham Yardley",
+   "key": "birmingham yardley",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Jess Phillips",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Bishop Auckland",
+   "key": "bishop auckland",
+   "winner": "Conservative",
+   "prev_winner": "Labour",
+   "member": "Dehenna Davison",
+   "notes": "Defeated incumbent, Helen Goodman"
+  },
+  {
+   "unit": "Blackburn",
+   "key": "blackburn",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Kate Hollern",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Blackley and Broughton",
+   "key": "blackley and broughton",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Graham Stringer",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Blackpool North and Cleveleys",
+   "key": "blackpool north and cleveleys",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Paul Maynard",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Blackpool South",
+   "key": "blackpool south",
+   "winner": "Conservative",
+   "prev_winner": "Labour",
+   "member": "Scott Benton",
+   "notes": "Defeated incumbent, Gordon Marsden"
+  },
+  {
+   "unit": "Blaenau Gwent",
+   "key": "blaenau gwent",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Nick Smith",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Blaydon",
+   "key": "blaydon",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Liz Twist",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Blyth Valley",
+   "key": "blyth valley",
+   "winner": "Conservative",
+   "prev_winner": "Labour",
+   "member": "Ian Levy",
+   "notes": "Incumbent, Ronnie Campbell, did not stand"
+  },
+  {
+   "unit": "Bognor Regis and Littlehampton",
+   "key": "bognor regis and littlehampton",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Nick Gibb",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Bolsover",
+   "key": "bolsover",
+   "winner": "Conservative",
+   "prev_winner": "Labour",
+   "member": "Mark Fletcher",
+   "notes": "Defeated incumbent, Dennis Skinner"
+  },
+  {
+   "unit": "Bolton North East",
+   "key": "bolton north east",
+   "winner": "Conservative",
+   "prev_winner": "Labour",
+   "member": "Mark Logan",
+   "notes": "Defeated incumbent, David Crausby"
+  },
+  {
+   "unit": "Bolton South East",
+   "key": "bolton south east",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Yasmin Qureshi",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Bolton West",
+   "key": "bolton west",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Chris Green",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Bootle",
+   "key": "bootle",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Peter Dowd",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Boston and Skegness",
+   "key": "boston and skegness",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Matt Warman",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Bosworth",
+   "key": "bosworth",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Luke Evans",
+   "notes": "Incumbent, David Tredinnick, did not stand"
+  },
+  {
+   "unit": "Bournemouth East",
+   "key": "bournemouth east",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Tobias Ellwood",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Bournemouth West",
+   "key": "bournemouth west",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Conor Burns",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Bracknell",
+   "key": "bracknell",
+   "winner": "Conservative",
+   "prev_winner": "Liberal Democrats",
+   "member": "James Sunderland",
+   "notes": "Incumbent, Phillip Lee, did not stand"
+  },
+  {
+   "unit": "Bradford East",
+   "key": "bradford east",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Imran Hussain",
+   "notes": "Seat held; during term suspended and resigned"
+  },
+  {
+   "unit": "Bradford South",
+   "key": "bradford south",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Judith Cummins",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Bradford West",
+   "key": "bradford west",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Naseem Shah",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Braintree",
+   "key": "braintree",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "James Cleverly",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Brecon and Radnorshire",
+   "key": "brecon and radnorshire",
+   "winner": "Conservative",
+   "prev_winner": "Liberal Democrats",
+   "member": "Fay Jones",
+   "notes": "Defeated incumbent, Jane Dodds"
+  },
+  {
+   "unit": "Brent Central",
+   "key": "brent central",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Dawn Butler",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Brent North",
+   "key": "brent north",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Barry Gardiner",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Brentford and Isleworth",
+   "key": "brentford and isleworth",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Ruth Cadbury",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Brentwood and Ongar",
+   "key": "brentwood and ongar",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Alex Burghart",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Bridgend",
+   "key": "bridgend",
+   "winner": "Conservative",
+   "prev_winner": "Labour",
+   "member": "Jamie Wallis",
+   "notes": "Defeated incumbent, Madeleine Moon"
+  },
+  {
+   "unit": "Bridgwater and West Somerset",
+   "key": "bridgwater and west somerset",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Ian Liddell-Grainger",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Brigg and Goole",
+   "key": "brigg and goole",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Andrew Percy",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Brighton Kemptown",
+   "key": "brighton kemptown",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Lloyd Russell-Moyle",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Brighton Pavilion",
+   "key": "brighton pavilion",
+   "winner": "Green",
+   "prev_winner": "Green",
+   "member": "Caroline Lucas",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Bristol East",
+   "key": "bristol east",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Kerry McCarthy",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Bristol North West",
+   "key": "bristol north west",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Darren Jones",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Bristol South",
+   "key": "bristol south",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Karin Smyth",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Bristol West",
+   "key": "bristol west",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Thangam Debbonaire",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Broadland",
+   "key": "broadland",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Jerome Mayhew",
+   "notes": "Incumbent, Keith Simpson, did not stand"
+  },
+  {
+   "unit": "Bromley and Chislehurst",
+   "key": "bromley and chislehurst",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Bob Neill",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Bromsgrove",
+   "key": "bromsgrove",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Sajid Javid",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Broxbourne",
+   "key": "broxbourne",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Charles Walker",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Broxtowe",
+   "key": "broxtowe",
+   "winner": "Conservative",
+   "prev_winner": "Change UK",
+   "member": "Darren Henry",
+   "notes": "Defeated incumbent, Anna Soubry"
+  },
+  {
+   "unit": "Buckingham",
+   "key": "buckingham",
+   "winner": "Conservative",
+   "prev_winner": "Vacant",
+   "member": "Greg Smith",
+   "notes": "The preceding incumbent, John Bercow, did not stand"
+  },
+  {
+   "unit": "Burnley",
+   "key": "burnley",
+   "winner": "Conservative",
+   "prev_winner": "Labour",
+   "member": "Antony Higginbotham",
+   "notes": "Defeated incumbent, Julie Cooper"
+  },
+  {
+   "unit": "Burton",
+   "key": "burton",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Kate Kniveton",
+   "notes": "Incumbent, Andrew Griffiths, did not stand"
+  },
+  {
+   "unit": "Bury North",
+   "key": "bury north",
+   "winner": "Conservative",
+   "prev_winner": "Labour",
+   "member": "James Daly",
+   "notes": "Defeated incumbent, James Frith"
+  },
+  {
+   "unit": "Bury South",
+   "key": "bury south",
+   "winner": "Conservative",
+   "prev_winner": "Independent",
+   "member": "Christian Wakeford",
+   "notes": "Defeated incumbent, Ivan Lewis"
+  },
+  {
+   "unit": "Bury St Edmunds",
+   "key": "bury st edmunds",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Jo Churchill",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Caerphilly",
+   "key": "caerphilly",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Wayne David",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Caithness, Sutherland and Easter Ross",
+   "key": "caithness sutherland and easter ross",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Liberal Democrats",
+   "member": "Jamie Stone",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Calder Valley",
+   "key": "calder valley",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Craig Whittaker",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Camberwell and Peckham",
+   "key": "camberwell and peckham",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Harriet Harman",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Camborne and Redruth",
+   "key": "camborne and redruth",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "George Eustice",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Cambridge",
+   "key": "cambridge",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Daniel Zeichner",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Cannock Chase",
+   "key": "cannock chase",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Amanda Milling",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Canterbury",
+   "key": "canterbury",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Rosie Duffield",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Cardiff Central",
+   "key": "cardiff central",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Jo Stevens",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Cardiff North",
+   "key": "cardiff north",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Anna McMorrin",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Cardiff South and Penarth",
+   "key": "cardiff south and penarth",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Stephen Doughty",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Cardiff West",
+   "key": "cardiff west",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Kevin Brennan",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Carlisle",
+   "key": "carlisle",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "John Stevenson",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Carmarthen East and Dinefwr",
+   "key": "carmarthen east and dinefwr",
+   "winner": "Plaid Cymru",
+   "prev_winner": "Plaid Cymru",
+   "member": "Jonathan Edwards",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Carmarthen West and South Pembrokeshire",
+   "key": "carmarthen west and south pembrokeshire",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Simon Hart",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Carshalton and Wallington",
+   "key": "carshalton and wallington",
+   "winner": "Conservative",
+   "prev_winner": "Liberal Democrats",
+   "member": "Elliot Colburn",
+   "notes": "Defeated incumbent, Tom Brake"
+  },
+  {
+   "unit": "Castle Point",
+   "key": "castle point",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Rebecca Harris",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Central Ayrshire",
+   "key": "central ayrshire",
+   "winner": "SNP",
+   "prev_winner": "SNP",
+   "member": "Philippa Whitford",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Central Devon",
+   "key": "central devon",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Mel Stride",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Central Suffolk and North Ipswich",
+   "key": "central suffolk and north ipswich",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Dan Poulter",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Ceredigion",
+   "key": "ceredigion",
+   "winner": "Plaid Cymru",
+   "prev_winner": "Plaid Cymru",
+   "member": "Ben Lake",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Charnwood",
+   "key": "charnwood",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Edward Argar",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Chatham and Aylesford",
+   "key": "chatham and aylesford",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Tracey Crouch",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Cheadle",
+   "key": "cheadle",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Mary Robinson",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Chelmsford",
+   "key": "chelmsford",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Vicky Ford",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Chelsea and Fulham",
+   "key": "chelsea and fulham",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Greg Hands",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Cheltenham",
+   "key": "cheltenham",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Alex Chalk",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Chesham and Amersham",
+   "key": "chesham and amersham",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Cheryl Gillan",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Chesterfield",
+   "key": "chesterfield",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Toby Perkins",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Chichester",
+   "key": "chichester",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Gillian Keegan",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Chingford and Woodford Green",
+   "key": "chingford and woodford green",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Iain Duncan Smith",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Chippenham",
+   "key": "chippenham",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Michelle Donelan",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Chipping Barnet",
+   "key": "chipping barnet",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Theresa Villiers",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Chorley",
+   "key": "chorley",
+   "winner": "Speaker",
+   "prev_winner": "Speaker",
+   "member": "Lindsay Hoyle",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Christchurch",
+   "key": "christchurch",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Christopher Chope",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Cities of London and Westminster",
+   "key": "cities of london and westminster",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Nickie Aiken",
+   "notes": "Incumbent, Mark Field, did not stand"
+  },
+  {
+   "unit": "City of Chester",
+   "key": "city of chester",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Chris Matheson",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "City of Durham",
+   "key": "city of durham",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Mary Foy",
+   "notes": "Incumbent, Roberta Blackman-Woods, did not stand"
+  },
+  {
+   "unit": "Clacton",
+   "key": "clacton",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Giles Watling",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Cleethorpes",
+   "key": "cleethorpes",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Martin Vickers",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Clwyd South",
+   "key": "clwyd south",
+   "winner": "Conservative",
+   "prev_winner": "Labour",
+   "member": "Simon Baynes",
+   "notes": "Defeated incumbent, Susan Elan Jones"
+  },
+  {
+   "unit": "Clwyd West",
+   "key": "clwyd west",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "David Jones",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Coatbridge, Chryston and Bellshill",
+   "key": "coatbridge chryston and bellshill",
+   "winner": "SNP",
+   "prev_winner": "Labour",
+   "member": "Steven Bonnar",
+   "notes": "Defeated incumbent, Hugh Gaffney"
+  },
+  {
+   "unit": "Colchester",
+   "key": "colchester",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Will Quince",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Colne Valley",
+   "key": "colne valley",
+   "winner": "Conservative",
+   "prev_winner": "Labour",
+   "member": "Jason McCartney",
+   "notes": "Defeated incumbent, Thelma Walker"
+  },
+  {
+   "unit": "Congleton",
+   "key": "congleton",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Fiona Bruce",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Copeland",
+   "key": "copeland",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Trudy Harrison",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Corby",
+   "key": "corby",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Tom Pursglove",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Coventry North East",
+   "key": "coventry north east",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Colleen Fletcher",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Coventry North West",
+   "key": "coventry north west",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Taiwo Owatemi",
+   "notes": "Incumbent, Geoffrey Robinson, did not stand"
+  },
+  {
+   "unit": "Coventry South",
+   "key": "coventry south",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Zarah Sultana",
+   "notes": "Incumbent, Jim Cunningham, did not stand"
+  },
+  {
+   "unit": "Crawley",
+   "key": "crawley",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Henry Smith",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Crewe and Nantwich",
+   "key": "crewe and nantwich",
+   "winner": "Conservative",
+   "prev_winner": "Labour",
+   "member": "Kieran Mullan",
+   "notes": "Defeated incumbent, Laura Smith"
+  },
+  {
+   "unit": "Croydon Central",
+   "key": "croydon central",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Sarah Jones",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Croydon North",
+   "key": "croydon north",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Steve Reed",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Croydon South",
+   "key": "croydon south",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Chris Philp",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Cumbernauld, Kilsyth and Kirkintilloch East",
+   "key": "cumbernauld kilsyth and kirkintilloch east",
+   "winner": "SNP",
+   "prev_winner": "SNP",
+   "member": "Stuart McDonald",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Cynon Valley",
+   "key": "cynon valley",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Beth Winter",
+   "notes": "Incumbent, Ann Clwyd, did not stand"
+  },
+  {
+   "unit": "Dagenham and Rainham",
+   "key": "dagenham and rainham",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Jon Cruddas",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Darlington",
+   "key": "darlington",
+   "winner": "Conservative",
+   "prev_winner": "Labour",
+   "member": "Peter Gibson",
+   "notes": "Defeated incumbent, Jenny Chapman"
+  },
+  {
+   "unit": "Dartford",
+   "key": "dartford",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Gareth Johnson",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Daventry",
+   "key": "daventry",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Chris Heaton-Harris",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Delyn",
+   "key": "delyn",
+   "winner": "Conservative",
+   "prev_winner": "Labour",
+   "member": "Rob Roberts",
+   "notes": "Defeated incumbent, David Hanson"
+  },
+  {
+   "unit": "Denton and Reddish",
+   "key": "denton and reddish",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Andrew Gwynne",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Derby North",
+   "key": "derby north",
+   "winner": "Conservative",
+   "prev_winner": "Independent",
+   "member": "Amanda Solloway",
+   "notes": "Defeated incumbent, Chris Williamson"
+  },
+  {
+   "unit": "Derby South",
+   "key": "derby south",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Margaret Beckett",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Derbyshire Dales",
+   "key": "derbyshire dales",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Sarah Dines",
+   "notes": "Incumbent, Patrick McLoughlin, did not stand"
+  },
+  {
+   "unit": "Devizes",
+   "key": "devizes",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Danny Kruger",
+   "notes": "Incumbent, Claire Perry, did not stand"
+  },
+  {
+   "unit": "Dewsbury",
+   "key": "dewsbury",
+   "winner": "Conservative",
+   "prev_winner": "Labour",
+   "member": "Mark Eastwood",
+   "notes": "Defeated incumbent, Paula Sherriff"
+  },
+  {
+   "unit": "Don Valley",
+   "key": "don valley",
+   "winner": "Conservative",
+   "prev_winner": "Labour",
+   "member": "Nicholas Fletcher",
+   "notes": "Defeated incumbent, Caroline Flint"
+  },
+  {
+   "unit": "Doncaster Central",
+   "key": "doncaster central",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Rosie Winterton",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Doncaster North",
+   "key": "doncaster north",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Ed Miliband",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Dover",
+   "key": "dover",
+   "winner": "Conservative",
+   "prev_winner": "Independent",
+   "member": "Natalie Elphicke",
+   "notes": "Incumbent, Charlie Elphicke, did not stand"
+  },
+  {
+   "unit": "Dudley North",
+   "key": "dudley north",
+   "winner": "Conservative",
+   "prev_winner": "Independent",
+   "member": "Marco Longhi",
+   "notes": "Incumbent, Ian Austin, did not stand"
+  },
+  {
+   "unit": "Dudley South",
+   "key": "dudley south",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Mike Wood",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Dulwich and West Norwood",
+   "key": "dulwich and west norwood",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Helen Hayes",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Dumfries and Galloway",
+   "key": "dumfries and galloway",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Alister Jack",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Dumfriesshire, Clydesdale and Tweeddale",
+   "key": "dumfriesshire clydesdale and tweeddale",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "David Mundell",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Dundee East",
+   "key": "dundee east",
+   "winner": "SNP",
+   "prev_winner": "SNP",
+   "member": "Stewart Hosie",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Dundee West",
+   "key": "dundee west",
+   "winner": "SNP",
+   "prev_winner": "SNP",
+   "member": "Chris Law",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Dunfermline and West Fife",
+   "key": "dunfermline and west fife",
+   "winner": "SNP",
+   "prev_winner": "SNP",
+   "member": "Douglas Chapman",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Dwyfor Meirionnydd",
+   "key": "dwyfor meirionnydd",
+   "winner": "Plaid Cymru",
+   "prev_winner": "Plaid Cymru",
+   "member": "Liz Saville-Roberts",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Ealing Central and Acton",
+   "key": "ealing central and acton",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Rupa Huq",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Ealing North",
+   "key": "ealing north",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "James Murray",
+   "notes": "Incumbent, Stephen Pound, did not stand"
+  },
+  {
+   "unit": "Ealing Southall",
+   "key": "ealing southall",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Virendra Sharma",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Easington",
+   "key": "easington",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Grahame Morris",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "East Antrim",
+   "key": "east antrim",
+   "winner": "DUP",
+   "prev_winner": "DUP",
+   "member": "Sammy Wilson",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "East Devon",
+   "key": "east devon",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Simon Jupp",
+   "notes": "Incumbent, Hugo Swire, did not stand"
+  },
+  {
+   "unit": "East Dunbartonshire",
+   "key": "east dunbartonshire",
+   "winner": "SNP",
+   "prev_winner": "Liberal Democrats",
+   "member": "Amy Callaghan",
+   "notes": "Defeated incumbent, Jo Swinson"
+  },
+  {
+   "unit": "East Ham",
+   "key": "east ham",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Stephen Timms",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "East Hampshire",
+   "key": "east hampshire",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Damian Hinds",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "East Kilbride, Strathaven and Lesmahagow",
+   "key": "east kilbride strathaven and lesmahagow",
+   "winner": "SNP",
+   "prev_winner": "SNP",
+   "member": "Lisa Cameron",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "East Londonderry",
+   "key": "east londonderry",
+   "winner": "DUP",
+   "prev_winner": "DUP",
+   "member": "Gregory Campbell",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "East Lothian",
+   "key": "east lothian",
+   "winner": "SNP",
+   "prev_winner": "Labour",
+   "member": "Kenny MacAskill",
+   "notes": "Defeated incumbent, Martin Whitfield"
+  },
+  {
+   "unit": "East Renfrewshire",
+   "key": "east renfrewshire",
+   "winner": "SNP",
+   "prev_winner": "Conservative",
+   "member": "Kirsten Oswald",
+   "notes": "Defeated incumbent, Paul Masterton"
+  },
+  {
+   "unit": "East Surrey",
+   "key": "east surrey",
+   "winner": "Conservative",
+   "prev_winner": "Liberal Democrats",
+   "member": "Claire Coutinho",
+   "notes": "Incumbent, Sam Gyimah, did not stand"
+  },
+  {
+   "unit": "East Worthing and Shoreham",
+   "key": "east worthing and shoreham",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Tim Loughton",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "East Yorkshire",
+   "key": "east yorkshire",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Greg Knight",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Eastbourne",
+   "key": "eastbourne",
+   "winner": "Conservative",
+   "prev_winner": "Liberal Democrats",
+   "member": "Caroline Ansell",
+   "notes": "Defeated incumbent, Stephen Lloyd"
+  },
+  {
+   "unit": "Eastleigh",
+   "key": "eastleigh",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Paul Holmes",
+   "notes": "Incumbent, Mims Davies, stood for Mid Sussex"
+  },
+  {
+   "unit": "Eddisbury",
+   "key": "eddisbury",
+   "winner": "Conservative",
+   "prev_winner": "Liberal Democrats",
+   "member": "Edward Timpson",
+   "notes": "Defeated incumbent, Antoinette Sandbach"
+  },
+  {
+   "unit": "Edinburgh East",
+   "key": "edinburgh east",
+   "winner": "SNP",
+   "prev_winner": "SNP",
+   "member": "Tommy Sheppard",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Edinburgh North and Leith",
+   "key": "edinburgh north and leith",
+   "winner": "SNP",
+   "prev_winner": "SNP",
+   "member": "Deidre Brock",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Edinburgh South",
+   "key": "edinburgh south",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Ian Murray",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Edinburgh South West",
+   "key": "edinburgh south west",
+   "winner": "SNP",
+   "prev_winner": "SNP",
+   "member": "Joanna Cherry",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Edinburgh West",
+   "key": "edinburgh west",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Liberal Democrats",
+   "member": "Christine Jardine",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Edmonton",
+   "key": "edmonton",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Kate Osamor",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Ellesmere Port and Neston",
+   "key": "ellesmere port and neston",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Justin Madders",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Elmet and Rothwell",
+   "key": "elmet and rothwell",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Alec Shelbrooke",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Eltham",
+   "key": "eltham",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Clive Efford",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Enfield North",
+   "key": "enfield north",
+   "winner": "Labour",
+   "prev_winner": "Change UK",
+   "member": "Feryal Clark",
+   "notes": "Incumbent, Joan Ryan, did not stand"
+  },
+  {
+   "unit": "Enfield Southgate",
+   "key": "enfield southgate",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Bambos Charalambous",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Epping Forest",
+   "key": "epping forest",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Eleanor Laing",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Epsom and Ewell",
+   "key": "epsom and ewell",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Chris Grayling",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Erewash",
+   "key": "erewash",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Maggie Throup",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Erith and Thamesmead",
+   "key": "erith and thamesmead",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Abena Oppong-Asare",
+   "notes": "Incumbent, Teresa Pearce, did not stand"
+  },
+  {
+   "unit": "Esher and Walton",
+   "key": "esher and walton",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Dominic Raab",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Exeter",
+   "key": "exeter",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Ben Bradshaw",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Falkirk",
+   "key": "falkirk",
+   "winner": "SNP",
+   "prev_winner": "SNP",
+   "member": "John McNally",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Fareham",
+   "key": "fareham",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Suella Braverman",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Faversham and Mid Kent",
+   "key": "faversham and mid kent",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Helen Whately",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Feltham and Heston",
+   "key": "feltham and heston",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Seema Malhotra",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Fermanagh and South Tyrone",
+   "key": "fermanagh and south tyrone",
+   "winner": "Sinn Féin",
+   "prev_winner": "Sinn Féin",
+   "member": "Michelle Gildernew",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Filton and Bradley Stoke",
+   "key": "filton and bradley stoke",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Jack Lopresti",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Finchley and Golders Green",
+   "key": "finchley and golders green",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Mike Freer",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Folkestone and Hythe",
+   "key": "folkestone and hythe",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Damian Collins",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Forest of Dean",
+   "key": "forest of dean",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Mark Harper",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Foyle",
+   "key": "foyle",
+   "winner": "SDLP",
+   "prev_winner": "Sinn Féin",
+   "member": "Colum Eastwood",
+   "notes": "Defeated incumbent, Elisha McCallion"
+  },
+  {
+   "unit": "Fylde",
+   "key": "fylde",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Mark Menzies",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Gainsborough",
+   "key": "gainsborough",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Edward Leigh",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Garston and Halewood",
+   "key": "garston and halewood",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Maria Eagle",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Gateshead",
+   "key": "gateshead",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Ian Mearns",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Gedling",
+   "key": "gedling",
+   "winner": "Conservative",
+   "prev_winner": "Labour",
+   "member": "Tom Randall",
+   "notes": "Defeated incumbent, Vernon Coaker"
+  },
+  {
+   "unit": "Gillingham and Rainham",
+   "key": "gillingham and rainham",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Rehman Chishti",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Glasgow Central",
+   "key": "glasgow central",
+   "winner": "SNP",
+   "prev_winner": "SNP",
+   "member": "Alison Thewliss",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Glasgow East",
+   "key": "glasgow east",
+   "winner": "SNP",
+   "prev_winner": "SNP",
+   "member": "David Linden",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Glasgow North",
+   "key": "glasgow north",
+   "winner": "SNP",
+   "prev_winner": "SNP",
+   "member": "Patrick Grady",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Glasgow North East",
+   "key": "glasgow north east",
+   "winner": "SNP",
+   "prev_winner": "Labour",
+   "member": "Anne McLaughlin",
+   "notes": "Defeated incumbent, Paul Sweeney"
+  },
+  {
+   "unit": "Glasgow North West",
+   "key": "glasgow north west",
+   "winner": "SNP",
+   "prev_winner": "SNP",
+   "member": "Carol Monaghan",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Glasgow South",
+   "key": "glasgow south",
+   "winner": "SNP",
+   "prev_winner": "SNP",
+   "member": "Stewart McDonald",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Glasgow South West",
+   "key": "glasgow south west",
+   "winner": "SNP",
+   "prev_winner": "SNP",
+   "member": "Chris Stephens",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Glenrothes",
+   "key": "glenrothes",
+   "winner": "SNP",
+   "prev_winner": "SNP",
+   "member": "Peter Grant",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Gloucester",
+   "key": "gloucester",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Richard Graham",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Gordon",
+   "key": "gordon",
+   "winner": "SNP",
+   "prev_winner": "Conservative",
+   "member": "Richard Thomson",
+   "notes": "Defeated incumbent, Colin Clark"
+  },
+  {
+   "unit": "Gosport",
+   "key": "gosport",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Caroline Dinenage",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Gower",
+   "key": "gower",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Tonia Antoniazzi",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Grantham and Stamford",
+   "key": "grantham and stamford",
+   "winner": "Conservative",
+   "prev_winner": "Independent",
+   "member": "Gareth Davies",
+   "notes": "Incumbent, Nick Boles, did not stand"
+  },
+  {
+   "unit": "Gravesham",
+   "key": "gravesham",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Adam Holloway",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Great Grimsby",
+   "key": "great grimsby",
+   "winner": "Conservative",
+   "prev_winner": "Labour",
+   "member": "Lia Nici",
+   "notes": "Defeated incumbent, Melanie Onn"
+  },
+  {
+   "unit": "Great Yarmouth",
+   "key": "great yarmouth",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Brandon Lewis",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Greenwich and Woolwich",
+   "key": "greenwich and woolwich",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Matthew Pennycook",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Guildford",
+   "key": "guildford",
+   "winner": "Conservative",
+   "prev_winner": "Independent",
+   "member": "Angela Richardson",
+   "notes": "Defeated incumbent, Anne Milton"
+  },
+  {
+   "unit": "Hackney North and Stoke Newington",
+   "key": "hackney north and stoke newington",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Diane Abbott",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Hackney South and Shoreditch",
+   "key": "hackney south and shoreditch",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Meg Hillier",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Halesowen and Rowley Regis",
+   "key": "halesowen and rowley regis",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "James Morris",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Halifax",
+   "key": "halifax",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Holly Lynch",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Haltemprice and Howden",
+   "key": "haltemprice and howden",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "David Davis",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Halton",
+   "key": "halton",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Derek Twigg",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Hammersmith",
+   "key": "hammersmith",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Andrew Slaughter",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Hampstead and Kilburn",
+   "key": "hampstead and kilburn",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Tulip Siddiq",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Harborough",
+   "key": "harborough",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Neil O'Brien",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Harlow",
+   "key": "harlow",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Robert Halfon",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Harrogate and Knaresborough",
+   "key": "harrogate and knaresborough",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Andrew Jones",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Harrow East",
+   "key": "harrow east",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Bob Blackman",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Harrow West",
+   "key": "harrow west",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Gareth Thomas",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Hartlepool",
+   "key": "hartlepool",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Mike Hill",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Harwich and North Essex",
+   "key": "harwich and north essex",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Bernard Jenkin",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Hastings and Rye",
+   "key": "hastings and rye",
+   "winner": "Conservative",
+   "prev_winner": "Independent",
+   "member": "Sally-Ann Hart",
+   "notes": "Incumbent, Amber Rudd, did not stand"
+  },
+  {
+   "unit": "Havant",
+   "key": "havant",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Alan Mak",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Hayes and Harlington",
+   "key": "hayes and harlington",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "John McDonnell",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Hazel Grove",
+   "key": "hazel grove",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "William Wragg",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Hemel Hempstead",
+   "key": "hemel hempstead",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Mike Penning",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Hemsworth",
+   "key": "hemsworth",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Jon Trickett",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Hendon",
+   "key": "hendon",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Matthew Offord",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Henley",
+   "key": "henley",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "John Howell",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Hereford and South Herefordshire",
+   "key": "hereford and south herefordshire",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Jesse Norman",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Hertford and Stortford",
+   "key": "hertford and stortford",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Julie Marson",
+   "notes": "Incumbent, Mark Prisk, did not stand"
+  },
+  {
+   "unit": "Hertsmere",
+   "key": "hertsmere",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Oliver Dowden",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Hexham",
+   "key": "hexham",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Guy Opperman",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Heywood and Middleton",
+   "key": "heywood and middleton",
+   "winner": "Conservative",
+   "prev_winner": "Labour",
+   "member": "Chris Clarkson",
+   "notes": "Defeated incumbent, Liz McInnes"
+  },
+  {
+   "unit": "High Peak",
+   "key": "high peak",
+   "winner": "Conservative",
+   "prev_winner": "Labour",
+   "member": "Robert Largan",
+   "notes": "Defeated incumbent, Ruth George"
+  },
+  {
+   "unit": "Hitchin and Harpenden",
+   "key": "hitchin and harpenden",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Bim Afolami",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Holborn and St Pancras",
+   "key": "holborn and st pancras",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Keir Starmer",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Hornchurch and Upminster",
+   "key": "hornchurch and upminster",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Julia Lopez",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Hornsey and Wood Green",
+   "key": "hornsey and wood green",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Catherine West",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Horsham",
+   "key": "horsham",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Jeremy Quin",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Houghton and Sunderland South",
+   "key": "houghton and sunderland south",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Bridget Phillipson",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Hove",
+   "key": "hove",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Peter Kyle",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Huddersfield",
+   "key": "huddersfield",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Barry Sheerman",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Huntingdon",
+   "key": "huntingdon",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Jonathan Djanogly",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Hyndburn",
+   "key": "hyndburn",
+   "winner": "Conservative",
+   "prev_winner": "Labour",
+   "member": "Sara Britcliffe",
+   "notes": "Defeated incumbent, Graham Jones"
+  },
+  {
+   "unit": "Ilford North",
+   "key": "ilford north",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Wes Streeting",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Ilford South",
+   "key": "ilford south",
+   "winner": "Labour",
+   "prev_winner": "Change UK",
+   "member": "Sam Tarry",
+   "notes": "Defeated incumbent, Mike Gapes"
+  },
+  {
+   "unit": "Inverclyde",
+   "key": "inverclyde",
+   "winner": "SNP",
+   "prev_winner": "SNP",
+   "member": "Ronnie Cowan",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Inverness, Nairn, Badenoch and Strathspey",
+   "key": "inverness nairn badenoch and strathspey",
+   "winner": "SNP",
+   "prev_winner": "SNP",
+   "member": "Drew Hendry",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Ipswich",
+   "key": "ipswich",
+   "winner": "Conservative",
+   "prev_winner": "Labour",
+   "member": "Tom Hunt",
+   "notes": "Defeated incumbent, Sandy Martin"
+  },
+  {
+   "unit": "Isle of Wight",
+   "key": "isle of wight",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Bob Seely",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Islington North",
+   "key": "islington north",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Jeremy Corbyn",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Islington South and Finsbury",
+   "key": "islington south and finsbury",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Emily Thornberry",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Islwyn",
+   "key": "islwyn",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Chris Evans",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Jarrow",
+   "key": "jarrow",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Kate Osborne",
+   "notes": "Incumbent, Stephen Hepburn, did not stand"
+  },
+  {
+   "unit": "Keighley",
+   "key": "keighley",
+   "winner": "Conservative",
+   "prev_winner": "Labour",
+   "member": "Robbie Moore",
+   "notes": "Defeated incumbent, John Grogan"
+  },
+  {
+   "unit": "Kenilworth and Southam",
+   "key": "kenilworth and southam",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Jeremy Wright",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Kensington",
+   "key": "kensington",
+   "winner": "Conservative",
+   "prev_winner": "Labour",
+   "member": "Felicity Buchan",
+   "notes": "Defeated incumbent, Emma Dent Coad"
+  },
+  {
+   "unit": "Kettering",
+   "key": "kettering",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Philip Hollobone",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Kilmarnock and Loudoun",
+   "key": "kilmarnock and loudoun",
+   "winner": "SNP",
+   "prev_winner": "SNP",
+   "member": "Alan Brown",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Kingston and Surbiton",
+   "key": "kingston and surbiton",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Liberal Democrats",
+   "member": "Edward Davey",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Kingston upon Hull East",
+   "key": "kingston upon hull east",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Karl Turner",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Kingston upon Hull North",
+   "key": "kingston upon hull north",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Diana Johnson",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Kingston upon Hull West and Hessle",
+   "key": "kingston upon hull west and hessle",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Emma Hardy",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Kingswood",
+   "key": "kingswood",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Chris Skidmore",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Kirkcaldy and Cowdenbeath",
+   "key": "kirkcaldy and cowdenbeath",
+   "winner": "SNP",
+   "prev_winner": "Labour",
+   "member": "Neale Hanvey",
+   "notes": "Defeated incumbent, Lesley Laird"
+  },
+  {
+   "unit": "Knowsley",
+   "key": "knowsley",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "George Howarth",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Lagan Valley",
+   "key": "lagan valley",
+   "winner": "DUP",
+   "prev_winner": "DUP",
+   "member": "Jeffrey Donaldson",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Lanark and Hamilton East",
+   "key": "lanark and hamilton east",
+   "winner": "SNP",
+   "prev_winner": "SNP",
+   "member": "Angela Crawley",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Lancaster and Fleetwood",
+   "key": "lancaster and fleetwood",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Cat Smith",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Leeds Central",
+   "key": "leeds central",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Hilary Benn",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Leeds East",
+   "key": "leeds east",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Richard Burgon",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Leeds North East",
+   "key": "leeds north east",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Fabian Hamilton",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Leeds North West",
+   "key": "leeds north west",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Alex Sobel",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Leeds West",
+   "key": "leeds west",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Rachel Reeves",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Leicester East",
+   "key": "leicester east",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Claudia Webbe",
+   "notes": "Incumbent, Keith Vaz, did not stand"
+  },
+  {
+   "unit": "Leicester South",
+   "key": "leicester south",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Jon Ashworth",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Leicester West",
+   "key": "leicester west",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Liz Kendall",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Leigh",
+   "key": "leigh",
+   "winner": "Conservative",
+   "prev_winner": "Labour",
+   "member": "James Grundy",
+   "notes": "Defeated incumbent, Joanne Platt"
+  },
+  {
+   "unit": "Lewes",
+   "key": "lewes",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Maria Caulfield",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Lewisham East",
+   "key": "lewisham east",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Janet Daby",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Lewisham West and Penge",
+   "key": "lewisham west and penge",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Ellie Reeves",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Lewisham Deptford",
+   "key": "lewisham deptford",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Vicky Foxcroft",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Leyton and Wanstead",
+   "key": "leyton and wanstead",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "John Cryer",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Lichfield",
+   "key": "lichfield",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Michael Fabricant",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Lincoln",
+   "key": "lincoln",
+   "winner": "Conservative",
+   "prev_winner": "Labour",
+   "member": "Karl McCartney",
+   "notes": "Defeated incumbent, Karen Lee"
+  },
+  {
+   "unit": "Linlithgow and East Falkirk",
+   "key": "linlithgow and east falkirk",
+   "winner": "SNP",
+   "prev_winner": "SNP",
+   "member": "Martyn Day",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Liverpool Riverside",
+   "key": "liverpool riverside",
+   "winner": "Labour",
+   "prev_winner": "Independent",
+   "member": "Kim Johnson",
+   "notes": "Incumbent, Louise Ellman, did not stand"
+  },
+  {
+   "unit": "Liverpool Walton",
+   "key": "liverpool walton",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Dan Carden",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Liverpool Wavertree",
+   "key": "liverpool wavertree",
+   "winner": "Labour",
+   "prev_winner": "Liberal Democrats",
+   "member": "Paula Barker",
+   "notes": "Incumbent, Luciana Berger, did not stand"
+  },
+  {
+   "unit": "Liverpool West Derby",
+   "key": "liverpool west derby",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Ian Byrne",
+   "notes": "Incumbent, Stephen Twigg, did not stand"
+  },
+  {
+   "unit": "Livingston",
+   "key": "livingston",
+   "winner": "SNP",
+   "prev_winner": "SNP",
+   "member": "Hannah Bardell",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Llanelli",
+   "key": "llanelli",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Nia Griffith",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Loughborough",
+   "key": "loughborough",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Jane Hunt",
+   "notes": "Incumbent, Nicky Morgan, did not stand"
+  },
+  {
+   "unit": "Louth and Horncastle",
+   "key": "louth and horncastle",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Victoria Atkins",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Ludlow",
+   "key": "ludlow",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Philip Dunne",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Luton North",
+   "key": "luton north",
+   "winner": "Labour",
+   "prev_winner": "Independent",
+   "member": "Sarah Owen",
+   "notes": "Incumbent, Kelvin Hopkins, did not stand"
+  },
+  {
+   "unit": "Luton South",
+   "key": "luton south",
+   "winner": "Labour",
+   "prev_winner": "Independent",
+   "member": "Rachel Hopkins",
+   "notes": "Defeated incumbent, Gavin Shuker"
+  },
+  {
+   "unit": "Macclesfield",
+   "key": "macclesfield",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "David Rutley",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Maidenhead",
+   "key": "maidenhead",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Theresa May",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Maidstone and The Weald",
+   "key": "maidstone and the weald",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Helen Grant",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Makerfield",
+   "key": "makerfield",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Yvonne Fovargue",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Maldon",
+   "key": "maldon",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "John Whittingdale",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Manchester Central",
+   "key": "manchester central",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Lucy Powell",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Manchester Gorton",
+   "key": "manchester gorton",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Afzal Khan",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Manchester Withington",
+   "key": "manchester withington",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Jeff Smith",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Mansfield",
+   "key": "mansfield",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Ben Bradley",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Meon Valley",
+   "key": "meon valley",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Flick Drummond",
+   "notes": "Incumbent, George Hollingbery, did not stand"
+  },
+  {
+   "unit": "Meriden",
+   "key": "meriden",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Saqib Bhatti",
+   "notes": "Incumbent, Caroline Spelman, did not stand"
+  },
+  {
+   "unit": "Merthyr Tydfil and Rhymney",
+   "key": "merthyr tydfil and rhymney",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Gerald Jones",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Mid Bedfordshire",
+   "key": "mid bedfordshire",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Nadine Dorries",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Mid Derbyshire",
+   "key": "mid derbyshire",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Pauline Latham",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Mid Dorset and North Poole",
+   "key": "mid dorset and north poole",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Michael Tomlinson",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Mid Norfolk",
+   "key": "mid norfolk",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "George Freeman",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Mid Sussex",
+   "key": "mid sussex",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Mims Davies",
+   "notes": "Incumbent, Nicholas Soames, did not stand. Davies was previously MP for Eastleigh"
+  },
+  {
+   "unit": "Mid Ulster",
+   "key": "mid ulster",
+   "winner": "Sinn Féin",
+   "prev_winner": "Sinn Féin",
+   "member": "Francie Molloy",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Mid Worcestershire",
+   "key": "mid worcestershire",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Nigel Huddleston",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Middlesbrough",
+   "key": "middlesbrough",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Andy McDonald",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Middlesbrough South and East Cleveland",
+   "key": "middlesbrough south and east cleveland",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Simon Clarke",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Midlothian",
+   "key": "midlothian",
+   "winner": "SNP",
+   "prev_winner": "Labour",
+   "member": "Owen Thompson",
+   "notes": "Defeated incumbent, Danielle Rowley"
+  },
+  {
+   "unit": "Milton Keynes North",
+   "key": "milton keynes north",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Ben Everitt",
+   "notes": "Incumbent, Mark Lancaster, did not stand"
+  },
+  {
+   "unit": "Milton Keynes South",
+   "key": "milton keynes south",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Iain Stewart",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Mitcham and Morden",
+   "key": "mitcham and morden",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Siobhain McDonagh",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Mole Valley",
+   "key": "mole valley",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Paul Beresford",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Monmouth",
+   "key": "monmouth",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "David Davies",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Montgomeryshire",
+   "key": "montgomeryshire",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Craig Williams",
+   "notes": "Incumbent, Glyn Davies, did not stand"
+  },
+  {
+   "unit": "Moray",
+   "key": "moray",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Douglas Ross",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Morecambe and Lunesdale",
+   "key": "morecambe and lunesdale",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "David Morris",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Morley and Outwood",
+   "key": "morley and outwood",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Andrea Jenkyns",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Motherwell and Wishaw",
+   "key": "motherwell and wishaw",
+   "winner": "SNP",
+   "prev_winner": "SNP",
+   "member": "Marion Fellows",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Na h-Eileanan an Iar",
+   "key": "na h eileanan an iar",
+   "winner": "SNP",
+   "prev_winner": "SNP",
+   "member": "Angus MacNeil",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Neath",
+   "key": "neath",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Christina Rees",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "New Forest East",
+   "key": "new forest east",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Julian Lewis",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "New Forest West",
+   "key": "new forest west",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Desmond Swayne",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Newark",
+   "key": "newark",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Robert Jenrick",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Newbury",
+   "key": "newbury",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Laura Farris",
+   "notes": "Incumbent, Richard Benyon, did not stand"
+  },
+  {
+   "unit": "Newcastle upon Tyne Central",
+   "key": "newcastle upon tyne central",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Chi Onwurah",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Newcastle upon Tyne East",
+   "key": "newcastle upon tyne east",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Nick Brown",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Newcastle upon Tyne North",
+   "key": "newcastle upon tyne north",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Catherine McKinnell",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Newcastle-under-Lyme",
+   "key": "newcastle under lyme",
+   "winner": "Conservative",
+   "prev_winner": "Labour",
+   "member": "Aaron Bell",
+   "notes": "Incumbent, Paul Farrelly, did not stand"
+  },
+  {
+   "unit": "Newport East",
+   "key": "newport east",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Jessica Morden",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Newport West",
+   "key": "newport west",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Ruth Jones",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Newry and Armagh",
+   "key": "newry and armagh",
+   "winner": "Sinn Féin",
+   "prev_winner": "Sinn Féin",
+   "member": "Mickey Brady",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Newton Abbot",
+   "key": "newton abbot",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Anne Marie Morris",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Normanton, Pontefract and Castleford",
+   "key": "normanton pontefract and castleford",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Yvette Cooper",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "North Antrim",
+   "key": "north antrim",
+   "winner": "DUP",
+   "prev_winner": "DUP",
+   "member": "Ian Paisley",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "North Ayrshire and Arran",
+   "key": "north ayrshire and arran",
+   "winner": "SNP",
+   "prev_winner": "SNP",
+   "member": "Patricia Gibson",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "North Cornwall",
+   "key": "north cornwall",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Scott Mann",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "North Devon",
+   "key": "north devon",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Selaine Saxby",
+   "notes": "Incumbent, Peter Heaton-Jones, did not stand"
+  },
+  {
+   "unit": "North Dorset",
+   "key": "north dorset",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Simon Hoare",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "North Down",
+   "key": "north down",
+   "winner": "Alliance",
+   "prev_winner": "Independent",
+   "member": "Stephen Farry",
+   "notes": "Incumbent, Sylvia Hermon, did not stand"
+  },
+  {
+   "unit": "North Durham",
+   "key": "north durham",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Kevan Jones",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "North East Bedfordshire",
+   "key": "north east bedfordshire",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Richard Fuller",
+   "notes": "Incumbent, Alistair Burt, did not stand"
+  },
+  {
+   "unit": "North East Cambridgeshire",
+   "key": "north east cambridgeshire",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Steve Barclay",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "North East Derbyshire",
+   "key": "north east derbyshire",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Lee Rowley",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "North East Fife",
+   "key": "north east fife",
+   "winner": "Liberal Democrats",
+   "prev_winner": "SNP",
+   "member": "Wendy Chamberlain",
+   "notes": "Defeated incumbent, Stephen Gethins"
+  },
+  {
+   "unit": "North East Hampshire",
+   "key": "north east hampshire",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Ranil Jayawardena",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "North East Hertfordshire",
+   "key": "north east hertfordshire",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Oliver Heald",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "North East Somerset",
+   "key": "north east somerset",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Jacob Rees-Mogg",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "North Herefordshire",
+   "key": "north herefordshire",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Bill Wiggin",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "North Norfolk",
+   "key": "north norfolk",
+   "winner": "Conservative",
+   "prev_winner": "Liberal Democrats",
+   "member": "Duncan Baker",
+   "notes": "Incumbent, Norman Lamb, did not stand"
+  },
+  {
+   "unit": "North Shropshire",
+   "key": "north shropshire",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Owen Paterson",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "North Somerset",
+   "key": "north somerset",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Liam Fox",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "North Swindon",
+   "key": "north swindon",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Justin Tomlinson",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "North Thanet",
+   "key": "north thanet",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Roger Gale",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "North Tyneside",
+   "key": "north tyneside",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Mary Glindon",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "North Warwickshire",
+   "key": "north warwickshire",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Craig Tracey",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "North West Cambridgeshire",
+   "key": "north west cambridgeshire",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Shailesh Vara",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "North West Durham",
+   "key": "north west durham",
+   "winner": "Conservative",
+   "prev_winner": "Labour",
+   "member": "Richard Holden",
+   "notes": "Defeated incumbent, Laura Pidcock"
+  },
+  {
+   "unit": "North West Hampshire",
+   "key": "north west hampshire",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Kit Malthouse",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "North West Leicestershire",
+   "key": "north west leicestershire",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Andrew Bridgen",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "North West Norfolk",
+   "key": "north west norfolk",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "James Wild",
+   "notes": "Incumbent, Henry Bellingham, did not stand"
+  },
+  {
+   "unit": "North Wiltshire",
+   "key": "north wiltshire",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "James Gray",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Northampton North",
+   "key": "northampton north",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Michael Ellis",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Northampton South",
+   "key": "northampton south",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Andrew Lewer",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Norwich North",
+   "key": "norwich north",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Chloe Smith",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Norwich South",
+   "key": "norwich south",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Clive Lewis",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Nottingham East",
+   "key": "nottingham east",
+   "winner": "Labour",
+   "prev_winner": "Change UK",
+   "member": "Nadia Whittome",
+   "notes": "Defeated incumbent, Chris Leslie"
+  },
+  {
+   "unit": "Nottingham North",
+   "key": "nottingham north",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Alex Norris",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Nottingham South",
+   "key": "nottingham south",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Lilian Greenwood",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Nuneaton",
+   "key": "nuneaton",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Marcus Jones",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Ochil and South Perthshire",
+   "key": "ochil and south perthshire",
+   "winner": "SNP",
+   "prev_winner": "Conservative",
+   "member": "John Nicolson",
+   "notes": "Defeated incumbent, Luke Graham"
+  },
+  {
+   "unit": "Ogmore",
+   "key": "ogmore",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Chris Elmore",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Old Bexley and Sidcup",
+   "key": "old bexley and sidcup",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "James Brokenshire",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Oldham East and Saddleworth",
+   "key": "oldham east and saddleworth",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Debbie Abrahams",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Oldham West and Royton",
+   "key": "oldham west and royton",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Jim McMahon",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Orkney and Shetland",
+   "key": "orkney and shetland",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Liberal Democrats",
+   "member": "Alistair Carmichael",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Orpington",
+   "key": "orpington",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Gareth Bacon",
+   "notes": "Incumbent, Jo Johnson, did not stand"
+  },
+  {
+   "unit": "Oxford East",
+   "key": "oxford east",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Anneliese Dodds",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Oxford West and Abingdon",
+   "key": "oxford west and abingdon",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Liberal Democrats",
+   "member": "Layla Moran",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Paisley and Renfrewshire North",
+   "key": "paisley and renfrewshire north",
+   "winner": "SNP",
+   "prev_winner": "SNP",
+   "member": "Gavin Newlands",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Paisley and Renfrewshire South",
+   "key": "paisley and renfrewshire south",
+   "winner": "SNP",
+   "prev_winner": "SNP",
+   "member": "Mhairi Black",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Pendle",
+   "key": "pendle",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Andrew Stephenson",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Penistone and Stocksbridge",
+   "key": "penistone and stocksbridge",
+   "winner": "Conservative",
+   "prev_winner": "Liberal Democrats",
+   "member": "Miriam Cates",
+   "notes": "Incumbent, Angela Smith, did not stand"
+  },
+  {
+   "unit": "Penrith and The Border",
+   "key": "penrith and the border",
+   "winner": "Conservative",
+   "prev_winner": "Independent",
+   "member": "Neil Hudson",
+   "notes": "Incumbent, Rory Stewart, did not stand"
+  },
+  {
+   "unit": "Perth and North Perthshire",
+   "key": "perth and north perthshire",
+   "winner": "SNP",
+   "prev_winner": "SNP",
+   "member": "Pete Wishart",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Peterborough",
+   "key": "peterborough",
+   "winner": "Conservative",
+   "prev_winner": "Labour",
+   "member": "Paul Bristow",
+   "notes": "Defeated incumbent, Lisa Forbes"
+  },
+  {
+   "unit": "Plymouth Moor View",
+   "key": "plymouth moor view",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Johnny Mercer",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Plymouth Sutton and Devonport",
+   "key": "plymouth sutton and devonport",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Luke Pollard",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Pontypridd",
+   "key": "pontypridd",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Alex Davies-Jones",
+   "notes": "Incumbent, Owen Smith, did not stand"
+  },
+  {
+   "unit": "Poole",
+   "key": "poole",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Robert Syms",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Poplar and Limehouse",
+   "key": "poplar and limehouse",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Apsana Begum",
+   "notes": "Incumbent, Jim Fitzpatrick, did not stand"
+  },
+  {
+   "unit": "Portsmouth North",
+   "key": "portsmouth north",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Penny Mordaunt",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Portsmouth South",
+   "key": "portsmouth south",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Stephen Morgan",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Preseli Pembrokeshire",
+   "key": "preseli pembrokeshire",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Stephen Crabb",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Preston",
+   "key": "preston",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Mark Hendrick",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Pudsey",
+   "key": "pudsey",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Stuart Andrew",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Putney",
+   "key": "putney",
+   "winner": "Labour",
+   "prev_winner": "Independent",
+   "member": "Fleur Anderson",
+   "notes": "Incumbent, Justine Greening, did not stand"
+  },
+  {
+   "unit": "Rayleigh and Wickford",
+   "key": "rayleigh and wickford",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Mark Francois",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Reading East",
+   "key": "reading east",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Matt Rodda",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Reading West",
+   "key": "reading west",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Alok Sharma",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Redcar",
+   "key": "redcar",
+   "winner": "Conservative",
+   "prev_winner": "Labour",
+   "member": "Jacob Young",
+   "notes": "Defeated incumbent, Anna Turley"
+  },
+  {
+   "unit": "Redditch",
+   "key": "redditch",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Rachel Maclean",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Reigate",
+   "key": "reigate",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Crispin Blunt",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Rhondda",
+   "key": "rhondda",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Chris Bryant",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Ribble Valley",
+   "key": "ribble valley",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Nigel Evans",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Richmond (Yorks)",
+   "key": "richmond",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Rishi Sunak",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Richmond Park",
+   "key": "richmond park",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "Sarah Olney",
+   "notes": "Defeated incumbent, Zac Goldsmith"
+  },
+  {
+   "unit": "Rochdale",
+   "key": "rochdale",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Tony Lloyd",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Rochester and Strood",
+   "key": "rochester and strood",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Kelly Tolhurst",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Rochford and Southend East",
+   "key": "rochford and southend east",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "James Duddridge",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Romford",
+   "key": "romford",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Andrew Rosindell",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Romsey and Southampton North",
+   "key": "romsey and southampton north",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Caroline Nokes",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Ross, Skye and Lochaber",
+   "key": "ross skye and lochaber",
+   "winner": "SNP",
+   "prev_winner": "SNP",
+   "member": "Ian Blackford",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Rossendale and Darwen",
+   "key": "rossendale and darwen",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Jake Berry",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Rother Valley",
+   "key": "rother valley",
+   "winner": "Conservative",
+   "prev_winner": "Labour",
+   "member": "Alexander Stafford",
+   "notes": "Incumbent, Kevin Barron, did not stand"
+  },
+  {
+   "unit": "Rotherham",
+   "key": "rotherham",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Sarah Champion",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Rugby",
+   "key": "rugby",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Mark Pawsey",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Ruislip, Northwood and Pinner",
+   "key": "ruislip northwood and pinner",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "David Simmonds",
+   "notes": "Incumbent, Nick Hurd, did not stand"
+  },
+  {
+   "unit": "Runnymede and Weybridge",
+   "key": "runnymede and weybridge",
+   "winner": "Conservative",
+   "prev_winner": "Independent",
+   "member": "Ben Spencer",
+   "notes": "Incumbent, Philip Hammond, did not stand"
+  },
+  {
+   "unit": "Rushcliffe",
+   "key": "rushcliffe",
+   "winner": "Conservative",
+   "prev_winner": "Independent",
+   "member": "Ruth Edwards",
+   "notes": "Incumbent, Ken Clarke, did not stand"
+  },
+  {
+   "unit": "Rutherglen and Hamilton West",
+   "key": "rutherglen and hamilton west",
+   "winner": "SNP",
+   "prev_winner": "Labour",
+   "member": "Margaret Ferrier",
+   "notes": "Defeated incumbent, Gerard Killen"
+  },
+  {
+   "unit": "Rutland and Melton",
+   "key": "rutland and melton",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Alicia Kearns",
+   "notes": "Incumbent, Alan Duncan, did not stand"
+  },
+  {
+   "unit": "Saffron Walden",
+   "key": "saffron walden",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Kemi Badenoch",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Salford and Eccles",
+   "key": "salford and eccles",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Rebecca Long-Bailey",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Salisbury",
+   "key": "salisbury",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "John Glen",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Scarborough and Whitby",
+   "key": "scarborough and whitby",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Robert Goodwill",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Scunthorpe",
+   "key": "scunthorpe",
+   "winner": "Conservative",
+   "prev_winner": "Labour",
+   "member": "Holly Mumby-Croft",
+   "notes": "Defeated incumbent, Nic Dakin"
+  },
+  {
+   "unit": "Sedgefield",
+   "key": "sedgefield",
+   "winner": "Conservative",
+   "prev_winner": "Labour",
+   "member": "Paul Howell",
+   "notes": "Defeated incumbent, Phil Wilson"
+  },
+  {
+   "unit": "Sefton Central",
+   "key": "sefton central",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Bill Esterson",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Selby and Ainsty",
+   "key": "selby and ainsty",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Nigel Adams",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Sevenoaks",
+   "key": "sevenoaks",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Laura Trott",
+   "notes": "Incumbent, Michael Fallon, did not stand"
+  },
+  {
+   "unit": "Sheffield Central",
+   "key": "sheffield central",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Paul Blomfield",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Sheffield South East",
+   "key": "sheffield south east",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Clive Betts",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Sheffield Brightside and Hillsborough",
+   "key": "sheffield brightside and hillsborough",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Gill Furniss",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Sheffield Hallam",
+   "key": "sheffield hallam",
+   "winner": "Labour",
+   "prev_winner": "Independent",
+   "member": "Olivia Blake",
+   "notes": "Incumbent, Jared O'Mara, did not stand"
+  },
+  {
+   "unit": "Sheffield Heeley",
+   "key": "sheffield heeley",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Louise Haigh",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Sherwood",
+   "key": "sherwood",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Mark Spencer",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Shipley",
+   "key": "shipley",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Philip Davies",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Shrewsbury and Atcham",
+   "key": "shrewsbury and atcham",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Daniel Kawczynski",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Sittingbourne and Sheppey",
+   "key": "sittingbourne and sheppey",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Gordon Henderson",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Skipton and Ripon",
+   "key": "skipton and ripon",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Julian Smith",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Sleaford and North Hykeham",
+   "key": "sleaford and north hykeham",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Caroline Johnson",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Slough",
+   "key": "slough",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Tanmanjeet Dhesi",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Solihull",
+   "key": "solihull",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Julian Knight",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Somerton and Frome",
+   "key": "somerton and frome",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "David Warburton",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "South Antrim",
+   "key": "south antrim",
+   "winner": "DUP",
+   "prev_winner": "DUP",
+   "member": "Paul Girvan",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "South Basildon and East Thurrock",
+   "key": "south basildon and east thurrock",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Stephen Metcalfe",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "South Cambridgeshire",
+   "key": "south cambridgeshire",
+   "winner": "Conservative",
+   "prev_winner": "Liberal Democrats",
+   "member": "Anthony Browne",
+   "notes": "Incumbent, Heidi Allen, did not stand"
+  },
+  {
+   "unit": "South Derbyshire",
+   "key": "south derbyshire",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Heather Wheeler",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "South Dorset",
+   "key": "south dorset",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Richard Drax",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "South Down",
+   "key": "south down",
+   "winner": "Sinn Féin",
+   "prev_winner": "Sinn Féin",
+   "member": "Chris Hazzard",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "South East Cambridgeshire",
+   "key": "south east cambridgeshire",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Lucy Frazer",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "South East Cornwall",
+   "key": "south east cornwall",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Sheryll Murray",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "South Holland and The Deepings",
+   "key": "south holland and the deepings",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "John Hayes",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "South Leicestershire",
+   "key": "south leicestershire",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Alberto Costa",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "South Norfolk",
+   "key": "south norfolk",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Richard Bacon",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "South Northamptonshire",
+   "key": "south northamptonshire",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Andrea Leadsom",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "South Ribble",
+   "key": "south ribble",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Katherine Fletcher",
+   "notes": "Incumbent, Seema Kennedy, did not stand"
+  },
+  {
+   "unit": "South Shields",
+   "key": "south shields",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Emma Lewell-Buck",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "South Staffordshire",
+   "key": "south staffordshire",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Gavin Williamson",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "South Suffolk",
+   "key": "south suffolk",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "James Cartlidge",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "South Swindon",
+   "key": "south swindon",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Robert Buckland",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "South Thanet",
+   "key": "south thanet",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Craig Mackinlay",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "South West Bedfordshire",
+   "key": "south west bedfordshire",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Andrew Selous",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "South West Devon",
+   "key": "south west devon",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Gary Streeter",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "South West Hertfordshire",
+   "key": "south west hertfordshire",
+   "winner": "Conservative",
+   "prev_winner": "Independent",
+   "member": "Gagan Mohindra",
+   "notes": "Defeated incumbent, David Gauke"
+  },
+  {
+   "unit": "South West Norfolk",
+   "key": "south west norfolk",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Liz Truss",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "South West Surrey",
+   "key": "south west surrey",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Jeremy Hunt",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "South West Wiltshire",
+   "key": "south west wiltshire",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Andrew Murrison",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Southampton Itchen",
+   "key": "southampton itchen",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Royston Smith",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Southampton Test",
+   "key": "southampton test",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Alan Whitehead",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Southend West",
+   "key": "southend west",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "David Amess",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Southport",
+   "key": "southport",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Damien Moore",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Spelthorne",
+   "key": "spelthorne",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Kwasi Kwarteng",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "St Albans",
+   "key": "st albans",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "Daisy Cooper",
+   "notes": "Defeated incumbent, Anne Main"
+  },
+  {
+   "unit": "St Austell and Newquay",
+   "key": "st austell and newquay",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Steve Double",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "St Helens North",
+   "key": "st helens north",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Conor McGinn",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "St Helens South and Whiston",
+   "key": "st helens south and whiston",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Marie Rimmer",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "St Ives",
+   "key": "st ives",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Derek Thomas",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Stafford",
+   "key": "stafford",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Theo Clarke",
+   "notes": "Incumbent, Jeremy Lefroy, did not stand"
+  },
+  {
+   "unit": "Staffordshire Moorlands",
+   "key": "staffordshire moorlands",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Karen Bradley",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Stalybridge and Hyde",
+   "key": "stalybridge and hyde",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Jonathan Reynolds",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Stevenage",
+   "key": "stevenage",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Stephen McPartland",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Stirling",
+   "key": "stirling",
+   "winner": "SNP",
+   "prev_winner": "Conservative",
+   "member": "Alyn Smith",
+   "notes": "Defeated incumbent, Stephen Kerr"
+  },
+  {
+   "unit": "Stockport",
+   "key": "stockport",
+   "winner": "Labour",
+   "prev_winner": "Change UK",
+   "member": "Navendu Mishra",
+   "notes": "Incumbent, Ann Coffey, did not stand"
+  },
+  {
+   "unit": "Stockton North",
+   "key": "stockton north",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Alex Cunningham",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Stockton South",
+   "key": "stockton south",
+   "winner": "Conservative",
+   "prev_winner": "Labour",
+   "member": "Matt Vickers",
+   "notes": "Defeated incumbent, Paul Williams"
+  },
+  {
+   "unit": "Stoke-on-Trent Central",
+   "key": "stoke on trent central",
+   "winner": "Conservative",
+   "prev_winner": "Labour",
+   "member": "Jo Gideon",
+   "notes": "Defeated incumbent, Gareth Snell"
+  },
+  {
+   "unit": "Stoke-on-Trent North",
+   "key": "stoke on trent north",
+   "winner": "Conservative",
+   "prev_winner": "Labour",
+   "member": "Jonathan Gullis",
+   "notes": "Defeated incumbent, Ruth Smeeth"
+  },
+  {
+   "unit": "Stoke-on-Trent South",
+   "key": "stoke on trent south",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Jack Brereton",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Stone",
+   "key": "stone",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Bill Cash",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Stourbridge",
+   "key": "stourbridge",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Suzanne Webb",
+   "notes": "Incumbent, Margot James, did not stand"
+  },
+  {
+   "unit": "Strangford",
+   "key": "strangford",
+   "winner": "DUP",
+   "prev_winner": "DUP",
+   "member": "Jim Shannon",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Stratford-on-Avon",
+   "key": "stratford on avon",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Nadhim Zahawi",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Streatham",
+   "key": "streatham",
+   "winner": "Labour",
+   "prev_winner": "Liberal Democrats",
+   "member": "Bell Ribeiro-Addy",
+   "notes": "Incumbent, Chuka Umunna, did not stand"
+  },
+  {
+   "unit": "Stretford and Urmston",
+   "key": "stretford and urmston",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Kate Green",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Stroud",
+   "key": "stroud",
+   "winner": "Conservative",
+   "prev_winner": "Labour",
+   "member": "Siobhan Baillie",
+   "notes": "Defeated incumbent, David Drew"
+  },
+  {
+   "unit": "Suffolk Coastal",
+   "key": "suffolk coastal",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Therese Coffey",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Sunderland Central",
+   "key": "sunderland central",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Julie Elliott",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Surrey Heath",
+   "key": "surrey heath",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Michael Gove",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Sutton and Cheam",
+   "key": "sutton and cheam",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Paul Scully",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Sutton Coldfield",
+   "key": "sutton coldfield",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Andrew Mitchell",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Swansea East",
+   "key": "swansea east",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Carolyn Harris",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Swansea West",
+   "key": "swansea west",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Geraint Davies",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Tamworth",
+   "key": "tamworth",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Chris Pincher",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Tatton",
+   "key": "tatton",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Esther McVey",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Taunton Deane",
+   "key": "taunton deane",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Rebecca Pow",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Telford",
+   "key": "telford",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Lucy Allan",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Tewkesbury",
+   "key": "tewkesbury",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Laurence Robertson",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "The Cotswolds",
+   "key": "the cotswolds",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Geoffrey Clifton-Brown",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "The Wrekin",
+   "key": "the wrekin",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Mark Pritchard",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Thirsk and Malton",
+   "key": "thirsk and malton",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Kevin Hollinrake",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Thornbury and Yate",
+   "key": "thornbury and yate",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Luke Hall",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Thurrock",
+   "key": "thurrock",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Jackie Doyle-Price",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Tiverton and Honiton",
+   "key": "tiverton and honiton",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Neil Parish",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Tonbridge and Malling",
+   "key": "tonbridge and malling",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Thomas Tugendhat",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Tooting",
+   "key": "tooting",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Rosena Allin-Khan",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Torbay",
+   "key": "torbay",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Kevin Foster",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Torfaen",
+   "key": "torfaen",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Nick Thomas-Symonds",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Torridge and West Devon",
+   "key": "torridge and west devon",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Geoffrey Cox",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Totnes",
+   "key": "totnes",
+   "winner": "Conservative",
+   "prev_winner": "Liberal Democrats",
+   "member": "Anthony Mangnall",
+   "notes": "Defeated incumbent, Sarah Wollaston"
+  },
+  {
+   "unit": "Tottenham",
+   "key": "tottenham",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "David Lammy",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Truro and Falmouth",
+   "key": "truro and falmouth",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Cherilyn Mackrory",
+   "notes": "Incumbent, Sarah Newton, did not stand"
+  },
+  {
+   "unit": "Tunbridge Wells",
+   "key": "tunbridge wells",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Greg Clark",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Twickenham",
+   "key": "twickenham",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Liberal Democrats",
+   "member": "Munira Wilson",
+   "notes": "Incumbent, Vince Cable, did not stand"
+  },
+  {
+   "unit": "Tynemouth",
+   "key": "tynemouth",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Alan Campbell",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Upper Bann",
+   "key": "upper bann",
+   "winner": "DUP",
+   "prev_winner": "DUP",
+   "member": "Carla Lockhart",
+   "notes": "Incumbent, David Simpson, did not stand"
+  },
+  {
+   "unit": "Uxbridge and South Ruislip",
+   "key": "uxbridge and south ruislip",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Boris Johnson",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Vale of Clwyd",
+   "key": "vale of clwyd",
+   "winner": "Conservative",
+   "prev_winner": "Labour",
+   "member": "James Davies",
+   "notes": "Defeated incumbent, Chris Ruane"
+  },
+  {
+   "unit": "Vale of Glamorgan",
+   "key": "vale of glamorgan",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Alun Cairns",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Vauxhall",
+   "key": "vauxhall",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Florence Eshalomi",
+   "notes": "Incumbent, Kate Hoey, did not stand"
+  },
+  {
+   "unit": "Wakefield",
+   "key": "wakefield",
+   "winner": "Conservative",
+   "prev_winner": "Labour",
+   "member": "Imran Ahmad Khan",
+   "notes": "Defeated incumbent, Mary Creagh"
+  },
+  {
+   "unit": "Wallasey",
+   "key": "wallasey",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Angela Eagle",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Walsall North",
+   "key": "walsall north",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Eddie Hughes",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Walsall South",
+   "key": "walsall south",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Valerie Vaz",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Walthamstow",
+   "key": "walthamstow",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Stella Creasy",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Wansbeck",
+   "key": "wansbeck",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Ian Lavery",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Wantage",
+   "key": "wantage",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "David Johnston",
+   "notes": "Incumbent, Ed Vaizey, did not stand"
+  },
+  {
+   "unit": "Warley",
+   "key": "warley",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "John Spellar",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Warrington North",
+   "key": "warrington north",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Charlotte Nichols",
+   "notes": "Incumbent, Helen Jones, did not stand"
+  },
+  {
+   "unit": "Warrington South",
+   "key": "warrington south",
+   "winner": "Conservative",
+   "prev_winner": "Labour",
+   "member": "Andy Carter",
+   "notes": "Defeated incumbent, Faisal Rashid"
+  },
+  {
+   "unit": "Warwick and Leamington",
+   "key": "warwick and leamington",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Matt Western",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Washington and Sunderland West",
+   "key": "washington and sunderland west",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Sharon Hodgson",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Watford",
+   "key": "watford",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Dean Russell",
+   "notes": "Incumbent, Richard Harrington, did not stand"
+  },
+  {
+   "unit": "Waveney",
+   "key": "waveney",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Peter Aldous",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Wealden",
+   "key": "wealden",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Nus Ghani",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Weaver Vale",
+   "key": "weaver vale",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Mike Amesbury",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Wellingborough",
+   "key": "wellingborough",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Peter Bone",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Wells",
+   "key": "wells",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "James Heappey",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Welwyn Hatfield",
+   "key": "welwyn hatfield",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Grant Shapps",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Wentworth and Dearne",
+   "key": "wentworth and dearne",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "John Healey",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "West Aberdeenshire and Kincardine",
+   "key": "west aberdeenshire and kincardine",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Andrew Bowie",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "West Bromwich East",
+   "key": "west bromwich east",
+   "winner": "Conservative",
+   "prev_winner": "Labour",
+   "member": "Nicola Richards",
+   "notes": "Incumbent, Tom Watson, did not stand"
+  },
+  {
+   "unit": "West Bromwich West",
+   "key": "west bromwich west",
+   "winner": "Conservative",
+   "prev_winner": "Labour",
+   "member": "Shaun Bailey",
+   "notes": "Incumbent, Adrian Bailey, did not stand"
+  },
+  {
+   "unit": "West Dorset",
+   "key": "west dorset",
+   "winner": "Conservative",
+   "prev_winner": "Independent",
+   "member": "Chris Loder",
+   "notes": "Incumbent, Oliver Letwin, did not stand"
+  },
+  {
+   "unit": "West Dunbartonshire",
+   "key": "west dunbartonshire",
+   "winner": "SNP",
+   "prev_winner": "SNP",
+   "member": "Martin Docherty-Hughes",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "West Ham",
+   "key": "west ham",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Lyn Brown",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "West Lancashire",
+   "key": "west lancashire",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Rosie Cooper",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "West Suffolk",
+   "key": "west suffolk",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Matt Hancock",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "West Tyrone",
+   "key": "west tyrone",
+   "winner": "Sinn Féin",
+   "prev_winner": "Sinn Féin",
+   "member": "Órfhlaith Begley",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "West Worcestershire",
+   "key": "west worcestershire",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Harriett Baldwin",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Westminster North",
+   "key": "westminster north",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Karen Buck",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Westmorland and Lonsdale",
+   "key": "westmorland and lonsdale",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Liberal Democrats",
+   "member": "Tim Farron",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Weston-Super-Mare",
+   "key": "weston super mare",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "John Penrose",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Wigan",
+   "key": "wigan",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Lisa Nandy",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Wimbledon",
+   "key": "wimbledon",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Stephen Hammond",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Winchester",
+   "key": "winchester",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Steve Brine",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Windsor",
+   "key": "windsor",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Adam Afriyie",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Wirral South",
+   "key": "wirral south",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Alison McGovern",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Wirral West",
+   "key": "wirral west",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Margaret Greenwood",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Witham",
+   "key": "witham",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Priti Patel",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Witney",
+   "key": "witney",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Robert Courts",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Woking",
+   "key": "woking",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Jonathan Lord",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Wokingham",
+   "key": "wokingham",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "John Redwood",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Wolverhampton North East",
+   "key": "wolverhampton north east",
+   "winner": "Conservative",
+   "prev_winner": "Labour",
+   "member": "Jane Stevenson",
+   "notes": "Defeated incumbent, Emma Reynolds"
+  },
+  {
+   "unit": "Wolverhampton South East",
+   "key": "wolverhampton south east",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Pat McFadden",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Wolverhampton South West",
+   "key": "wolverhampton south west",
+   "winner": "Conservative",
+   "prev_winner": "Labour",
+   "member": "Stuart Anderson",
+   "notes": "Defeated incumbent, Eleanor Smith"
+  },
+  {
+   "unit": "Worcester",
+   "key": "worcester",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Robin Walker",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Workington",
+   "key": "workington",
+   "winner": "Conservative",
+   "prev_winner": "Labour",
+   "member": "Mark Jenkinson",
+   "notes": "Defeated incumbent, Sue Hayman"
+  },
+  {
+   "unit": "Worsley and Eccles South",
+   "key": "worsley and eccles south",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Barbara Keeley",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Worthing West",
+   "key": "worthing west",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Peter Bottomley",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Wrexham",
+   "key": "wrexham",
+   "winner": "Conservative",
+   "prev_winner": "Labour",
+   "member": "Sarah Atherton",
+   "notes": "Incumbent, Ian Lucas, did not stand"
+  },
+  {
+   "unit": "Wycombe",
+   "key": "wycombe",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Steven Baker",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Wyre and Preston North",
+   "key": "wyre and preston north",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Ben Wallace",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Wyre Forest",
+   "key": "wyre forest",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Mark Garnier",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Wythenshawe and Sale East",
+   "key": "wythenshawe and sale east",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Mike Kane",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Yeovil",
+   "key": "yeovil",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Marcus Fysh",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Ynys Môn",
+   "key": "ynys mon",
+   "winner": "Conservative",
+   "prev_winner": "Labour",
+   "member": "Virginia Crosbie",
+   "notes": "Incumbent, Albert Owen, did not stand"
+  },
+  {
+   "unit": "York Central",
+   "key": "york central",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Rachael Maskell",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "York Outer",
+   "key": "york outer",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Julian Sturdy",
+   "notes": "Seat held"
+  }
+ ],
+ "national": [
+  {
+   "party": "Conservative",
+   "seats": 365,
+   "votes": 13966454.0,
+   "vote_pct": 43.6
+  },
+  {
+   "party": "Labour",
+   "seats": 202,
+   "votes": 10269051.0,
+   "vote_pct": 32.1
+  },
+  {
+   "party": "SNP",
+   "seats": 48,
+   "votes": 1242380.0,
+   "vote_pct": 3.9
+  },
+  {
+   "party": "Liberal Democrats",
+   "seats": 11,
+   "votes": 3696419.0,
+   "vote_pct": 11.6
+  },
+  {
+   "party": "DUP",
+   "seats": 8,
+   "votes": 244128.0,
+   "vote_pct": 0.8
+  },
+  {
+   "party": "Sinn Féin",
+   "seats": 7,
+   "votes": 181853.0,
+   "vote_pct": 0.6
+  },
+  {
+   "party": "Plaid Cymru",
+   "seats": 4,
+   "votes": 153265.0,
+   "vote_pct": 0.5
+  },
+  {
+   "party": "SDLP",
+   "seats": 2,
+   "votes": 118737.0,
+   "vote_pct": 0.4
+  },
+  {
+   "party": "Alliance",
+   "seats": 1,
+   "votes": 134115.0,
+   "vote_pct": 0.4
+  },
+  {
+   "party": "Green",
+   "seats": 1,
+   "votes": 835597.0,
+   "vote_pct": 2.61
+  },
+  {
+   "party": "Speaker",
+   "seats": 1,
+   "votes": 26831.0,
+   "vote_pct": 0.1
+  }
+ ],
+ "detail": null
+}

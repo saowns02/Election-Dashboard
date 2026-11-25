@@ -1,0 +1,5281 @@
+{
+ "country": "United Kingdom",
+ "key": "uk-ge-2024",
+ "year": 2024,
+ "title": "2024 General Election",
+ "kind": "general",
+ "unit_label": "Constituency",
+ "total_seats": 650,
+ "majority": 326,
+ "seat_label": "Seats",
+ "source": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_2024_United_Kingdom_general_election",
+ "fetched_at": 1795607668.2980247,
+ "notes": [
+  "Each hexagon is one constituency (equal area), so the map reflects seats, not land area."
+ ],
+ "units": [
+  {
+   "unit": "Aberafan Maesteg",
+   "key": "aberafan maesteg",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Stephen Kinnock",
+   "notes": "MP for predecessor seat of Aberavon. Secretary of State for Wales (20 July 2026 – present) Minister of State for Care (8 July 2024 - 20 July 2026)"
+  },
+  {
+   "unit": "Aberdeen North",
+   "key": "aberdeen north",
+   "winner": "SNP",
+   "prev_winner": "SNP",
+   "member": "Kirsty Blackman",
+   "notes": "Chief Whip of SNP in the House of Commons (5 July 2024 - Present) SNP Spokesperson for the Equalities in the House of Commons (10 July 2024 - Present)"
+  },
+  {
+   "unit": "Aberdeen South",
+   "key": "aberdeen south",
+   "winner": "SNP",
+   "prev_winner": "SNP",
+   "member": "Stephen Flynn",
+   "notes": "Resigned on 14 May 2026"
+  },
+  {
+   "unit": "Aberdeenshire North and Moray East",
+   "key": "aberdeenshire north and moray east",
+   "winner": "SNP",
+   "prev_winner": "Conservative",
+   "member": "Seamus Logan",
+   "notes": "Defeated Douglas Ross, previously Conservative MP for Moray. David Duguid, incumbent for the predecessor seat of Banff and Buchan, did not stand"
+  },
+  {
+   "unit": "Airdrie and Shotts",
+   "key": "airdrie and shotts",
+   "winner": "Labour",
+   "prev_winner": "SNP",
+   "member": "Kenneth Stevenson",
+   "notes": "Defeated incumbent Anum Qaisar"
+  },
+  {
+   "unit": "Aldershot",
+   "key": "aldershot",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Alex Baker",
+   "notes": "Defeated incumbent Leo Docherty"
+  },
+  {
+   "unit": "Aldridge-Brownhills",
+   "key": "aldridge brownhills",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Wendy Morton",
+   "notes": "Shadow Minister for Development (6 November 2024 - Present)"
+  },
+  {
+   "unit": "Alloa and Grangemouth",
+   "key": "alloa and grangemouth",
+   "winner": "Labour",
+   "prev_winner": "SNP",
+   "member": "Brian Leishman",
+   "notes": "Defeated John Nicolson, incumbent MP for the predecessor seat of Ochil and South Perthshire"
+  },
+  {
+   "unit": "Altrincham and Sale West",
+   "key": "altrincham and sale west",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Connor Rand",
+   "notes": "Previous incumbent Graham Brady did not stand"
+  },
+  {
+   "unit": "Alyn and Deeside",
+   "key": "alyn and deeside",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Mark Tami",
+   "notes": "Govenrment Deputy Chief Whip Treasurer of the Household (10 July 2024 - Present)"
+  },
+  {
+   "unit": "Amber Valley",
+   "key": "amber valley",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Linsey Farnsworth",
+   "notes": "Defeated incumbent Nigel Mills"
+  },
+  {
+   "unit": "Angus and Perthshire Glens",
+   "key": "angus and perthshire glens",
+   "winner": "SNP",
+   "prev_winner": "SNP",
+   "member": "Dave Doogan",
+   "notes": "MP for the predecessor seat of Angus. Leader of the House of Commons for the SNP (12 May 2026 - Present) - SNP Spokesperson for Economy (10 July 2024 - Present) SNP Spokesperson for Defence (10 July 2024 - Present)"
+  },
+  {
+   "unit": "Arbroath and Broughty Ferry",
+   "key": "arbroath and broughty ferry",
+   "winner": "SNP",
+   "prev_winner": "SNP",
+   "member": "Stephen Gethins",
+   "notes": "Previous incumbent MP Stewart Hosie did not stand. Gethins was previously MP for North East Fife 2015–2019."
+  },
+  {
+   "unit": "Argyll, Bute and South Lochaber",
+   "key": "argyll bute and south lochaber",
+   "winner": "SNP",
+   "prev_winner": "SNP",
+   "member": "Brendan O'Hara",
+   "notes": "MP for predecessor seat of Argyll and Bute"
+  },
+  {
+   "unit": "Arundel and South Downs",
+   "key": "arundel and south downs",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Andrew Griffith",
+   "notes": "Shadow Chancellor of the Exchequer (31 August 2026 - Present) Shadow Secretary of State for Business and Trade (5 November 2024 – 31 August 2026) Shadow Secretary of State for Science, Innovation and Technology (8 July 2024 – 5 November 2024)"
+  },
+  {
+   "unit": "Ashfield",
+   "key": "ashfield",
+   "winner": "Reform UK",
+   "prev_winner": "Conservative",
+   "member": "Lee Anderson",
+   "notes": "Anderson retained seat. He was elected as a Conservative MP in 2019 and defected to Reform UK in March 2024, following his suspension from the Conservative Party. Chairman of Reform UK (18 May 2026 - Present) Chief Whip of Reform UK in the House of Commons (11 July 2024 - Present)"
+  },
+  {
+   "unit": "Ashford",
+   "key": "ashford",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Sojan Joseph",
+   "notes": "Defeated incumbent Damian Green"
+  },
+  {
+   "unit": "Ashton-under-Lyne",
+   "key": "ashton under lyne",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Angela Rayner",
+   "notes": "Secretary of State for Housing, Communities and Local Government (20 July 2026 – present) (5 July 2024 – 5 September 2025) Deputy Prime Minister (5 July 2024 – 5 September 2025)"
+  },
+  {
+   "unit": "Aylesbury",
+   "key": "aylesbury",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Laura Kyrke-Smith",
+   "notes": "Defeated incumbent Rob Butler"
+  },
+  {
+   "unit": "Ayr, Carrick and Cumnock",
+   "key": "ayr carrick and cumnock",
+   "winner": "Labour",
+   "prev_winner": "SNP",
+   "member": "Elaine Stewart",
+   "notes": "Defeated incumbent Allan Dorans"
+  },
+  {
+   "unit": "Banbury",
+   "key": "banbury",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Sean Woodcock",
+   "notes": "Defeated incumbent Victoria Prentis"
+  },
+  {
+   "unit": "Bangor Aberconwy",
+   "key": "bangor aberconwy",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Claire Hughes",
+   "notes": "Defeated Robin Millar, incumbent for the predecessor seat of Aberconwy Parliamentary Under-Secretary of State for Wales (16 September 2025 - Incumbent)"
+  },
+  {
+   "unit": "Barking",
+   "key": "barking",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Nesil Caliskan",
+   "notes": "Previous incumbent Margaret Hodge did not stand Parliamentary Under-Secretary of State for Devolution, Local Growth and Communities (12 May 2026 – 22 July 2026) Comptroller of the Household (7 September 2025 – 12 May 2026)"
+  },
+  {
+   "unit": "Barnsley North",
+   "key": "barnsley north",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Dan Jarvis",
+   "notes": "Minister of State for Security (6 September 2025 – 11 June 2026; 21 July 2026 - Incumbent) Secretary of State for Defence (11 June 2026 – 20 July 2026) Ministers of State at the Cabinet Office (6 September 2025 – 11 June 2026)"
+  },
+  {
+   "unit": "Barnsley South",
+   "key": "barnsley south",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Stephanie Peacock",
+   "notes": "Parliamentary Under-Secretary of State for Sport, Tourism, Place and Digital Government (9 July 2024 - Incumbent)"
+  },
+  {
+   "unit": "Barrow and Furness",
+   "key": "barrow and furness",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Michelle Scrogham",
+   "notes": "Defeated incumbent Simon Fell"
+  },
+  {
+   "unit": "Basildon and Billericay",
+   "key": "basildon and billericay",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Richard Holden",
+   "notes": "Formerly MP for North West Durham. Previous incumbent John Baron did not stand Shadow Secretary of State for Transport (22 July 2025 - Incumbent) Shadow Paymaster General (8 November 2024 – 22 July 2025)"
+  },
+  {
+   "unit": "Basingstoke",
+   "key": "basingstoke",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Luke Murphy",
+   "notes": "Defeated incumbent Maria Miller"
+  },
+  {
+   "unit": "Bassetlaw",
+   "key": "bassetlaw",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Jo White",
+   "notes": "Defeated incumbent Brendan Clarke-Smith Parliamentary Under-Secretary of State for Migration and Citizenship (22 July 2026 - Incumbent)"
+  },
+  {
+   "unit": "Bath",
+   "key": "bath",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Liberal Democrats",
+   "member": "Wera Hobhouse",
+   "notes": ""
+  },
+  {
+   "unit": "Bathgate and Linlithgow",
+   "key": "bathgate and linlithgow",
+   "winner": "Labour",
+   "prev_winner": "SNP",
+   "member": "Kirsteen Sullivan",
+   "notes": "Gain. Defeated Martyn Day, incumbent MP for predecessor seat of Linlithgow and East Falkirk"
+  },
+  {
+   "unit": "Battersea",
+   "key": "battersea",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Marsha de Cordova",
+   "notes": "Second Church Estates Commissioner (7 October 2024 - Incumbent)"
+  },
+  {
+   "unit": "Beaconsfield",
+   "key": "beaconsfield",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Joy Morrissey",
+   "notes": "Shadow Minister for Women and Equalities (31 August 2026 - Incumbent) Opposition Deputy Chief Whip in the House of Commons (6 November 2024 – 31 August 2026) Shadow Minister for Energy Security and Net Zero (19 July 2024 – 6 November 2024) Opposition Whip (19 July 2024 – 6 November 2024)"
+  },
+  {
+   "unit": "Beckenham and Penge",
+   "key": "beckenham and penge",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Liam Conlon",
+   "notes": "Notional hold following boundary changes. Bob Stewart, Conservative incumbent for the predecessor seat of Beckenham, did not stand."
+  },
+  {
+   "unit": "Bedford",
+   "key": "bedford",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Mohammad Yasin",
+   "notes": ""
+  },
+  {
+   "unit": "Belfast East",
+   "key": "belfast east",
+   "winner": "DUP",
+   "prev_winner": "DUP",
+   "member": "Gavin Robinson",
+   "notes": "Leader of the Democratic Unionist Party (29 May 2024 - Incumbent) Leader of the Democratic Unionist Party in the House of Commons (29 March 2024 - Incumbent)"
+  },
+  {
+   "unit": "Belfast North",
+   "key": "belfast north",
+   "winner": "Sinn Féin",
+   "prev_winner": "Sinn Féin",
+   "member": "John Finucane",
+   "notes": ""
+  },
+  {
+   "unit": "Belfast South and Mid Down",
+   "key": "belfast south and mid down",
+   "winner": "SDLP",
+   "prev_winner": "SDLP",
+   "member": "Claire Hanna",
+   "notes": "MP for predecessor seat of Belfast South."
+  },
+  {
+   "unit": "Belfast West",
+   "key": "belfast west",
+   "winner": "Sinn Féin",
+   "prev_winner": "Sinn Féin",
+   "member": "Paul Maskey",
+   "notes": ""
+  },
+  {
+   "unit": "Bermondsey and Old Southwark",
+   "key": "bermondsey and old southwark",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Neil Coyle",
+   "notes": ""
+  },
+  {
+   "unit": "Berwickshire, Roxburgh and Selkirk",
+   "key": "berwickshire roxburgh and selkirk",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "John Lamont",
+   "notes": ""
+  },
+  {
+   "unit": "Bethnal Green and Stepney",
+   "key": "bethnal green and stepney",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Rushanara Ali",
+   "notes": "MP for predecessor seat of Bethnal Green and Bow"
+  },
+  {
+   "unit": "Beverley and Holderness",
+   "key": "beverley and holderness",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Graham Stuart",
+   "notes": ""
+  },
+  {
+   "unit": "Bexhill and Battle",
+   "key": "bexhill and battle",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Kieran Mullan",
+   "notes": "Formerly MP for Crewe and Nantwich. Previous incumbent Huw Merriman did not stand."
+  },
+  {
+   "unit": "Bexleyheath and Crayford",
+   "key": "bexleyheath and crayford",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Daniel Francis",
+   "notes": "Previous incumbent David Evennett did not stand"
+  },
+  {
+   "unit": "Bicester and Woodstock",
+   "key": "bicester and woodstock",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "Calum Miller",
+   "notes": "New seat"
+  },
+  {
+   "unit": "Birkenhead",
+   "key": "birkenhead",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Alison McGovern",
+   "notes": "Formerly MP for abolished seat of Wirral South. Previous incumbent Mick Whitley did not stand."
+  },
+  {
+   "unit": "Birmingham Edgbaston",
+   "key": "birmingham edgbaston",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Preet Gill",
+   "notes": ""
+  },
+  {
+   "unit": "Birmingham Erdington",
+   "key": "birmingham erdington",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Paulette Hamilton",
+   "notes": "Elected at 2022 by-election"
+  },
+  {
+   "unit": "Birmingham Hall Green and Moseley",
+   "key": "birmingham hall green and moseley",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Tahir Ali",
+   "notes": "MP for predecessor seat of Birmingham Hall Green"
+  },
+  {
+   "unit": "Birmingham Hodge Hill and Solihull North",
+   "key": "birmingham hodge hill and solihull north",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Liam Byrne",
+   "notes": "MP for predecessor seat of Birmingham Hodge Hill"
+  },
+  {
+   "unit": "Birmingham Ladywood",
+   "key": "birmingham ladywood",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Shabana Mahmood",
+   "notes": "Lord Chancellor, Secretary of State for Justice (5 July 2024 – 5 September 2025) Secretary of State for the Home Department (5 September 2025 – present)"
+  },
+  {
+   "unit": "Birmingham Northfield",
+   "key": "birmingham northfield",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Laurence Turner",
+   "notes": "Defeated incumbent Gary Sambrook"
+  },
+  {
+   "unit": "Birmingham Perry Barr",
+   "key": "birmingham perry barr",
+   "winner": "Independent",
+   "prev_winner": "Labour",
+   "member": "Ayoub Khan",
+   "notes": "Defeated incumbent Khalid Mahmood"
+  },
+  {
+   "unit": "Birmingham Selly Oak",
+   "key": "birmingham selly oak",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Alistair Carns",
+   "notes": "Previous incumbent Steve McCabe did not stand"
+  },
+  {
+   "unit": "Birmingham Yardley",
+   "key": "birmingham yardley",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Jess Phillips",
+   "notes": ""
+  },
+  {
+   "unit": "Bishop Auckland",
+   "key": "bishop auckland",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Sam Rushworth",
+   "notes": "Previous incumbent Dehenna Davison did not stand"
+  },
+  {
+   "unit": "Blackburn",
+   "key": "blackburn",
+   "winner": "Independent",
+   "prev_winner": "Labour",
+   "member": "Adnan Hussain",
+   "notes": "Defeated incumbent Kate Hollern"
+  },
+  {
+   "unit": "Blackley and Middleton South",
+   "key": "blackley and middleton south",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Graham Stringer",
+   "notes": "MP for predecessor seat of Blackley and Broughton"
+  },
+  {
+   "unit": "Blackpool North and Fleetwood",
+   "key": "blackpool north and fleetwood",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Lorraine Beavers",
+   "notes": "Gain. Defeated Paul Maynard, incumbent for predecessor seat of Blackpool North and Cleveleys"
+  },
+  {
+   "unit": "Blackpool South",
+   "key": "blackpool south",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Chris Webb",
+   "notes": "Won by Labour at 2024 by-election"
+  },
+  {
+   "unit": "Blaenau Gwent and Rhymney",
+   "key": "blaenau gwent and rhymney",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Nick Smith",
+   "notes": ""
+  },
+  {
+   "unit": "Blaydon and Consett",
+   "key": "blaydon and consett",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Liz Twist",
+   "notes": "Previously MP for the abolished seat of Blaydon. Incumbent of the predecessor seat of North West Durham, Conservative MP Richard Holden, stood successfully in Basildon and Billericay."
+  },
+  {
+   "unit": "Blyth and Ashington",
+   "key": "blyth and ashington",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Ian Lavery",
+   "notes": "MP for predecessor seat of Wansbeck."
+  },
+  {
+   "unit": "Bognor Regis and Littlehampton",
+   "key": "bognor regis and littlehampton",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Alison Griffiths",
+   "notes": "Previous incumbent Nick Gibb did not stand"
+  },
+  {
+   "unit": "Bolsover",
+   "key": "bolsover",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Natalie Fleet",
+   "notes": "Defeated incumbent Mark Fletcher"
+  },
+  {
+   "unit": "Bolton North East",
+   "key": "bolton north east",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Kirith Entwistle",
+   "notes": "Previous incumbent MP Mark Logan did not stand"
+  },
+  {
+   "unit": "Bolton South and Walkden",
+   "key": "bolton south and walkden",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Yasmin Qureshi",
+   "notes": "MP for predecessor seat of Bolton South East"
+  },
+  {
+   "unit": "Bolton West",
+   "key": "bolton west",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Phil Brickell",
+   "notes": "Defeated incumbent Chris Green"
+  },
+  {
+   "unit": "Bootle",
+   "key": "bootle",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Peter Dowd",
+   "notes": ""
+  },
+  {
+   "unit": "Boston and Skegness",
+   "key": "boston and skegness",
+   "winner": "Reform UK",
+   "prev_winner": "Conservative",
+   "member": "Richard Tice",
+   "notes": "Defeated incumbent Matt Warman"
+  },
+  {
+   "unit": "Bournemouth East",
+   "key": "bournemouth east",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Tom Hayes",
+   "notes": "Defeated incumbent Tobias Ellwood"
+  },
+  {
+   "unit": "Bournemouth West",
+   "key": "bournemouth west",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Jessica Toale",
+   "notes": "Defeated incumbent Conor Burns"
+  },
+  {
+   "unit": "Bracknell",
+   "key": "bracknell",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Peter Swallow",
+   "notes": "Defeated incumbent James Sunderland"
+  },
+  {
+   "unit": "Bradford East",
+   "key": "bradford east",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Imran Hussain",
+   "notes": ""
+  },
+  {
+   "unit": "Bradford South",
+   "key": "bradford south",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Judith Cummins",
+   "notes": ""
+  },
+  {
+   "unit": "Bradford West",
+   "key": "bradford west",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Naz Shah",
+   "notes": ""
+  },
+  {
+   "unit": "Braintree",
+   "key": "braintree",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "James Cleverly",
+   "notes": ""
+  },
+  {
+   "unit": "Brecon, Radnor and Cwm Tawe",
+   "key": "brecon radnor and cwm tawe",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "David Chadwick",
+   "notes": "Defeated Fay Jones, incumbent MP for predecessor seat of Brecon and Radnorshire"
+  },
+  {
+   "unit": "Brent East",
+   "key": "brent east",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Dawn Butler",
+   "notes": "MP for predecessor seat of Brent Central"
+  },
+  {
+   "unit": "Brent West",
+   "key": "brent west",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Barry Gardiner",
+   "notes": "MP for predecessor seat of Brent North"
+  },
+  {
+   "unit": "Brentford and Isleworth",
+   "key": "brentford and isleworth",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Ruth Cadbury",
+   "notes": ""
+  },
+  {
+   "unit": "Brentwood and Ongar",
+   "key": "brentwood and ongar",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Alex Burghart",
+   "notes": ""
+  },
+  {
+   "unit": "Bridgend",
+   "key": "bridgend",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Chris Elmore",
+   "notes": "Formerly MP for the abolished seat of Ogmore. Previous incumbent Jamie Wallis did not stand."
+  },
+  {
+   "unit": "Bridgwater",
+   "key": "bridgwater",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Ashley Fox",
+   "notes": "Ian Liddell-Grainger, incumbent MP for the predecessor seat of Bridgwater and West Somerset, was defeated in Tiverton and Minehead"
+  },
+  {
+   "unit": "Bridlington and The Wolds",
+   "key": "bridlington and the wolds",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Charlie Dewhirst",
+   "notes": "Greg Knight, incumbent MP for the predecessor seat of East Yorkshire, did not stand"
+  },
+  {
+   "unit": "Brigg and Immingham",
+   "key": "brigg and immingham",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Martin Vickers",
+   "notes": "MP for the predecessor seat of Cleethorpes."
+  },
+  {
+   "unit": "Brighton Kemptown and Peacehaven",
+   "key": "brighton kemptown and peacehaven",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Chris Ward",
+   "notes": "Previous incumbent Lloyd Russell-Moyle did not stand"
+  },
+  {
+   "unit": "Brighton Pavilion",
+   "key": "brighton pavilion",
+   "winner": "Green",
+   "prev_winner": "Green",
+   "member": "Siân Berry",
+   "notes": "Previous incumbent Caroline Lucas did not stand"
+  },
+  {
+   "unit": "Bristol Central",
+   "key": "bristol central",
+   "winner": "Green",
+   "prev_winner": "Labour",
+   "member": "Carla Denyer",
+   "notes": "Defeated Thangam Debbonaire, incumbent MP for the predecessor seat of Bristol West"
+  },
+  {
+   "unit": "Bristol East",
+   "key": "bristol east",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Kerry McCarthy",
+   "notes": ""
+  },
+  {
+   "unit": "Bristol North East",
+   "key": "bristol north east",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Damien Egan",
+   "notes": "New seat. Elected for the abolished seat of Kingswood at 2024 by-election"
+  },
+  {
+   "unit": "Bristol North West",
+   "key": "bristol north west",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Darren Jones",
+   "notes": "Chief Secretary to the Treasury (5 July 2024 – 1 September 2025) Chief Secretary to the Prime Minister (1 September 2025 – 20 July 2026) Chancellor of the Duchy of Lancaster (6 September 2025 – 20 July 2026) Minister for Intergovernmental Relations (6 September 2025 – 20 July 2026)"
+  },
+  {
+   "unit": "Bristol South",
+   "key": "bristol south",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Karin Smyth",
+   "notes": ""
+  },
+  {
+   "unit": "Broadland and Fakenham",
+   "key": "broadland and fakenham",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Jerome Mayhew",
+   "notes": ""
+  },
+  {
+   "unit": "Bromley and Biggin Hill",
+   "key": "bromley and biggin hill",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Peter Fortune",
+   "notes": "Bob Neill, incumbent MP for the predecessor seat of Bromley and Chislehurst, did not stand"
+  },
+  {
+   "unit": "Bromsgrove",
+   "key": "bromsgrove",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Bradley Thomas",
+   "notes": "Previous incumbent Sajid Javid did not stand"
+  },
+  {
+   "unit": "Broxbourne",
+   "key": "broxbourne",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Lewis Cocking",
+   "notes": "Previous incumbent Charles Walker did not stand"
+  },
+  {
+   "unit": "Broxtowe",
+   "key": "broxtowe",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Juliet Campbell",
+   "notes": "Defeated incumbent Darren Henry"
+  },
+  {
+   "unit": "Buckingham and Bletchley",
+   "key": "buckingham and bletchley",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Callum Anderson",
+   "notes": "Defeated contesting Conservative MP Iain Stewart (previously MP for Milton Keynes South). Incumbent MP for the predecessor seat of Buckingham, Greg Smith, stood successfully in the new seat of Mid Buckinghamshire."
+  },
+  {
+   "unit": "Burnley",
+   "key": "burnley",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Oliver Ryan",
+   "notes": "Defeated incumbent Antony Higginbotham"
+  },
+  {
+   "unit": "Burton and Uttoxeter",
+   "key": "burton and uttoxeter",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Jacob Collier",
+   "notes": "Defeated incumbent Kate Kniveton"
+  },
+  {
+   "unit": "Bury North",
+   "key": "bury north",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "James Frith",
+   "notes": "Defeated incumbent James Daly"
+  },
+  {
+   "unit": "Bury South",
+   "key": "bury south",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Christian Wakeford",
+   "notes": "Wakeford retained the seat. He was elected as a Conservative MP in 2019 and defected to Labour in 2022."
+  },
+  {
+   "unit": "Bury St Edmunds and Stowmarket",
+   "key": "bury st edmunds and stowmarket",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Peter Prinsley",
+   "notes": "Jo Churchill, incumbent MP for the predecessor seat of Bury St Edmunds, did not stand"
+  },
+  {
+   "unit": "Caerfyrddin",
+   "key": "caerfyrddin",
+   "winner": "Plaid Cymru",
+   "prev_winner": "Conservative",
+   "member": "Ann Davies",
+   "notes": "Defeated Simon Hart, incumbent for Carmarthen West and South Pembrokeshire"
+  },
+  {
+   "unit": "Caerphilly",
+   "key": "caerphilly",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Chris Evans",
+   "notes": "Previously MP for Islwyn. Previous incumbent, Wayne David, did not stand."
+  },
+  {
+   "unit": "Caithness, Sutherland and Easter Ross",
+   "key": "caithness sutherland and easter ross",
+   "winner": "Liberal Democrats",
+   "prev_winner": "SNP",
+   "member": "Jamie Stone",
+   "notes": "Seat held (Notional gain following boundary changes)"
+  },
+  {
+   "unit": "Calder Valley",
+   "key": "calder valley",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Josh Fenton-Glynn",
+   "notes": "Previous incumbent, Craig Whittaker, did not stand"
+  },
+  {
+   "unit": "Camborne and Redruth",
+   "key": "camborne and redruth",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Perran Moon",
+   "notes": "Previous incumbent, George Eustice, did not stand"
+  },
+  {
+   "unit": "Cambridge",
+   "key": "cambridge",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Daniel Zeichner",
+   "notes": ""
+  },
+  {
+   "unit": "Cannock Chase",
+   "key": "cannock chase",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Josh Newbury",
+   "notes": "Defeated incumbent Amanda Milling"
+  },
+  {
+   "unit": "Canterbury",
+   "key": "canterbury",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Rosie Duffield",
+   "notes": "Currently sits as an independent following her resignation from the Labour Party in September 2024"
+  },
+  {
+   "unit": "Cardiff East",
+   "key": "cardiff east",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Jo Stevens",
+   "notes": "MP for predecessor seat of Cardiff Central Secretary of State for Wales (5 July 2024 – 20 July 2026)"
+  },
+  {
+   "unit": "Cardiff North",
+   "key": "cardiff north",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Anna McMorrin",
+   "notes": ""
+  },
+  {
+   "unit": "Cardiff South and Penarth",
+   "key": "cardiff south and penarth",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Stephen Doughty",
+   "notes": ""
+  },
+  {
+   "unit": "Cardiff West",
+   "key": "cardiff west",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Alex Barros-Curtis",
+   "notes": "Previous incumbent, Kevin Brennan, did not stand"
+  },
+  {
+   "unit": "Carlisle",
+   "key": "carlisle",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Julie Minns",
+   "notes": "Defeated incumbent John Stevenson"
+  },
+  {
+   "unit": "Carshalton and Wallington",
+   "key": "carshalton and wallington",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "Bobby Dean",
+   "notes": "Defeated incumbent Elliot Colburn"
+  },
+  {
+   "unit": "Castle Point",
+   "key": "castle point",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Rebecca Harris",
+   "notes": ""
+  },
+  {
+   "unit": "Central Ayrshire",
+   "key": "central ayrshire",
+   "winner": "Labour",
+   "prev_winner": "SNP",
+   "member": "Alan Gemmell",
+   "notes": "Previous incumbent, Philippa Whitford, did not stand"
+  },
+  {
+   "unit": "Central Devon",
+   "key": "central devon",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Mel Stride",
+   "notes": ""
+  },
+  {
+   "unit": "Central Suffolk and North Ipswich",
+   "key": "central suffolk and north ipswich",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Patrick Spencer",
+   "notes": "Previous incumbent, Dan Poulter, who defected to Labour in April 2024, did not stand"
+  },
+  {
+   "unit": "Ceredigion Preseli",
+   "key": "ceredigion preseli",
+   "winner": "Plaid Cymru",
+   "prev_winner": "Plaid Cymru",
+   "member": "Ben Lake",
+   "notes": "MP for predecessor seat of Ceredigion"
+  },
+  {
+   "unit": "Chatham and Aylesford",
+   "key": "chatham and aylesford",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Tris Osborne",
+   "notes": "Previous incumbent, Tracey Crouch, did not stand"
+  },
+  {
+   "unit": "Cheadle",
+   "key": "cheadle",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "Tom Morrison",
+   "notes": "Defeated incumbent Mary Robinson"
+  },
+  {
+   "unit": "Chelmsford",
+   "key": "chelmsford",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "Marie Goldman",
+   "notes": "Defeated incumbent Vicky Ford"
+  },
+  {
+   "unit": "Chelsea and Fulham",
+   "key": "chelsea and fulham",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Ben Coleman",
+   "notes": "Defeated incumbent Greg Hands"
+  },
+  {
+   "unit": "Cheltenham",
+   "key": "cheltenham",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "Max Wilkinson",
+   "notes": "Defeated incumbent Alex Chalk"
+  },
+  {
+   "unit": "Chesham and Amersham",
+   "key": "chesham and amersham",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "Sarah Green",
+   "notes": "Won by Liberal Democrats at 2021 by-election"
+  },
+  {
+   "unit": "Chester North and Neston",
+   "key": "chester north and neston",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Samantha Dixon",
+   "notes": "MP for predecessor seat of City of Chester"
+  },
+  {
+   "unit": "Chester South and Eddisbury",
+   "key": "chester south and eddisbury",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Aphra Brandreth",
+   "notes": "Edward Timpson, previous incumbent for the predecessor seat of Eddisbury, did not stand"
+  },
+  {
+   "unit": "Chesterfield",
+   "key": "chesterfield",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Toby Perkins",
+   "notes": ""
+  },
+  {
+   "unit": "Chichester",
+   "key": "chichester",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "Jess Brown-Fuller",
+   "notes": "Defeated incumbent Gillian Keegan"
+  },
+  {
+   "unit": "Chingford and Woodford Green",
+   "key": "chingford and woodford green",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Iain Duncan Smith",
+   "notes": ""
+  },
+  {
+   "unit": "Chippenham",
+   "key": "chippenham",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "Sarah Gibson",
+   "notes": "Previous incumbent, Michelle Donelan, unsuccessfully contested the new seat of Melksham and Devizes"
+  },
+  {
+   "unit": "Chipping Barnet",
+   "key": "chipping barnet",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Dan Tomlinson",
+   "notes": "Defeated incumbent Theresa Villiers"
+  },
+  {
+   "unit": "Chorley",
+   "key": "chorley",
+   "winner": "Speaker",
+   "prev_winner": "Speaker",
+   "member": "Lindsay Hoyle",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Christchurch",
+   "key": "christchurch",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Christopher Chope",
+   "notes": ""
+  },
+  {
+   "unit": "Cities of London and Westminster",
+   "key": "cities of london and westminster",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Rachel Blake",
+   "notes": "Previous incumbent, Nickie Aiken, did not stand"
+  },
+  {
+   "unit": "City of Durham",
+   "key": "city of durham",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Mary Foy",
+   "notes": ""
+  },
+  {
+   "unit": "Clacton",
+   "key": "clacton",
+   "winner": "Reform UK",
+   "prev_winner": "Conservative",
+   "member": "Nigel Farage",
+   "notes": "Defeated incumbent Giles Watling"
+  },
+  {
+   "unit": "Clapham and Brixton Hill",
+   "key": "clapham and brixton hill",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Bell Ribeiro-Addy",
+   "notes": "MP for predecessor seat of Streatham"
+  },
+  {
+   "unit": "Clwyd East",
+   "key": "clwyd east",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Becky Gittins",
+   "notes": "Defeated Rob Roberts, incumbent for the predecessor seat of Delyn who stood as an independent, having been elected as a Conservative in 2019. Also defeated James Davies, previously MP for the abolished constituency of Vale of Clwyd."
+  },
+  {
+   "unit": "Clwyd North",
+   "key": "clwyd north",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Gill German",
+   "notes": "Previous incumbent for the predecessor seat of Clwyd West, David Jones, did not stand"
+  },
+  {
+   "unit": "Coatbridge and Bellshill",
+   "key": "coatbridge and bellshill",
+   "winner": "Labour",
+   "prev_winner": "SNP",
+   "member": "Frank McNally",
+   "notes": "Defeated incumbent Steven Bonnar"
+  },
+  {
+   "unit": "Colchester",
+   "key": "colchester",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Pam Cox",
+   "notes": "Previous incumbent, Will Quince, did not stand"
+  },
+  {
+   "unit": "Colne Valley",
+   "key": "colne valley",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Paul Davies",
+   "notes": "Defeated incumbent, Jason McCartney"
+  },
+  {
+   "unit": "Congleton",
+   "key": "congleton",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Sarah Russell",
+   "notes": "Defeated incumbent, Fiona Bruce"
+  },
+  {
+   "unit": "Corby and East Northamptonshire",
+   "key": "corby and east northamptonshire",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Lee Barron",
+   "notes": "Defeated incumbent, Tom Pursglove"
+  },
+  {
+   "unit": "Coventry East",
+   "key": "coventry east",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Mary Creagh",
+   "notes": "Previous incumbent, Colleen Fletcher, did not stand"
+  },
+  {
+   "unit": "Coventry North West",
+   "key": "coventry north west",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Taiwo Owatemi",
+   "notes": ""
+  },
+  {
+   "unit": "Coventry South",
+   "key": "coventry south",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Zarah Sultana",
+   "notes": ""
+  },
+  {
+   "unit": "Cowdenbeath and Kirkcaldy",
+   "key": "cowdenbeath and kirkcaldy",
+   "winner": "Labour",
+   "prev_winner": "SNP",
+   "member": "Melanie Ward",
+   "notes": "Defeated incumbent, Neale Hanvey"
+  },
+  {
+   "unit": "Cramlington and Killingworth",
+   "key": "cramlington and killingworth",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Emma Foody",
+   "notes": "Defeated Ian Levy, incumbent Conservative MP for the predecessor seat of Blyth Valley (notional hold following boundary changes)"
+  },
+  {
+   "unit": "Crawley",
+   "key": "crawley",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Peter Lamb",
+   "notes": "Previous incumbent, Henry Smith, did not stand"
+  },
+  {
+   "unit": "Crewe and Nantwich",
+   "key": "crewe and nantwich",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Connor Naismith",
+   "notes": "Previous incumbent, Kieran Mullan, stood successfully in Bexhill and Battle"
+  },
+  {
+   "unit": "Croydon East",
+   "key": "croydon east",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Natasha Irons",
+   "notes": "Sarah Jones, previous incumbent in the predecessor seat of Croydon Central, stood successfully in Croydon West."
+  },
+  {
+   "unit": "Croydon South",
+   "key": "croydon south",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Chris Philp",
+   "notes": ""
+  },
+  {
+   "unit": "Croydon West",
+   "key": "croydon west",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Sarah Jones",
+   "notes": "Previously MP for Croydon Central. Incumbent for the predecessor seat of Croydon North, Steve Reed, stood successfully in the new seat of Streatham and Croydon North."
+  },
+  {
+   "unit": "Cumbernauld and Kirkintilloch",
+   "key": "cumbernauld and kirkintilloch",
+   "winner": "Labour",
+   "prev_winner": "SNP",
+   "member": "Katrina Murray",
+   "notes": "Defeated incumbent, Stuart McDonald"
+  },
+  {
+   "unit": "Dagenham and Rainham",
+   "key": "dagenham and rainham",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Margaret Mullane",
+   "notes": "Previous incumbent, Jon Cruddas, did not stand"
+  },
+  {
+   "unit": "Darlington",
+   "key": "darlington",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Lola McEvoy",
+   "notes": "Defeated incumbent, Peter Gibson"
+  },
+  {
+   "unit": "Dartford",
+   "key": "dartford",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Jim Dickson",
+   "notes": "Defeated incumbent, Gareth Johnson"
+  },
+  {
+   "unit": "Daventry",
+   "key": "daventry",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Stuart Andrew",
+   "notes": "Moved constituencies – formerly MP for Pudsey. Previous incumbent, Chris Heaton-Harris, did not stand"
+  },
+  {
+   "unit": "Derby North",
+   "key": "derby north",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Catherine Atkinson",
+   "notes": "Defeated incumbent, Amanda Solloway"
+  },
+  {
+   "unit": "Derby South",
+   "key": "derby south",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Baggy Shanker",
+   "notes": "Previous incumbent, Margaret Beckett, did not stand"
+  },
+  {
+   "unit": "Derbyshire Dales",
+   "key": "derbyshire dales",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "John Whitby",
+   "notes": "Defeated incumbent, Sarah Dines"
+  },
+  {
+   "unit": "Dewsbury and Batley",
+   "key": "dewsbury and batley",
+   "winner": "Independent",
+   "prev_winner": "Labour",
+   "member": "Iqbal Mohamed",
+   "notes": "Notional Labour seat in 2019 following boundary changes. Mark Eastwood, Conservative incumbent for the predecessor constituency of Dewsbury, stood unsuccessfully in Ossett and Denby Dale."
+  },
+  {
+   "unit": "Didcot and Wantage",
+   "key": "didcot and wantage",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "Olly Glover",
+   "notes": "Defeated incumbent, David Johnston"
+  },
+  {
+   "unit": "Doncaster Central",
+   "key": "doncaster central",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Sally Jameson",
+   "notes": "Previous incumbent, Rosie Winterton, did not stand"
+  },
+  {
+   "unit": "Doncaster East and the Isle of Axholme",
+   "key": "doncaster east and the isle of axholme",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Lee Pitcher",
+   "notes": "Defeated Nick Fletcher, incumbent for the predecessor seat of Don Valley"
+  },
+  {
+   "unit": "Doncaster North",
+   "key": "doncaster north",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Ed Miliband",
+   "notes": "Secretary of State for Foreign, Commonwealth and Development Affairs (20 July 2026 – present) Secretary of State for Energy Security and Net Zero (5 July 2024 – 20 July 2026)"
+  },
+  {
+   "unit": "Dorking and Horley",
+   "key": "dorking and horley",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "Chris Coghlan",
+   "notes": "Paul Beresford, MP for the predecessor seat of Mole Valley, did not stand."
+  },
+  {
+   "unit": "Dover and Deal",
+   "key": "dover and deal",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Mike Tapp",
+   "notes": "Previous incumbent, Natalie Elphicke, who defected to Labour in May 2024, stood down"
+  },
+  {
+   "unit": "Droitwich and Evesham",
+   "key": "droitwich and evesham",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Nigel Huddleston",
+   "notes": "MP for the predecessor seat of Mid Worcestershire"
+  },
+  {
+   "unit": "Dudley",
+   "key": "dudley",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Sonia Kumar",
+   "notes": "Defeated Marco Longhi, incumbent for the predecessor seat of Dudley North"
+  },
+  {
+   "unit": "Dulwich and West Norwood",
+   "key": "dulwich and west norwood",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Helen Hayes",
+   "notes": ""
+  },
+  {
+   "unit": "Dumfries and Galloway",
+   "key": "dumfries and galloway",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "John Cooper",
+   "notes": "Previous incumbent, Alister Jack, did not stand"
+  },
+  {
+   "unit": "Dumfriesshire, Clydesdale and Tweeddale",
+   "key": "dumfriesshire clydesdale and tweeddale",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "David Mundell",
+   "notes": ""
+  },
+  {
+   "unit": "Dundee Central",
+   "key": "dundee central",
+   "winner": "SNP",
+   "prev_winner": "SNP",
+   "member": "Chris Law",
+   "notes": "MP for the predecessor seat of Dundee West"
+  },
+  {
+   "unit": "Dunfermline and Dollar",
+   "key": "dunfermline and dollar",
+   "winner": "Labour",
+   "prev_winner": "SNP",
+   "member": "Graeme Downie",
+   "notes": "Douglas Chapman, MP for the predecessor seat of Dunfermline and West Fife, did not stand"
+  },
+  {
+   "unit": "Dunstable and Leighton Buzzard",
+   "key": "dunstable and leighton buzzard",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Alex Mayer",
+   "notes": "Defeated Andrew Selous, incumbent for the predecessor seat of South West Bedfordshire"
+  },
+  {
+   "unit": "Dwyfor Meirionnydd",
+   "key": "dwyfor meirionnydd",
+   "winner": "Plaid Cymru",
+   "prev_winner": "Plaid Cymru",
+   "member": "Liz Saville Roberts",
+   "notes": ""
+  },
+  {
+   "unit": "Ealing Central and Acton",
+   "key": "ealing central and acton",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Rupa Huq",
+   "notes": ""
+  },
+  {
+   "unit": "Ealing North",
+   "key": "ealing north",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "James Murray",
+   "notes": "Secretary of State for Health and Social Care (14 May 2026 – 20 July 2026)"
+  },
+  {
+   "unit": "Ealing Southall",
+   "key": "ealing southall",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Deirdre Costigan",
+   "notes": "Previous incumbent, Virendra Sharma, did not stand"
+  },
+  {
+   "unit": "Earley and Woodley",
+   "key": "earley and woodley",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Yuan Yang",
+   "notes": "New seat"
+  },
+  {
+   "unit": "Easington",
+   "key": "easington",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Grahame Morris",
+   "notes": ""
+  },
+  {
+   "unit": "East Antrim",
+   "key": "east antrim",
+   "winner": "DUP",
+   "prev_winner": "DUP",
+   "member": "Sammy Wilson",
+   "notes": ""
+  },
+  {
+   "unit": "East Grinstead and Uckfield",
+   "key": "east grinstead and uckfield",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Mims Davies",
+   "notes": "New seat. Davies was previously MP for Mid Sussex."
+  },
+  {
+   "unit": "East Ham",
+   "key": "east ham",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Stephen Timms",
+   "notes": ""
+  },
+  {
+   "unit": "East Hampshire",
+   "key": "east hampshire",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Damian Hinds",
+   "notes": ""
+  },
+  {
+   "unit": "East Kilbride and Strathaven",
+   "key": "east kilbride and strathaven",
+   "winner": "Labour",
+   "prev_winner": "SNP",
+   "member": "Joani Reid",
+   "notes": "Previous incumbent for the predecessor seat of East Kilbride, Strathaven and Lesmahagow, Lisa Cameron, who defected to the Conservative Party in 2023, did not stand"
+  },
+  {
+   "unit": "East Londonderry",
+   "key": "east londonderry",
+   "winner": "DUP",
+   "prev_winner": "DUP",
+   "member": "Gregory Campbell",
+   "notes": ""
+  },
+  {
+   "unit": "East Renfrewshire",
+   "key": "east renfrewshire",
+   "winner": "Labour",
+   "prev_winner": "SNP",
+   "member": "Blair McDougall",
+   "notes": "Defeated incumbent, Kirsten Oswald"
+  },
+  {
+   "unit": "East Surrey",
+   "key": "east surrey",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Claire Coutinho",
+   "notes": ""
+  },
+  {
+   "unit": "East Thanet",
+   "key": "east thanet",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Polly Billington",
+   "notes": "Craig Mackinlay, incumbent for the predecessor seat of South Thanet, did not stand"
+  },
+  {
+   "unit": "East Wiltshire",
+   "key": "east wiltshire",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Danny Kruger",
+   "notes": "MP for the predecessor constituency of Devizes"
+  },
+  {
+   "unit": "East Worthing and Shoreham",
+   "key": "east worthing and shoreham",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Tom Rutland",
+   "notes": "Previous incumbent, Tim Loughton, did not stand"
+  },
+  {
+   "unit": "Eastbourne",
+   "key": "eastbourne",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "Josh Babarinde",
+   "notes": "Defeated incumbent, Caroline Ansell"
+  },
+  {
+   "unit": "Eastleigh",
+   "key": "eastleigh",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "Liz Jarvis",
+   "notes": "Previous incumbent, Paul Holmes stood in Hamble Valley"
+  },
+  {
+   "unit": "Edinburgh East and Musselburgh",
+   "key": "edinburgh east and musselburgh",
+   "winner": "Labour",
+   "prev_winner": "SNP",
+   "member": "Chris Murray",
+   "notes": "Defeated Tommy Sheppard, incumbent for the predecessor seat of Edinburgh East"
+  },
+  {
+   "unit": "Edinburgh North and Leith",
+   "key": "edinburgh north and leith",
+   "winner": "Labour",
+   "prev_winner": "SNP",
+   "member": "Tracy Gilbert",
+   "notes": "Defeated incumbent, Deidre Brock"
+  },
+  {
+   "unit": "Edinburgh South",
+   "key": "edinburgh south",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Ian Murray",
+   "notes": "Secretary of State for Scotland (5 July 2024 – 5 September 2025)"
+  },
+  {
+   "unit": "Edinburgh South West",
+   "key": "edinburgh south west",
+   "winner": "Labour",
+   "prev_winner": "SNP",
+   "member": "Scott Arthur",
+   "notes": "Defeated incumbent, Joanna Cherry"
+  },
+  {
+   "unit": "Edinburgh West",
+   "key": "edinburgh west",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Liberal Democrats",
+   "member": "Christine Jardine",
+   "notes": ""
+  },
+  {
+   "unit": "Edmonton and Winchmore Hill",
+   "key": "edmonton and winchmore hill",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Kate Osamor",
+   "notes": "MP for the predecessor seat of Edmonton"
+  },
+  {
+   "unit": "Ellesmere Port and Bromborough",
+   "key": "ellesmere port and bromborough",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Justin Madders",
+   "notes": "MP for the predecessor seat of Ellesmere Port and Neston"
+  },
+  {
+   "unit": "Eltham and Chislehurst",
+   "key": "eltham and chislehurst",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Clive Efford",
+   "notes": "MP for the predecessor seat of Eltham. Notional gain following boundary changes."
+  },
+  {
+   "unit": "Ely and East Cambridgeshire",
+   "key": "ely and east cambridgeshire",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "Charlotte Cane",
+   "notes": "Defeated Lucy Frazer, incumbent for the predecessor seat of South East Cambridgeshire"
+  },
+  {
+   "unit": "Enfield North",
+   "key": "enfield north",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Feryal Clark",
+   "notes": ""
+  },
+  {
+   "unit": "Epping Forest",
+   "key": "epping forest",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Neil Hudson",
+   "notes": "Previous incumbent, Eleanor Laing, did not stand"
+  },
+  {
+   "unit": "Epsom and Ewell",
+   "key": "epsom and ewell",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "Helen Maguire",
+   "notes": "Previous incumbent, Chris Grayling, did not stand"
+  },
+  {
+   "unit": "Erewash",
+   "key": "erewash",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Adam Thompson",
+   "notes": "Defeated incumbent, Maggie Throup"
+  },
+  {
+   "unit": "Erith and Thamesmead",
+   "key": "erith and thamesmead",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Abena Oppong-Asare",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "Esher and Walton",
+   "key": "esher and walton",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "Monica Harding",
+   "notes": "Previous incumbent, Dominic Raab, did not stand"
+  },
+  {
+   "unit": "Exeter",
+   "key": "exeter",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Steve Race",
+   "notes": "Previous incumbent, Ben Bradshaw, did not stand"
+  },
+  {
+   "unit": "Exmouth and Exeter East",
+   "key": "exmouth and exeter east",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "David Reed",
+   "notes": "Simon Jupp, MP for the predecessor seat of East Devon, stood unsuccessfully in Honiton and Sidmouth"
+  },
+  {
+   "unit": "Falkirk",
+   "key": "falkirk",
+   "winner": "Labour",
+   "prev_winner": "SNP",
+   "member": "Euan Stainbank",
+   "notes": "Previous incumbent, John McNally, did not stand"
+  },
+  {
+   "unit": "Fareham and Waterlooville",
+   "key": "fareham and waterlooville",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Suella Braverman",
+   "notes": "MP for the predecessor seat of Fareham"
+  },
+  {
+   "unit": "Farnham and Bordon",
+   "key": "farnham and bordon",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Greg Stafford",
+   "notes": "Jeremy Hunt, MP for the predecessor seat of South West Surrey, stood successfully in the new seat of Godalming and Ash."
+  },
+  {
+   "unit": "Faversham and Mid Kent",
+   "key": "faversham and mid kent",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Helen Whately",
+   "notes": ""
+  },
+  {
+   "unit": "Feltham and Heston",
+   "key": "feltham and heston",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Seema Malhotra",
+   "notes": ""
+  },
+  {
+   "unit": "Fermanagh and South Tyrone",
+   "key": "fermanagh and south tyrone",
+   "winner": "Sinn Féin",
+   "prev_winner": "Sinn Féin",
+   "member": "Pat Cullen",
+   "notes": "Previous incumbent, Michelle Gildernew, did not stand"
+  },
+  {
+   "unit": "Filton and Bradley Stoke",
+   "key": "filton and bradley stoke",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Claire Hazelgrove",
+   "notes": "Defeated incumbent, Jack Lopresti"
+  },
+  {
+   "unit": "Finchley and Golders Green",
+   "key": "finchley and golders green",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Sarah Sackman",
+   "notes": "Previous incumbent, Mike Freer, did not stand"
+  },
+  {
+   "unit": "Folkestone and Hythe",
+   "key": "folkestone and hythe",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Tony Vaughan",
+   "notes": "Defeated incumbent, Damian Collins"
+  },
+  {
+   "unit": "Forest of Dean",
+   "key": "forest of dean",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Matt Bishop",
+   "notes": "Defeated incumbent, Mark Harper"
+  },
+  {
+   "unit": "Foyle",
+   "key": "foyle",
+   "winner": "SDLP",
+   "prev_winner": "SDLP",
+   "member": "Colum Eastwood",
+   "notes": ""
+  },
+  {
+   "unit": "Frome and East Somerset",
+   "key": "frome and east somerset",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "Anna Sabine",
+   "notes": "New seat"
+  },
+  {
+   "unit": "Fylde",
+   "key": "fylde",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Andrew Snowden",
+   "notes": "Previous incumbent, Mark Menzies, did not stand"
+  },
+  {
+   "unit": "Gainsborough",
+   "key": "gainsborough",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Edward Leigh",
+   "notes": ""
+  },
+  {
+   "unit": "Gateshead Central and Whickham",
+   "key": "gateshead central and whickham",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Mark Ferguson",
+   "notes": "Ian Mearns, incumbent for the predecessor seat of Gateshead, did not stand"
+  },
+  {
+   "unit": "Gedling",
+   "key": "gedling",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Michael Payne",
+   "notes": "Defeated incumbent, Tom Randall"
+  },
+  {
+   "unit": "Gillingham and Rainham",
+   "key": "gillingham and rainham",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Naushabah Khan",
+   "notes": "Defeated incumbent, Rehman Chishti"
+  },
+  {
+   "unit": "Glasgow East",
+   "key": "glasgow east",
+   "winner": "Labour",
+   "prev_winner": "SNP",
+   "member": "John Grady",
+   "notes": "Defeated incumbent, David Linden"
+  },
+  {
+   "unit": "Glasgow North",
+   "key": "glasgow north",
+   "winner": "Labour",
+   "prev_winner": "SNP",
+   "member": "Martin Rhodes",
+   "notes": "Defeated Alison Thewliss, previously MP for the abolished seat of Glasgow Central. Incumbent Patrick Grady did not stand."
+  },
+  {
+   "unit": "Glasgow North East",
+   "key": "glasgow north east",
+   "winner": "Labour",
+   "prev_winner": "SNP",
+   "member": "Maureen Burke",
+   "notes": "Defeated incumbent, Anne McLaughlin"
+  },
+  {
+   "unit": "Glasgow South",
+   "key": "glasgow south",
+   "winner": "Labour",
+   "prev_winner": "SNP",
+   "member": "Gordon McKee",
+   "notes": "Defeated incumbent, Stewart McDonald"
+  },
+  {
+   "unit": "Glasgow South West",
+   "key": "glasgow south west",
+   "winner": "Labour",
+   "prev_winner": "SNP",
+   "member": "Zubir Ahmed",
+   "notes": "Defeated incumbent, Chris Stephens"
+  },
+  {
+   "unit": "Glasgow West",
+   "key": "glasgow west",
+   "winner": "Labour",
+   "prev_winner": "SNP",
+   "member": "Patricia Ferguson",
+   "notes": "Defeated incumbent, Carol Monaghan"
+  },
+  {
+   "unit": "Glastonbury and Somerton",
+   "key": "glastonbury and somerton",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "Sarah Dyke",
+   "notes": "Predecessor seat of Somerton and Frome gained by Liberal Democrats in 2023 by-election"
+  },
+  {
+   "unit": "Glenrothes and Mid Fife",
+   "key": "glenrothes and mid fife",
+   "winner": "Labour",
+   "prev_winner": "SNP",
+   "member": "Richard Baker",
+   "notes": "Previous incumbent, Peter Grant, did not stand"
+  },
+  {
+   "unit": "Gloucester",
+   "key": "gloucester",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Alex McIntyre",
+   "notes": "Defeated incumbent, Richard Graham"
+  },
+  {
+   "unit": "Godalming and Ash",
+   "key": "godalming and ash",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Jeremy Hunt",
+   "notes": "New seat. Hunt was previously MP for South West Surrey."
+  },
+  {
+   "unit": "Goole and Pocklington",
+   "key": "goole and pocklington",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "David Davis",
+   "notes": "MP for the predecessor seat of Haltemprice and Howden"
+  },
+  {
+   "unit": "Gordon and Buchan",
+   "key": "gordon and buchan",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Harriet Cross",
+   "notes": "Defeated Richard Thomson, incumbent SNP MP for the predecessor constituency of Gordon. Notional hold following boundary changes."
+  },
+  {
+   "unit": "Gorton and Denton",
+   "key": "gorton and denton",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Andrew Gwynne",
+   "notes": "Previously Labour MP for the abolished seat of Denton and Reddish."
+  },
+  {
+   "unit": "Gosport",
+   "key": "gosport",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Caroline Dinenage",
+   "notes": ""
+  },
+  {
+   "unit": "Gower",
+   "key": "gower",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Tonia Antoniazzi",
+   "notes": ""
+  },
+  {
+   "unit": "Grantham and Bourne",
+   "key": "grantham and bourne",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Gareth Davies",
+   "notes": "MP for the predecessor seat of Grantham and Stamford"
+  },
+  {
+   "unit": "Gravesham",
+   "key": "gravesham",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Lauren Sullivan",
+   "notes": "Defeated incumbent, Adam Holloway"
+  },
+  {
+   "unit": "Great Grimsby and Cleethorpes",
+   "key": "great grimsby and cleethorpes",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Melanie Onn",
+   "notes": "Defeated Lia Nici-Townend, incumbent for the predecessor seat of Great Grimsby."
+  },
+  {
+   "unit": "Great Yarmouth",
+   "key": "great yarmouth",
+   "winner": "Reform UK",
+   "prev_winner": "Conservative",
+   "member": "Rupert Lowe",
+   "notes": "Previous incumbent, Brandon Lewis, did not stand"
+  },
+  {
+   "unit": "Greenwich and Woolwich",
+   "key": "greenwich and woolwich",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Matthew Pennycook",
+   "notes": ""
+  },
+  {
+   "unit": "Guildford",
+   "key": "guildford",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "Zöe Franklin",
+   "notes": "Defeated incumbent, Angela Richardson"
+  },
+  {
+   "unit": "Hackney North and Stoke Newington",
+   "key": "hackney north and stoke newington",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Diane Abbott",
+   "notes": ""
+  },
+  {
+   "unit": "Hackney South and Shoreditch",
+   "key": "hackney south and shoreditch",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Meg Hillier",
+   "notes": ""
+  },
+  {
+   "unit": "Halesowen",
+   "key": "halesowen",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Alex Ballinger",
+   "notes": "Defeated James Morris, incumbent for the predecessor seat of Halesowen and Rowley Regis"
+  },
+  {
+   "unit": "Halifax",
+   "key": "halifax",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Kate Dearden",
+   "notes": "Incumbent Holly Lynch did not stand"
+  },
+  {
+   "unit": "Hamble Valley",
+   "key": "hamble valley",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Paul Holmes",
+   "notes": "New seat. Holmes was previously MP for Eastleigh."
+  },
+  {
+   "unit": "Hamilton and Clyde Valley",
+   "key": "hamilton and clyde valley",
+   "winner": "Labour",
+   "prev_winner": "SNP",
+   "member": "Imogen Walker",
+   "notes": "Angela Crawley, MP for the predecessor seat of Lanark and Hamilton East, did not stand"
+  },
+  {
+   "unit": "Hammersmith and Chiswick",
+   "key": "hammersmith and chiswick",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Andy Slaughter",
+   "notes": "MP for the predecessor seat of Hammersmith"
+  },
+  {
+   "unit": "Hampstead and Highgate",
+   "key": "hampstead and highgate",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Tulip Siddiq",
+   "notes": "MP for the predecessor seat of Hampstead and Kilburn"
+  },
+  {
+   "unit": "Harborough, Oadby and Wigston",
+   "key": "harborough oadby and wigston",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Neil O'Brien",
+   "notes": ""
+  },
+  {
+   "unit": "Harlow",
+   "key": "harlow",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Chris Vince",
+   "notes": "Incumbent Robert Halfon did not stand"
+  },
+  {
+   "unit": "Harpenden and Berkhamsted",
+   "key": "harpenden and berkhamsted",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "Victoria Collins",
+   "notes": "Won new seat"
+  },
+  {
+   "unit": "Harrogate and Knaresborough",
+   "key": "harrogate and knaresborough",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "Tom Gordon",
+   "notes": "Defeated incumbent, Andrew Jones"
+  },
+  {
+   "unit": "Harrow East",
+   "key": "harrow east",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Bob Blackman",
+   "notes": ""
+  },
+  {
+   "unit": "Harrow West",
+   "key": "harrow west",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Gareth Thomas",
+   "notes": ""
+  },
+  {
+   "unit": "Hartlepool",
+   "key": "hartlepool",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Jonathan Brash",
+   "notes": "Defeated Conservative incumbent Jill Mortimer who was elected in 2021 by-election"
+  },
+  {
+   "unit": "Harwich and North Essex",
+   "key": "harwich and north essex",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Bernard Jenkin",
+   "notes": ""
+  },
+  {
+   "unit": "Hastings and Rye",
+   "key": "hastings and rye",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Helena Dollimore",
+   "notes": "Defeated incumbent Sally-Ann Hart"
+  },
+  {
+   "unit": "Havant",
+   "key": "havant",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Alan Mak",
+   "notes": ""
+  },
+  {
+   "unit": "Hayes and Harlington",
+   "key": "hayes and harlington",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "John McDonnell",
+   "notes": ""
+  },
+  {
+   "unit": "Hazel Grove",
+   "key": "hazel grove",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "Lisa Smart",
+   "notes": "Incumbent William Wragg did not stand"
+  },
+  {
+   "unit": "Hemel Hempstead",
+   "key": "hemel hempstead",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "David Taylor",
+   "notes": "Incumbent Mike Penning did not stand"
+  },
+  {
+   "unit": "Hendon",
+   "key": "hendon",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "David Pinto-Duschinsky",
+   "notes": "Incumbent Matthew Offord did not stand"
+  },
+  {
+   "unit": "Henley and Thame",
+   "key": "henley and thame",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "Freddie van Mierlo",
+   "notes": "Incumbent John Howell did not stand"
+  },
+  {
+   "unit": "Hereford and South Herefordshire",
+   "key": "hereford and south herefordshire",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Jesse Norman",
+   "notes": ""
+  },
+  {
+   "unit": "Herne Bay and Sandwich",
+   "key": "herne bay and sandwich",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Roger Gale",
+   "notes": "MP for the predecessor seat of North Thanet"
+  },
+  {
+   "unit": "Hertford and Stortford",
+   "key": "hertford and stortford",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Josh Dean",
+   "notes": "Defeated incumbent, Julie Marson"
+  },
+  {
+   "unit": "Hertsmere",
+   "key": "hertsmere",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Oliver Dowden",
+   "notes": ""
+  },
+  {
+   "unit": "Hexham",
+   "key": "hexham",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Joe Morris",
+   "notes": "Defeated incumbent, Guy Opperman"
+  },
+  {
+   "unit": "Heywood and Middleton North",
+   "key": "heywood and middleton north",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Elsie Blundell",
+   "notes": "Notional hold following boundary changes. Incumbent Conservative MP Chris Clarkson stood unsuccessfully in Stratford-on-Avon"
+  },
+  {
+   "unit": "High Peak",
+   "key": "high peak",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Jon Pearce",
+   "notes": "Defeated incumbent, Robert Largan"
+  },
+  {
+   "unit": "Hinckley and Bosworth",
+   "key": "hinckley and bosworth",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Luke Evans",
+   "notes": ""
+  },
+  {
+   "unit": "Hitchin",
+   "key": "hitchin",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Alistair Strathern",
+   "notes": "Defeated Bim Afolami, incumbent for the predecessor seat of Hitchin and Harpenden; Strathern won the 2023 Mid Bedfordshire by-election and a small part of that constituency was transferred to Hitchin."
+  },
+  {
+   "unit": "Holborn and St Pancras",
+   "key": "holborn and st pancras",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Keir Starmer",
+   "notes": "Prime Minister of the United Kingdom (5 July 2024 – 20 July 2026)"
+  },
+  {
+   "unit": "Honiton and Sidmouth",
+   "key": "honiton and sidmouth",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "Richard Foord",
+   "notes": "Foord won the predecessor seat of Tiverton and Honiton in the 2022 by-election. He defeated Simon Jupp, previously MP for East Devon."
+  },
+  {
+   "unit": "Hornchurch and Upminster",
+   "key": "hornchurch and upminster",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Julia Lopez",
+   "notes": ""
+  },
+  {
+   "unit": "Hornsey and Friern Barnet",
+   "key": "hornsey and friern barnet",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Catherine West",
+   "notes": "MP for the predecessor seat of Hornsey and Wood Green"
+  },
+  {
+   "unit": "Horsham",
+   "key": "horsham",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "John Milne",
+   "notes": "Defeated incumbent, Jeremy Quin"
+  },
+  {
+   "unit": "Houghton and Sunderland South",
+   "key": "houghton and sunderland south",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Bridget Phillipson",
+   "notes": "Minister for Women and Equalities (8 July 2024 – present) Secretary of State for Education (5 July 2024 – 20 July 2026)"
+  },
+  {
+   "unit": "Hove and Portslade",
+   "key": "hove and portslade",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Peter Kyle",
+   "notes": "Secretary of State for Business and Trade, President of the Board of Trade (5 September 2025 – 20 July 2026)"
+  },
+  {
+   "unit": "Huddersfield",
+   "key": "huddersfield",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Harpreet Uppal",
+   "notes": "Incumbent Barry Sheerman did not stand"
+  },
+  {
+   "unit": "Huntingdon",
+   "key": "huntingdon",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Ben Obese-Jecty",
+   "notes": "Incumbent Jonathan Djanogly did not stand"
+  },
+  {
+   "unit": "Hyndburn",
+   "key": "hyndburn",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Sarah Smith",
+   "notes": "Defeated incumbent Sara Britcliffe"
+  },
+  {
+   "unit": "Ilford North",
+   "key": "ilford north",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Wes Streeting",
+   "notes": "Secretary of State for Defence (20 July 2026 – present) Secretary of State for Health and Social Care (5 July 2024 – 14 May 2026)"
+  },
+  {
+   "unit": "Ilford South",
+   "key": "ilford south",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Jas Athwal",
+   "notes": "Incumbent Sam Tarry did not stand"
+  },
+  {
+   "unit": "Inverclyde and Renfrewshire West",
+   "key": "inverclyde and renfrewshire west",
+   "winner": "Labour",
+   "prev_winner": "SNP",
+   "member": "Martin McCluskey",
+   "notes": "Defeated Ronnie Cowan, incumbent for the predecessor seat of Inverclyde"
+  },
+  {
+   "unit": "Inverness, Skye and West Ross-shire",
+   "key": "inverness skye and west ross shire",
+   "winner": "Liberal Democrats",
+   "prev_winner": "SNP",
+   "member": "Angus MacDonald",
+   "notes": "Defeated Drew Hendry, incumbent for the predecessor seat of Inverness, Nairn, Badenoch and Strathspey"
+  },
+  {
+   "unit": "Ipswich",
+   "key": "ipswich",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Jack Abbott",
+   "notes": "Defeated incumbent, Tom Hunt"
+  },
+  {
+   "unit": "Isle of Wight East",
+   "key": "isle of wight east",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Joe Robertson",
+   "notes": "New seat won"
+  },
+  {
+   "unit": "Isle of Wight West",
+   "key": "isle of wight west",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Richard Quigley",
+   "notes": "Defeated Bob Seely, incumbent MP for Isle of Wight"
+  },
+  {
+   "unit": "Islington North",
+   "key": "islington north",
+   "winner": "Independent",
+   "prev_winner": "Labour",
+   "member": "Jeremy Corbyn",
+   "notes": "Seat held. Corbyn was elected for Labour in 2019, but had sat as an independent since 2020."
+  },
+  {
+   "unit": "Islington South and Finsbury",
+   "key": "islington south and finsbury",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Emily Thornberry",
+   "notes": ""
+  },
+  {
+   "unit": "Jarrow and Gateshead East",
+   "key": "jarrow and gateshead east",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Kate Osborne",
+   "notes": "MP for the predecessor seat of Jarrow"
+  },
+  {
+   "unit": "Keighley and Ilkley",
+   "key": "keighley and ilkley",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Robbie Moore",
+   "notes": ""
+  },
+  {
+   "unit": "Kenilworth and Southam",
+   "key": "kenilworth and southam",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Jeremy Wright",
+   "notes": ""
+  },
+  {
+   "unit": "Kensington and Bayswater",
+   "key": "kensington and bayswater",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Joe Powell",
+   "notes": "Notional hold. Defeated Felicity Buchan, incumbent Conservative MP for the predecessor seat of Kensington."
+  },
+  {
+   "unit": "Kettering",
+   "key": "kettering",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Rosie Wrighting",
+   "notes": "Defeated incumbent, Philip Hollobone"
+  },
+  {
+   "unit": "Kilmarnock and Loudoun",
+   "key": "kilmarnock and loudoun",
+   "winner": "Labour",
+   "prev_winner": "SNP",
+   "member": "Lillian Jones",
+   "notes": "Defeated incumbent, Alan Brown"
+  },
+  {
+   "unit": "Kingston and Surbiton",
+   "key": "kingston and surbiton",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Liberal Democrats",
+   "member": "Ed Davey",
+   "notes": ""
+  },
+  {
+   "unit": "Kingston upon Hull East",
+   "key": "kingston upon hull east",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Karl Turner",
+   "notes": ""
+  },
+  {
+   "unit": "Kingston upon Hull North and Cottingham",
+   "key": "kingston upon hull north and cottingham",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Diana Johnson",
+   "notes": "MP for predecessor seat of Kingston upon Hull North"
+  },
+  {
+   "unit": "Kingston upon Hull West and Haltemprice",
+   "key": "kingston upon hull west and haltemprice",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Emma Hardy",
+   "notes": "Notional gain following boundary changes. Hardy was previously MP for the predecessor seat of Kingston upon Hull West and Hessle."
+  },
+  {
+   "unit": "Kingswinford and South Staffordshire",
+   "key": "kingswinford and south staffordshire",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Mike Wood",
+   "notes": "Previously MP for the abolished seat of Dudley South"
+  },
+  {
+   "unit": "Knowsley",
+   "key": "knowsley",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Anneliese Midgley",
+   "notes": "Previous incumbent, George Howarth, did not stand Parliamentary Secretary to the Treasury (Chief Whip) (20 July 2026 – present)"
+  },
+  {
+   "unit": "Lagan Valley",
+   "key": "lagan valley",
+   "winner": "Alliance",
+   "prev_winner": "DUP",
+   "member": "Sorcha Eastwood",
+   "notes": "Previous incumbent, Jeffrey Donaldson, did not stand"
+  },
+  {
+   "unit": "Lancaster and Wyre",
+   "key": "lancaster and wyre",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Cat Smith",
+   "notes": "Notional gain following boundary changes. Smith was previously MP for the predecessor seat of Lancaster and Fleetwood."
+  },
+  {
+   "unit": "Leeds Central and Headingley",
+   "key": "leeds central and headingley",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Alex Sobel",
+   "notes": "New seat. Sobel was previously MP for Leeds North West"
+  },
+  {
+   "unit": "Leeds East",
+   "key": "leeds east",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Richard Burgon",
+   "notes": ""
+  },
+  {
+   "unit": "Leeds North East",
+   "key": "leeds north east",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Fabian Hamilton",
+   "notes": ""
+  },
+  {
+   "unit": "Leeds North West",
+   "key": "leeds north west",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Katie White",
+   "notes": "Notional gain following boundary changes. Incumbent Labour MP, Alex Sobel, stood successfully for the new seat of Leeds Central and Headingley."
+  },
+  {
+   "unit": "Leeds South",
+   "key": "leeds south",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Hilary Benn",
+   "notes": "MP for the predecessor seat of Leeds Central Secretary of State for Northern Ireland (5 July 2024 – 20 July 2026)"
+  },
+  {
+   "unit": "Leeds South West and Morley",
+   "key": "leeds south west and morley",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Mark Sewards",
+   "notes": "Defeated Andrea Jenkyns, incumbent for the predecessor seat of Morley and Outwood."
+  },
+  {
+   "unit": "Leeds West and Pudsey",
+   "key": "leeds west and pudsey",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Rachel Reeves",
+   "notes": "Notional hold following boundary changes. Reeves was MP for the abolished seat of Leeds West. Previous incumbent for the predecessor seat of Pudsey, Stuart Andrew, stood in Daventry Chancellor of the Exchequer (5 July 2024 – 20 July 2026)"
+  },
+  {
+   "unit": "Leicester East",
+   "key": "leicester east",
+   "winner": "Conservative",
+   "prev_winner": "Labour",
+   "member": "Shivani Raja",
+   "notes": "Defeated incumbent, Claudia Webbe, who stood as an independent. She was elected for Labour in 2019, but had sat as an independent since 2021."
+  },
+  {
+   "unit": "Leicester South",
+   "key": "leicester south",
+   "winner": "Independent",
+   "prev_winner": "Labour",
+   "member": "Shockat Adam",
+   "notes": "Defeated incumbent, Jonathan Ashworth"
+  },
+  {
+   "unit": "Leicester West",
+   "key": "leicester west",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Liz Kendall",
+   "notes": "Secretary of State for Work and Pensions (5 July 2024 – 5 September 2025) Secretary of State for Science, Innovation and Technology (5 September 2025 – 20 July 2026)"
+  },
+  {
+   "unit": "Leigh and Atherton",
+   "key": "leigh and atherton",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Jo Platt",
+   "notes": "Previous incumbent for the predecessor seat of Leigh, James Grundy, did not stand"
+  },
+  {
+   "unit": "Lewes",
+   "key": "lewes",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "James MacCleary",
+   "notes": "Defeated incumbent, Maria Caulfield"
+  },
+  {
+   "unit": "Lewisham East",
+   "key": "lewisham east",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Janet Daby",
+   "notes": ""
+  },
+  {
+   "unit": "Lewisham North",
+   "key": "lewisham north",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Vicky Foxcroft",
+   "notes": "MP for the predecessor seat of Lewisham Deptford"
+  },
+  {
+   "unit": "Lewisham West and East Dulwich",
+   "key": "lewisham west and east dulwich",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Ellie Reeves",
+   "notes": "MP for predecessor seat of Lewisham West and Penge. Attorney General and Advocate General for Northern Ireland (20 July 2026 – present) Minister of State (Minister without Portfolio)(2 December 2024 – 6 September 2025)"
+  },
+  {
+   "unit": "Leyton and Wanstead",
+   "key": "leyton and wanstead",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Calvin Bailey",
+   "notes": "Previous incumbent, John Cryer, did not stand"
+  },
+  {
+   "unit": "Lichfield",
+   "key": "lichfield",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Dave Robertson",
+   "notes": "Defeated incumbent, Michael Fabricant"
+  },
+  {
+   "unit": "Lincoln",
+   "key": "lincoln",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Hamish Falconer",
+   "notes": "Defeated incumbent, Karl McCartney"
+  },
+  {
+   "unit": "Liverpool Garston",
+   "key": "liverpool garston",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Maria Eagle",
+   "notes": "MP for the predecessor seat of Garston and Halewood"
+  },
+  {
+   "unit": "Liverpool Riverside",
+   "key": "liverpool riverside",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Kim Johnson",
+   "notes": ""
+  },
+  {
+   "unit": "Liverpool Walton",
+   "key": "liverpool walton",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Dan Carden",
+   "notes": ""
+  },
+  {
+   "unit": "Liverpool Wavertree",
+   "key": "liverpool wavertree",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Paula Barker",
+   "notes": ""
+  },
+  {
+   "unit": "Liverpool West Derby",
+   "key": "liverpool west derby",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Ian Byrne",
+   "notes": ""
+  },
+  {
+   "unit": "Livingston",
+   "key": "livingston",
+   "winner": "Labour",
+   "prev_winner": "SNP",
+   "member": "Gregor Poynton",
+   "notes": "Defeated incumbent, Hannah Bardell"
+  },
+  {
+   "unit": "Llanelli",
+   "key": "llanelli",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Nia Griffith",
+   "notes": ""
+  },
+  {
+   "unit": "Lothian East",
+   "key": "lothian east",
+   "winner": "Labour",
+   "prev_winner": "SNP",
+   "member": "Douglas Alexander",
+   "notes": "Previous incumbent, Kenny MacAskill, stood in Alloa and Grangemouth for the Alba Party. Secretary of State for Scotland (5 September 2025 – present) Minister of State (also Minister for Trade Policy and Economic Security) (10 February 2025– 5 September 2025)"
+  },
+  {
+   "unit": "Loughborough",
+   "key": "loughborough",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Jeevun Sandher",
+   "notes": "Defeated incumbent, Jane Hunt"
+  },
+  {
+   "unit": "Louth and Horncastle",
+   "key": "louth and horncastle",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Victoria Atkins",
+   "notes": ""
+  },
+  {
+   "unit": "Lowestoft",
+   "key": "lowestoft",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Jessica Asato",
+   "notes": "Defeated Peter Aldous, incumbent for the predecessor seat of Waveney"
+  },
+  {
+   "unit": "Luton North",
+   "key": "luton north",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Sarah Owen",
+   "notes": ""
+  },
+  {
+   "unit": "Luton South and South Bedfordshire",
+   "key": "luton south and south bedfordshire",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Rachel Hopkins",
+   "notes": ""
+  },
+  {
+   "unit": "Macclesfield",
+   "key": "macclesfield",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Tim Roca",
+   "notes": "Defeated incumbent, David Rutley"
+  },
+  {
+   "unit": "Maidenhead",
+   "key": "maidenhead",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "Joshua Reynolds",
+   "notes": "Previous incumbent, Theresa May, did not stand"
+  },
+  {
+   "unit": "Maidstone and Malling",
+   "key": "maidstone and malling",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Helen Grant",
+   "notes": "MP for the predecessor seat of Maidstone and The Weald"
+  },
+  {
+   "unit": "Makerfield",
+   "key": "makerfield",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Josh Simons",
+   "notes": "Previous incumbent, Yvonne Fovargue, did not stand"
+  },
+  {
+   "unit": "Maldon",
+   "key": "maldon",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "John Whittingdale",
+   "notes": ""
+  },
+  {
+   "unit": "Manchester Central",
+   "key": "manchester central",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Lucy Powell",
+   "notes": "Secretary of State for Education (20 July 2026 – present) Lord President of the Council and Leader of the House of Commons (5 July 2024 – 5 September 2025)"
+  },
+  {
+   "unit": "Manchester Rusholme",
+   "key": "manchester rusholme",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Afzal Khan",
+   "notes": "New seat. Khan was previously MP for Manchester Gorton"
+  },
+  {
+   "unit": "Manchester Withington",
+   "key": "manchester withington",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Jeff Smith",
+   "notes": ""
+  },
+  {
+   "unit": "Mansfield",
+   "key": "mansfield",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Steve Yemm",
+   "notes": "Defeated incumbent, Ben Bradley"
+  },
+  {
+   "unit": "Melksham and Devizes",
+   "key": "melksham and devizes",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "Brian Mathew",
+   "notes": "New seat. Mathew defeated Michelle Donelan, who was previously MP for Chippenham."
+  },
+  {
+   "unit": "Melton and Syston",
+   "key": "melton and syston",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Edward Argar",
+   "notes": "New seat. Argar was previously MP for Charnwood."
+  },
+  {
+   "unit": "Meriden and Solihull East",
+   "key": "meriden and solihull east",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Saqib Bhatti",
+   "notes": "MP for the predecessor seat of Meriden"
+  },
+  {
+   "unit": "Merthyr Tydfil and Aberdare",
+   "key": "merthyr tydfil and aberdare",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Gerald Jones",
+   "notes": "MP for the predecessor seat of Merthyr Tydfil and Ryhmney"
+  },
+  {
+   "unit": "Mid and South Pembrokeshire",
+   "key": "mid and south pembrokeshire",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Henry Tufnell",
+   "notes": "Defeated Stephen Crabb, incumbent for the predecessor seat of Preseli Pembrokeshire"
+  },
+  {
+   "unit": "Mid Bedfordshire",
+   "key": "mid bedfordshire",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Blake Stephenson",
+   "notes": "Won by Alistair Strathern for Labour in 2023 by-election. Strathern stood in Hitchin in 2024."
+  },
+  {
+   "unit": "Mid Buckinghamshire",
+   "key": "mid buckinghamshire",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Greg Smith",
+   "notes": "New seat. Smith was previously the MP for Buckingham."
+  },
+  {
+   "unit": "Mid Cheshire",
+   "key": "mid cheshire",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Andrew Cooper",
+   "notes": "New seat"
+  },
+  {
+   "unit": "Mid Derbyshire",
+   "key": "mid derbyshire",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Jonathan Davies",
+   "notes": "Previous incumbent, Pauline Latham, did not stand"
+  },
+  {
+   "unit": "Mid Dorset and North Poole",
+   "key": "mid dorset and north poole",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "Vikki Slade",
+   "notes": "Defeated incumbent, Michael Tomlinson"
+  },
+  {
+   "unit": "Mid Dunbartonshire",
+   "key": "mid dunbartonshire",
+   "winner": "Liberal Democrats",
+   "prev_winner": "SNP",
+   "member": "Susan Murray",
+   "notes": "Defeated Amy Callaghan, incumbent for the predecessor seat of East Dunbartonshire"
+  },
+  {
+   "unit": "Mid Leicestershire",
+   "key": "mid leicestershire",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Peter Bedford",
+   "notes": "Incumbent for the predecessor seat of Charnwood, Edward Argar, stood in the new seat of Melton and Syston"
+  },
+  {
+   "unit": "Mid Norfolk",
+   "key": "mid norfolk",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "George Freeman",
+   "notes": ""
+  },
+  {
+   "unit": "Mid Sussex",
+   "key": "mid sussex",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "Alison Bennett",
+   "notes": "Previous incumbent, Mims Davies, stood in the new seat of East Grinstead and Uckfield"
+  },
+  {
+   "unit": "Mid Ulster",
+   "key": "mid ulster",
+   "winner": "Sinn Féin",
+   "prev_winner": "Sinn Féin",
+   "member": "Cathal Mallaghan",
+   "notes": "Previous incumbent, Francie Molloy, did not stand"
+  },
+  {
+   "unit": "Middlesbrough and Thornaby East",
+   "key": "middlesbrough and thornaby east",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Andy McDonald",
+   "notes": "MP for the predecessor seat of Middlesbrough"
+  },
+  {
+   "unit": "Middlesbrough South and East Cleveland",
+   "key": "middlesbrough south and east cleveland",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Luke Myer",
+   "notes": "Defeated incumbent, Simon Clarke"
+  },
+  {
+   "unit": "Midlothian",
+   "key": "midlothian",
+   "winner": "Labour",
+   "prev_winner": "SNP",
+   "member": "Kirsty McNeill",
+   "notes": "Defeated incumbent, Owen Thompson"
+  },
+  {
+   "unit": "Milton Keynes Central",
+   "key": "milton keynes central",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Emily Darlington",
+   "notes": "Iain Stewart, incumbent MP for the predecessor seat of Milton Keynes South, stood unsuccessfully in the new seat of Buckingham and Bletchley"
+  },
+  {
+   "unit": "Milton Keynes North",
+   "key": "milton keynes north",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Chris Curtis",
+   "notes": "Defeated incumbent, Ben Everitt"
+  },
+  {
+   "unit": "Mitcham and Morden",
+   "key": "mitcham and morden",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Siobhain McDonagh",
+   "notes": ""
+  },
+  {
+   "unit": "Monmouthshire",
+   "key": "monmouthshire",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Catherine Fookes",
+   "notes": "Defeated incumbent, David TC Davies"
+  },
+  {
+   "unit": "Montgomeryshire and Glyndŵr",
+   "key": "montgomeryshire and glyndwr",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Steve Witherden",
+   "notes": "Defeated Craig Williams, incumbent for the predecessor seat of Montgomeryshire"
+  },
+  {
+   "unit": "Moray West, Nairn and Strathspey",
+   "key": "moray west nairn and strathspey",
+   "winner": "SNP",
+   "prev_winner": "SNP",
+   "member": "Graham Leadbitter",
+   "notes": "Notional hold following boundary changes. Douglas Ross, incumbent Conservative MP for the predecessor seat of Moray, stood unsuccessfully in Aberdeenshire North and Moray East"
+  },
+  {
+   "unit": "Morecambe and Lunesdale",
+   "key": "morecambe and lunesdale",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Lizzi Collinge",
+   "notes": "Defeated incumbent, David Morris"
+  },
+  {
+   "unit": "Motherwell, Wishaw and Carluke",
+   "key": "motherwell wishaw and carluke",
+   "winner": "Labour",
+   "prev_winner": "SNP",
+   "member": "Pamela Nash",
+   "notes": "Defeated Marion Fellows, incumbent for the predecessor seat of Motherwell and Wishaw"
+  },
+  {
+   "unit": "Na h-Eileanan an Iar",
+   "key": "na h eileanan an iar",
+   "winner": "Labour",
+   "prev_winner": "SNP",
+   "member": "Torcuil Crichton",
+   "notes": "Defeated incumbent, Angus MacNeil"
+  },
+  {
+   "unit": "Neath and Swansea East",
+   "key": "neath and swansea east",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Carolyn Harris",
+   "notes": "Formerly MP for the abolished seat of Swansea East. Previous incumbent for the predecessor seat of Neath, Christina Rees, did not stand"
+  },
+  {
+   "unit": "New Forest East",
+   "key": "new forest east",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Julian Lewis",
+   "notes": ""
+  },
+  {
+   "unit": "New Forest West",
+   "key": "new forest west",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Desmond Swayne",
+   "notes": ""
+  },
+  {
+   "unit": "Newark",
+   "key": "newark",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Robert Jenrick",
+   "notes": ""
+  },
+  {
+   "unit": "Newbury",
+   "key": "newbury",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "Lee Dillon",
+   "notes": "Defeated incumbent, Laura Farris"
+  },
+  {
+   "unit": "Newcastle upon Tyne Central and West",
+   "key": "newcastle upon tyne central and west",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Chi Onwurah",
+   "notes": "MP for the predecessor seat of Newcastle upon Tyne Central"
+  },
+  {
+   "unit": "Newcastle upon Tyne East and Wallsend",
+   "key": "newcastle upon tyne east and wallsend",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Mary Glindon",
+   "notes": "Formerly MP for the abolished seat of North Tyneside. Previous incumbent for the predecessor seat of Newcastle upon Tyne East, Nick Brown, did not stand."
+  },
+  {
+   "unit": "Newcastle upon Tyne North",
+   "key": "newcastle upon tyne north",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Catherine McKinnell",
+   "notes": ""
+  },
+  {
+   "unit": "Newcastle-under-Lyme",
+   "key": "newcastle under lyme",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Adam Jogee",
+   "notes": "Previous incumbent, Aaron Bell, did not stand"
+  },
+  {
+   "unit": "Newport East",
+   "key": "newport east",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Jessica Morden",
+   "notes": ""
+  },
+  {
+   "unit": "Newport West and Islwyn",
+   "key": "newport west and islwyn",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Ruth Jones",
+   "notes": "Formerly MP for the abolished seat of Newport West. Previous incumbent for the predecessor seat of Islwyn, Chris Evans, stood successfully for Caerphilly."
+  },
+  {
+   "unit": "Newry and Armagh",
+   "key": "newry and armagh",
+   "winner": "Sinn Féin",
+   "prev_winner": "Sinn Féin",
+   "member": "Dáire Hughes",
+   "notes": "Previous incumbent, Mickey Brady, did not stand"
+  },
+  {
+   "unit": "Newton Abbot",
+   "key": "newton abbot",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "Martin Wrigley",
+   "notes": "Defeated incumbent, Anne Marie Morris"
+  },
+  {
+   "unit": "Newton Aycliffe and Spennymoor",
+   "key": "newton aycliffe and spennymoor",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Alan Strickland",
+   "notes": "Defeated Paul Howell, incumbent for the predecessor seat of Sedgefield"
+  },
+  {
+   "unit": "Normanton and Hemsworth",
+   "key": "normanton and hemsworth",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Jon Trickett",
+   "notes": "MP for the predecessor seat of Hemsworth"
+  },
+  {
+   "unit": "North Antrim",
+   "key": "north antrim",
+   "winner": "TUV",
+   "prev_winner": "DUP",
+   "member": "Jim Allister",
+   "notes": "Defeated incumbent, Ian Paisley Jr"
+  },
+  {
+   "unit": "North Ayrshire and Arran",
+   "key": "north ayrshire and arran",
+   "winner": "Labour",
+   "prev_winner": "SNP",
+   "member": "Irene Campbell",
+   "notes": "Defeated incumbent, Patricia Gibson"
+  },
+  {
+   "unit": "North Bedfordshire",
+   "key": "north bedfordshire",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Richard Fuller",
+   "notes": "MP for the predecessor seat of North East Bedfordshire"
+  },
+  {
+   "unit": "North Cornwall",
+   "key": "north cornwall",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "Ben Maguire",
+   "notes": "Defeated incumbent, Scott Mann"
+  },
+  {
+   "unit": "North Cotswolds",
+   "key": "north cotswolds",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Geoffrey Clifton-Brown",
+   "notes": "New seat. Clifton-Brown was previously MP for The Cotswolds"
+  },
+  {
+   "unit": "North Devon",
+   "key": "north devon",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "Ian Roome",
+   "notes": "Defeated incumbent, Selaine Saxby"
+  },
+  {
+   "unit": "North Dorset",
+   "key": "north dorset",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Simon Hoare",
+   "notes": "Seat held"
+  },
+  {
+   "unit": "North Down",
+   "key": "north down",
+   "winner": "Independent",
+   "prev_winner": "Alliance",
+   "member": "Alex Easton",
+   "notes": "Defeated incumbent, Stephen Farry"
+  },
+  {
+   "unit": "North Durham",
+   "key": "north durham",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Luke Akehurst",
+   "notes": "Previous incumbent, Kevan Jones, did not stand"
+  },
+  {
+   "unit": "North East Cambridgeshire",
+   "key": "north east cambridgeshire",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Steve Barclay",
+   "notes": ""
+  },
+  {
+   "unit": "North East Derbyshire",
+   "key": "north east derbyshire",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Louise Jones",
+   "notes": "Defeated incumbent, Lee Rowley"
+  },
+  {
+   "unit": "North East Fife",
+   "key": "north east fife",
+   "winner": "Liberal Democrats",
+   "prev_winner": "SNP",
+   "member": "Wendy Chamberlain",
+   "notes": "Seat held. Nominal gain following boundary changes."
+  },
+  {
+   "unit": "North East Hampshire",
+   "key": "north east hampshire",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "Alex Brewer",
+   "notes": "Defeated incumbent, Ranil Jayawardena"
+  },
+  {
+   "unit": "North East Hertfordshire",
+   "key": "north east hertfordshire",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Chris Hinchliff",
+   "notes": "Previous incumbent, Oliver Heald, did not stand"
+  },
+  {
+   "unit": "North East Somerset and Hanham",
+   "key": "north east somerset and hanham",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Dan Norris",
+   "notes": "Defeated Jacob Rees-Mogg, incumbent for the predecessor seat of North East Somerset"
+  },
+  {
+   "unit": "North Herefordshire",
+   "key": "north herefordshire",
+   "winner": "Green",
+   "prev_winner": "Conservative",
+   "member": "Ellie Chowns",
+   "notes": "Defeated incumbent, Bill Wiggin"
+  },
+  {
+   "unit": "North Norfolk",
+   "key": "north norfolk",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "Steffan Aquarone",
+   "notes": "Defeated incumbent, Duncan Baker"
+  },
+  {
+   "unit": "North Northumberland",
+   "key": "north northumberland",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "David Smith",
+   "notes": "Defeated Anne-Marie Trevelyan, incumbent for the predecessor seat of Berwick-upon-Tweed"
+  },
+  {
+   "unit": "North Shropshire",
+   "key": "north shropshire",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "Helen Morgan",
+   "notes": "Won by Liberal Democrats at 2021 by-election"
+  },
+  {
+   "unit": "North Somerset",
+   "key": "north somerset",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Sadik Al-Hassan",
+   "notes": "Defeated incumbent, Liam Fox"
+  },
+  {
+   "unit": "North Warwickshire and Bedworth",
+   "key": "north warwickshire and bedworth",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Rachel Taylor",
+   "notes": "Defeated incumbent, Craig Tracey"
+  },
+  {
+   "unit": "North West Cambridgeshire",
+   "key": "north west cambridgeshire",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Sam Carling",
+   "notes": "Defeated incumbent, Shailesh Vara"
+  },
+  {
+   "unit": "North West Essex",
+   "key": "north west essex",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Kemi Badenoch",
+   "notes": "MP for predecessor seat of Saffron Walden"
+  },
+  {
+   "unit": "North West Hampshire",
+   "key": "north west hampshire",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Kit Malthouse",
+   "notes": ""
+  },
+  {
+   "unit": "North West Leicestershire",
+   "key": "north west leicestershire",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Amanda Hack",
+   "notes": "Defeated incumbent, Andrew Bridgen, who had been elected as a Conservative MP in 2019, but stood as an independent in 2024"
+  },
+  {
+   "unit": "North West Norfolk",
+   "key": "north west norfolk",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "James Wild",
+   "notes": ""
+  },
+  {
+   "unit": "Northampton North",
+   "key": "northampton north",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Lucy Rigby",
+   "notes": "Previous incumbent, Michael Ellis, did not stand. Chief Secretary to the Treasury (14 May 2026 – 20 July 2026)"
+  },
+  {
+   "unit": "Northampton South",
+   "key": "northampton south",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Mike Reader",
+   "notes": "Defeated incumbent, Andrew Lewer"
+  },
+  {
+   "unit": "Norwich North",
+   "key": "norwich north",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Alice Macdonald",
+   "notes": "Previous incumbent, Chloe Smith, did not stand"
+  },
+  {
+   "unit": "Norwich South",
+   "key": "norwich south",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Clive Lewis",
+   "notes": ""
+  },
+  {
+   "unit": "Nottingham East",
+   "key": "nottingham east",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Nadia Whittome",
+   "notes": ""
+  },
+  {
+   "unit": "Nottingham North and Kimberley",
+   "key": "nottingham north and kimberley",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Alex Norris",
+   "notes": "MP for the predecessor seat of Nottingham North. Lord Chancellor and Secretary of State for Justice (20 July 2026 – present)"
+  },
+  {
+   "unit": "Nottingham South",
+   "key": "nottingham south",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Lilian Greenwood",
+   "notes": ""
+  },
+  {
+   "unit": "Nuneaton",
+   "key": "nuneaton",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Jodie Gosling",
+   "notes": "Defeated incumbent, Marcus Jones"
+  },
+  {
+   "unit": "Old Bexley and Sidcup",
+   "key": "old bexley and sidcup",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Louie French",
+   "notes": ""
+  },
+  {
+   "unit": "Oldham East and Saddleworth",
+   "key": "oldham east and saddleworth",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Debbie Abrahams",
+   "notes": ""
+  },
+  {
+   "unit": "Oldham West, Chadderton and Royton",
+   "key": "oldham west chadderton and royton",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Jim McMahon",
+   "notes": ""
+  },
+  {
+   "unit": "Orkney and Shetland",
+   "key": "orkney and shetland",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Liberal Democrats",
+   "member": "Alistair Carmichael",
+   "notes": ""
+  },
+  {
+   "unit": "Orpington",
+   "key": "orpington",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Gareth Bacon",
+   "notes": ""
+  },
+  {
+   "unit": "Ossett and Denby Dale",
+   "key": "ossett and denby dale",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Jade Botterill",
+   "notes": "Defeated Mark Eastwood, previous MP for Dewsbury. Simon Lightwood, incumbent MP for the predecessor seat of Wakefield, stood successfully for the new seat of Wakefield and Rothwell."
+  },
+  {
+   "unit": "Oxford East",
+   "key": "oxford east",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Anneliese Dodds",
+   "notes": "Minister of State (Development) and Minister of State (Minister for Women and Equalities) (8 July 2024 – 28 February 2025)"
+  },
+  {
+   "unit": "Oxford West and Abingdon",
+   "key": "oxford west and abingdon",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Liberal Democrats",
+   "member": "Layla Moran",
+   "notes": ""
+  },
+  {
+   "unit": "Paisley and Renfrewshire North",
+   "key": "paisley and renfrewshire north",
+   "winner": "Labour",
+   "prev_winner": "SNP",
+   "member": "Alison Taylor",
+   "notes": "Defeated incumbent, Gavin Newlands"
+  },
+  {
+   "unit": "Paisley and Renfrewshire South",
+   "key": "paisley and renfrewshire south",
+   "winner": "Labour",
+   "prev_winner": "SNP",
+   "member": "Johanna Baxter",
+   "notes": "Previous incumbent, Mhairi Black, did not stand"
+  },
+  {
+   "unit": "Peckham",
+   "key": "peckham",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Miatta Fahnbulleh",
+   "notes": "Previous incumbent for the predecessor seat of Camberwell and Peckham, Harriet Harman, did not stand Secretary of State for Energy Security and Net Zero (20 July 2026 – present)"
+  },
+  {
+   "unit": "Pendle and Clitheroe",
+   "key": "pendle and clitheroe",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Jonathan Hinder",
+   "notes": "Defeated Andrew Stephenson, incumbent for the predecessor seat of Pendle"
+  },
+  {
+   "unit": "Penistone and Stocksbridge",
+   "key": "penistone and stocksbridge",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Marie Tidball",
+   "notes": "Defeated incumbent, Miriam Cates"
+  },
+  {
+   "unit": "Penrith and Solway",
+   "key": "penrith and solway",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Markus Campbell-Savours",
+   "notes": "Defeated Mark Jenkinson, incumbent for the predecessor seat of Workington"
+  },
+  {
+   "unit": "Perth and Kinross-shire",
+   "key": "perth and kinross shire",
+   "winner": "SNP",
+   "prev_winner": "SNP",
+   "member": "Pete Wishart",
+   "notes": "MP for the predecessor seat of Perth and North Perthshire"
+  },
+  {
+   "unit": "Peterborough",
+   "key": "peterborough",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Andrew Pakes",
+   "notes": "Defeated incumbent, Paul Bristow"
+  },
+  {
+   "unit": "Plymouth Moor View",
+   "key": "plymouth moor view",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Fred Thomas",
+   "notes": "Defeated incumbent, Johnny Mercer"
+  },
+  {
+   "unit": "Plymouth Sutton and Devonport",
+   "key": "plymouth sutton and devonport",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Luke Pollard",
+   "notes": ""
+  },
+  {
+   "unit": "Pontefract, Castleford and Knottingley",
+   "key": "pontefract castleford and knottingley",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Yvette Cooper",
+   "notes": "MP for the predecessor seat of Normanton, Pontefract and Castleford. Secretary of State for Health and Social Care (20 July 2026 – present) Secretary of State for the Home Department (5 July 2024 – 5 September 2025) Secretary of State for Foreign, Commonwealth and Development Affairs (5 September 2025 – 17 July 2026)"
+  },
+  {
+   "unit": "Pontypridd",
+   "key": "pontypridd",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Alex Davies-Jones",
+   "notes": ""
+  },
+  {
+   "unit": "Poole",
+   "key": "poole",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Neil Duncan-Jordan",
+   "notes": "Defeated incumbent, Robert Syms"
+  },
+  {
+   "unit": "Poplar and Limehouse",
+   "key": "poplar and limehouse",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Apsana Begum",
+   "notes": ""
+  },
+  {
+   "unit": "Portsmouth North",
+   "key": "portsmouth north",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Amanda Martin",
+   "notes": "Defeated incumbent, Penny Mordaunt"
+  },
+  {
+   "unit": "Portsmouth South",
+   "key": "portsmouth south",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Stephen Morgan",
+   "notes": ""
+  },
+  {
+   "unit": "Preston",
+   "key": "preston",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Mark Hendrick",
+   "notes": ""
+  },
+  {
+   "unit": "Putney",
+   "key": "putney",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Fleur Anderson",
+   "notes": ""
+  },
+  {
+   "unit": "Queen's Park and Maida Vale",
+   "key": "queen s park and maida vale",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Georgia Gould",
+   "notes": "Previous incumbent for the predecessor seat of Westminster North, Karen Buck, did not stand"
+  },
+  {
+   "unit": "Rawmarsh and Conisbrough",
+   "key": "rawmarsh and conisbrough",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "John Healey",
+   "notes": "MP for the predecessor seat of Wentworth and Dearne. Chancellor of the Exchequer (20 July 2026 – present) Secretary of State for Defence (5 July 2024 – 11 June 2026)"
+  },
+  {
+   "unit": "Rayleigh and Wickford",
+   "key": "rayleigh and wickford",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Mark Francois",
+   "notes": ""
+  },
+  {
+   "unit": "Reading Central",
+   "key": "reading central",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Matt Rodda",
+   "notes": "MP for the predecessor seat of Reading East"
+  },
+  {
+   "unit": "Reading West and Mid Berkshire",
+   "key": "reading west and mid berkshire",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Olivia Bailey",
+   "notes": "Previous incumbent for the predecessor seat of Reading West, Alok Sharma, did not stand"
+  },
+  {
+   "unit": "Redcar",
+   "key": "redcar",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Anna Turley",
+   "notes": "Defeated incumbent, Jacob Young. Minister of State (Minister without Portfolio) (6 September 2025 – 20 July 2026)"
+  },
+  {
+   "unit": "Redditch",
+   "key": "redditch",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Chris Bloore",
+   "notes": "Defeated incumbent, Rachel Maclean"
+  },
+  {
+   "unit": "Reigate",
+   "key": "reigate",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Rebecca Paul",
+   "notes": "Previous incumbent, Crispin Blunt, did not stand"
+  },
+  {
+   "unit": "Rhondda and Ogmore",
+   "key": "rhondda and ogmore",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Chris Bryant",
+   "notes": "MP for the predecessor seat of Rhondda Secretary of State for Northern Ireland (20 July 2026 – present)"
+  },
+  {
+   "unit": "Ribble Valley",
+   "key": "ribble valley",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Maya Ellis",
+   "notes": "Defeated incumbent, Nigel Evans"
+  },
+  {
+   "unit": "Richmond and Northallerton",
+   "key": "richmond and northallerton",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Rishi Sunak",
+   "notes": "MP for the predecessor seat of Richmond (Yorks)"
+  },
+  {
+   "unit": "Richmond Park",
+   "key": "richmond park",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Liberal Democrats",
+   "member": "Sarah Olney",
+   "notes": ""
+  },
+  {
+   "unit": "Rochdale",
+   "key": "rochdale",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Paul Waugh",
+   "notes": "Defeated incumbent, George Galloway, who had been elected four months prior in the 2024 by-election for the Workers Party"
+  },
+  {
+   "unit": "Rochester and Strood",
+   "key": "rochester and strood",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Lauren Edwards",
+   "notes": "Defeated incumbent, Kelly Tolhurst"
+  },
+  {
+   "unit": "Romford",
+   "key": "romford",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Andrew Rosindell",
+   "notes": ""
+  },
+  {
+   "unit": "Romsey and Southampton North",
+   "key": "romsey and southampton north",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Caroline Nokes",
+   "notes": ""
+  },
+  {
+   "unit": "Rossendale and Darwen",
+   "key": "rossendale and darwen",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Andy MacNae",
+   "notes": "Defeated incumbent, Jake Berry"
+  },
+  {
+   "unit": "Rother Valley",
+   "key": "rother valley",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Jake Richards",
+   "notes": "Defeated incumbent, Alexander Stafford"
+  },
+  {
+   "unit": "Rotherham",
+   "key": "rotherham",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Sarah Champion",
+   "notes": ""
+  },
+  {
+   "unit": "Rugby",
+   "key": "rugby",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "John Slinger",
+   "notes": "Previous incumbent, Mark Pawsey, did not stand"
+  },
+  {
+   "unit": "Ruislip, Northwood and Pinner",
+   "key": "ruislip northwood and pinner",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "David Simmonds",
+   "notes": ""
+  },
+  {
+   "unit": "Runcorn and Helsby",
+   "key": "runcorn and helsby",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Mike Amesbury",
+   "notes": "MP for the predecessor seat of Weaver Vale"
+  },
+  {
+   "unit": "Runnymede and Weybridge",
+   "key": "runnymede and weybridge",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Ben Spencer",
+   "notes": ""
+  },
+  {
+   "unit": "Rushcliffe",
+   "key": "rushcliffe",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "James Naish",
+   "notes": "Defeated incumbent, Ruth Edwards"
+  },
+  {
+   "unit": "Rutherglen",
+   "key": "rutherglen",
+   "winner": "Labour",
+   "prev_winner": "SNP",
+   "member": "Michael Shanks",
+   "notes": "Predecessor seat of Rutherglen and Hamilton West won by Labour at 2023 by-election"
+  },
+  {
+   "unit": "Rutland and Stamford",
+   "key": "rutland and stamford",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Alicia Kearns",
+   "notes": "MP for the predecessor seat of Rutland and Melton"
+  },
+  {
+   "unit": "Salford",
+   "key": "salford",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Rebecca Long-Bailey",
+   "notes": ""
+  },
+  {
+   "unit": "Salisbury",
+   "key": "salisbury",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "John Glen",
+   "notes": ""
+  },
+  {
+   "unit": "Scarborough and Whitby",
+   "key": "scarborough and whitby",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Alison Hume",
+   "notes": "Previous incumbent, Robert Goodwill, did not stand"
+  },
+  {
+   "unit": "Scunthorpe",
+   "key": "scunthorpe",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Nic Dakin",
+   "notes": "Defeated incumbent, Holly Mumby-Croft"
+  },
+  {
+   "unit": "Sefton Central",
+   "key": "sefton central",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Bill Esterson",
+   "notes": ""
+  },
+  {
+   "unit": "Selby",
+   "key": "selby",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Keir Mather",
+   "notes": "Predecessor seat of Selby and Ainsty won by Labour at 2023 by-election"
+  },
+  {
+   "unit": "Sevenoaks",
+   "key": "sevenoaks",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Laura Trott",
+   "notes": ""
+  },
+  {
+   "unit": "Sheffield Brightside and Hillsborough",
+   "key": "sheffield brightside and hillsborough",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Gill Furniss",
+   "notes": ""
+  },
+  {
+   "unit": "Sheffield Central",
+   "key": "sheffield central",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Abtisam Mohamed",
+   "notes": "Previous incumbent, Paul Blomfield, did not stand"
+  },
+  {
+   "unit": "Sheffield Hallam",
+   "key": "sheffield hallam",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Olivia Blake",
+   "notes": ""
+  },
+  {
+   "unit": "Sheffield Heeley",
+   "key": "sheffield heeley",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Louise Haigh",
+   "notes": "First Secretary of State, Chancellor of the Duchy of Lancaster and Minister for the Cabinet Office (20 July 2026 – present) Secretary of State for Transport (5 July 2024 – 28 November 2024)"
+  },
+  {
+   "unit": "Sheffield South East",
+   "key": "sheffield south east",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Clive Betts",
+   "notes": ""
+  },
+  {
+   "unit": "Sherwood Forest",
+   "key": "sherwood forest",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Michelle Welsh",
+   "notes": "Defeated incumbent, Mark Spencer"
+  },
+  {
+   "unit": "Shipley",
+   "key": "shipley",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Anna Dixon",
+   "notes": "Defeated incumbent, Philip Davies"
+  },
+  {
+   "unit": "Shrewsbury",
+   "key": "shrewsbury",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Julia Buckley",
+   "notes": "Defeated incumbent, Daniel Kawczynski"
+  },
+  {
+   "unit": "Sittingbourne and Sheppey",
+   "key": "sittingbourne and sheppey",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Kevin McKenna",
+   "notes": "Previous incumbent, Gordon Henderson, did not stand"
+  },
+  {
+   "unit": "Skipton and Ripon",
+   "key": "skipton and ripon",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Julian Smith",
+   "notes": ""
+  },
+  {
+   "unit": "Sleaford and North Hykeham",
+   "key": "sleaford and north hykeham",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Caroline Johnson",
+   "notes": ""
+  },
+  {
+   "unit": "Slough",
+   "key": "slough",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Tan Dhesi",
+   "notes": ""
+  },
+  {
+   "unit": "Smethwick",
+   "key": "smethwick",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Gurinder Josan",
+   "notes": "Previous incumbent for the predecessor seat of Warley, John Spellar, did not stand"
+  },
+  {
+   "unit": "Solihull West and Shirley",
+   "key": "solihull west and shirley",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Neil Shastri-Hurst",
+   "notes": "Defeated incumbent, Julian Knight, who had been elected as a Conservative MP in 2019, but stood as an independent in 2024"
+  },
+  {
+   "unit": "South Antrim",
+   "key": "south antrim",
+   "winner": "UUP",
+   "prev_winner": "DUP",
+   "member": "Robin Swann",
+   "notes": "Defeated incumbent, Paul Girvan"
+  },
+  {
+   "unit": "South Basildon and East Thurrock",
+   "key": "south basildon and east thurrock",
+   "winner": "Reform UK",
+   "prev_winner": "Conservative",
+   "member": "James McMurdock",
+   "notes": "Defeated incumbent, Stephen Metcalfe"
+  },
+  {
+   "unit": "South Cambridgeshire",
+   "key": "south cambridgeshire",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "Pippa Heylings",
+   "notes": "Previous incumbent, Anthony Browne, stood unsuccessfully in the new seat of St Neots and Mid Cambridgeshire"
+  },
+  {
+   "unit": "South Cotswolds",
+   "key": "south cotswolds",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "Roz Savage",
+   "notes": "Defeated James Gray, who was incumbent for the abolished seat of North Wiltshire"
+  },
+  {
+   "unit": "South Derbyshire",
+   "key": "south derbyshire",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Samantha Niblett",
+   "notes": "Defeated incumbent, Heather Wheeler"
+  },
+  {
+   "unit": "South Devon",
+   "key": "south devon",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "Caroline Voaden",
+   "notes": "Defeated Anthony Mangnall, incumbent for the predecessor seat of Totnes"
+  },
+  {
+   "unit": "South Dorset",
+   "key": "south dorset",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Lloyd Hatton",
+   "notes": "Defeated incumbent, Richard Drax"
+  },
+  {
+   "unit": "South Down",
+   "key": "south down",
+   "winner": "Sinn Féin",
+   "prev_winner": "Sinn Féin",
+   "member": "Chris Hazzard",
+   "notes": ""
+  },
+  {
+   "unit": "South East Cornwall",
+   "key": "south east cornwall",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Anna Gelderd",
+   "notes": "Defeated incumbent, Sheryll Murray"
+  },
+  {
+   "unit": "South Holland and the Deepings",
+   "key": "south holland and the deepings",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "John Hayes",
+   "notes": ""
+  },
+  {
+   "unit": "South Leicestershire",
+   "key": "south leicestershire",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Alberto Costa",
+   "notes": ""
+  },
+  {
+   "unit": "South Norfolk",
+   "key": "south norfolk",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Ben Goldsborough",
+   "notes": "Previous incumbent, Richard Bacon, did not stand"
+  },
+  {
+   "unit": "South Northamptonshire",
+   "key": "south northamptonshire",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Sarah Bool",
+   "notes": "Previous incumbent, Andrea Leadsom, did not stand"
+  },
+  {
+   "unit": "South Ribble",
+   "key": "south ribble",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Paul Foster",
+   "notes": "Defeated incumbent, Katherine Fletcher"
+  },
+  {
+   "unit": "South Shields",
+   "key": "south shields",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Emma Lewell-Buck",
+   "notes": ""
+  },
+  {
+   "unit": "South Shropshire",
+   "key": "south shropshire",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Stuart Anderson",
+   "notes": "Previous incumbent for the predecessor seat of Ludlow, Philip Dunne, did not stand"
+  },
+  {
+   "unit": "South Suffolk",
+   "key": "south suffolk",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "James Cartlidge",
+   "notes": ""
+  },
+  {
+   "unit": "South West Devon",
+   "key": "south west devon",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Rebecca Smith",
+   "notes": "Previous incumbent, Gary Streeter, did not stand"
+  },
+  {
+   "unit": "South West Hertfordshire",
+   "key": "south west hertfordshire",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Gagan Mohindra",
+   "notes": ""
+  },
+  {
+   "unit": "South West Norfolk",
+   "key": "south west norfolk",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Terry Jermy",
+   "notes": "Defeated incumbent, former Prime Minister Liz Truss"
+  },
+  {
+   "unit": "South West Wiltshire",
+   "key": "south west wiltshire",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Andrew Murrison",
+   "notes": ""
+  },
+  {
+   "unit": "Southampton Itchen",
+   "key": "southampton itchen",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Darren Paffey",
+   "notes": "Previous incumbent, Royston Smith, did not stand"
+  },
+  {
+   "unit": "Southampton Test",
+   "key": "southampton test",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Satvir Kaur",
+   "notes": "Previous incumbent, Alan Whitehead, did not stand"
+  },
+  {
+   "unit": "Southend East and Rochford",
+   "key": "southend east and rochford",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Bayo Alaba",
+   "notes": "Previous incumbent, James Duddridge, did not stand"
+  },
+  {
+   "unit": "Southend West and Leigh",
+   "key": "southend west and leigh",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "David Burton-Sampson",
+   "notes": "Defeated incumbent, Anna Firth"
+  },
+  {
+   "unit": "Southgate and Wood Green",
+   "key": "southgate and wood green",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Bambos Charalambous",
+   "notes": "MP for the predecessor seat of Enfield Southgate"
+  },
+  {
+   "unit": "Southport",
+   "key": "southport",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Patrick Hurley",
+   "notes": "Defeated incumbent, Damien Moore"
+  },
+  {
+   "unit": "Spelthorne",
+   "key": "spelthorne",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Lincoln Jopp",
+   "notes": "Previous incumbent, Kwasi Kwarteng, did not stand"
+  },
+  {
+   "unit": "Spen Valley",
+   "key": "spen valley",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Kim Leadbeater",
+   "notes": "MP for the predecessor seat of Batley and Spen"
+  },
+  {
+   "unit": "St Albans",
+   "key": "st albans",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Liberal Democrats",
+   "member": "Daisy Cooper",
+   "notes": ""
+  },
+  {
+   "unit": "St Austell and Newquay",
+   "key": "st austell and newquay",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Noah Law",
+   "notes": "Defeated incumbent, Steve Double"
+  },
+  {
+   "unit": "St Helens North",
+   "key": "st helens north",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "David Baines",
+   "notes": "Previous incumbent, Conor McGinn, did not stand"
+  },
+  {
+   "unit": "St Helens South and Whiston",
+   "key": "st helens south and whiston",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Marie Rimmer",
+   "notes": ""
+  },
+  {
+   "unit": "St Ives",
+   "key": "st ives",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "Andrew George",
+   "notes": "Defeated incumbent, Derek Thomas"
+  },
+  {
+   "unit": "St Neots and Mid Cambridgeshire",
+   "key": "st neots and mid cambridgeshire",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "Ian Sollom",
+   "notes": "New seat. Defeated Anthony Browne, incumbent for South Cambridgeshire"
+  },
+  {
+   "unit": "Stafford",
+   "key": "stafford",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Leigh Ingham",
+   "notes": "Defeated incumbent, Theo Clarke"
+  },
+  {
+   "unit": "Staffordshire Moorlands",
+   "key": "staffordshire moorlands",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Karen Bradley",
+   "notes": ""
+  },
+  {
+   "unit": "Stalybridge and Hyde",
+   "key": "stalybridge and hyde",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Jonathan Reynolds",
+   "notes": "Secretary of State for Business, Innovation, Science and Trade and President of the Board of Trade (20 July 2026 – present) Secretary of State for Business and Trade and President of the Board of Trade (5 July 2024 – 5 September 2025) Parliamentary Secretary to the Treasury (Chief Whip) (5 September 2025 – 20 July 2026)"
+  },
+  {
+   "unit": "Stevenage",
+   "key": "stevenage",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Kevin Bonavia",
+   "notes": "Previous incumbent, Stephen McPartland, did not stand"
+  },
+  {
+   "unit": "Stirling and Strathallan",
+   "key": "stirling and strathallan",
+   "winner": "Labour",
+   "prev_winner": "SNP",
+   "member": "Chris Kane",
+   "notes": "Defeated Alyn Smith, incumbent for the predecessor seat of Stirling"
+  },
+  {
+   "unit": "Stockport",
+   "key": "stockport",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Navendu Mishra",
+   "notes": ""
+  },
+  {
+   "unit": "Stockton North",
+   "key": "stockton north",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Chris McDonald",
+   "notes": "Previous incumbent, Alex Cunningham, did not stand"
+  },
+  {
+   "unit": "Stockton West",
+   "key": "stockton west",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Matt Vickers",
+   "notes": "MP for the predecessor seat of Stockton South"
+  },
+  {
+   "unit": "Stoke-on-Trent Central",
+   "key": "stoke on trent central",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Gareth Snell",
+   "notes": "Previous incumbent, Jo Gideon, did not stand"
+  },
+  {
+   "unit": "Stoke-on-Trent North",
+   "key": "stoke on trent north",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "David Williams",
+   "notes": "Defeated incumbent, Jonathan Gullis"
+  },
+  {
+   "unit": "Stoke-on-Trent South",
+   "key": "stoke on trent south",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Allison Gardner",
+   "notes": "Defeated incumbent, Jack Brereton"
+  },
+  {
+   "unit": "Stone, Great Wyrley and Penkridge",
+   "key": "stone great wyrley and penkridge",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Gavin Williamson",
+   "notes": "New seat. Previously MP for South Staffordshire"
+  },
+  {
+   "unit": "Stourbridge",
+   "key": "stourbridge",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Cat Eccles",
+   "notes": "Defeated incumbent, Suzanne Webb"
+  },
+  {
+   "unit": "Strangford",
+   "key": "strangford",
+   "winner": "DUP",
+   "prev_winner": "DUP",
+   "member": "Jim Shannon",
+   "notes": ""
+  },
+  {
+   "unit": "Stratford and Bow",
+   "key": "stratford and bow",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Uma Kumaran",
+   "notes": "New seat"
+  },
+  {
+   "unit": "Stratford-on-Avon",
+   "key": "stratford on avon",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "Manuela Perteghella",
+   "notes": "Previous incumbent, Nadhim Zahawi, did not stand"
+  },
+  {
+   "unit": "Streatham and Croydon North",
+   "key": "streatham and croydon north",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Steve Reed",
+   "notes": "New seat. Previously MP for Croydon North. Secretary of State for Environment, Food and Rural Affairs (5 July 2024 – 5 September 2025) Secretary of State for Housing, Communities and Local Government (5 September 2025 – 20 July 2026)"
+  },
+  {
+   "unit": "Stretford and Urmston",
+   "key": "stretford and urmston",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Andrew Western",
+   "notes": ""
+  },
+  {
+   "unit": "Stroud",
+   "key": "stroud",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Simon Opher",
+   "notes": "Defeated incumbent, Siobhan Baillie"
+  },
+  {
+   "unit": "Suffolk Coastal",
+   "key": "suffolk coastal",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Jenny Riddell-Carpenter",
+   "notes": "Defeated incumbent, Thérèse Coffey"
+  },
+  {
+   "unit": "Sunderland Central",
+   "key": "sunderland central",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Lewis Atkinson",
+   "notes": "Previous incumbent, Julie Elliott, did not stand"
+  },
+  {
+   "unit": "Surrey Heath",
+   "key": "surrey heath",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "Al Pinkerton",
+   "notes": "Previous incumbent, Michael Gove, did not stand"
+  },
+  {
+   "unit": "Sussex Weald",
+   "key": "sussex weald",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Nus Ghani",
+   "notes": "MP for the predecessor seat of Wealden"
+  },
+  {
+   "unit": "Sutton and Cheam",
+   "key": "sutton and cheam",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "Luke Taylor",
+   "notes": "Previous incumbent, Paul Scully, did not stand"
+  },
+  {
+   "unit": "Sutton Coldfield",
+   "key": "sutton coldfield",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Andrew Mitchell",
+   "notes": ""
+  },
+  {
+   "unit": "Swansea West",
+   "key": "swansea west",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Torsten Bell",
+   "notes": "Previous incumbent, Geraint Davies, did not stand"
+  },
+  {
+   "unit": "Swindon North",
+   "key": "swindon north",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Will Stone",
+   "notes": "Defeated incumbent, Justin Tomlinson"
+  },
+  {
+   "unit": "Swindon South",
+   "key": "swindon south",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Heidi Alexander",
+   "notes": "Defeated incumbent, Robert Buckland Secretary of State for Transport (24 September 2024 – present)"
+  },
+  {
+   "unit": "Tamworth",
+   "key": "tamworth",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Sarah Edwards",
+   "notes": "Won by Labour at 2023 by-election. Defeated Eddie Hughes, previously Conservative MP for Walsall North."
+  },
+  {
+   "unit": "Tatton",
+   "key": "tatton",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Esther McVey",
+   "notes": ""
+  },
+  {
+   "unit": "Taunton and Wellington",
+   "key": "taunton and wellington",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "Gideon Amos",
+   "notes": "Defeated Rebecca Pow, incumbent for the predecessor seat of Taunton Deane"
+  },
+  {
+   "unit": "Telford",
+   "key": "telford",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Shaun Davies",
+   "notes": "Previous incumbent, Lucy Allan, did not stand"
+  },
+  {
+   "unit": "Tewkesbury",
+   "key": "tewkesbury",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "Cameron Thomas",
+   "notes": "Defeated incumbent, Laurence Robertson"
+  },
+  {
+   "unit": "The Wrekin",
+   "key": "the wrekin",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Mark Pritchard",
+   "notes": ""
+  },
+  {
+   "unit": "Thirsk and Malton",
+   "key": "thirsk and malton",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Kevin Hollinrake",
+   "notes": ""
+  },
+  {
+   "unit": "Thornbury and Yate",
+   "key": "thornbury and yate",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "Claire Young",
+   "notes": "Defeated incumbent, Luke Hall"
+  },
+  {
+   "unit": "Thurrock",
+   "key": "thurrock",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Jen Craft",
+   "notes": "Defeated incumbent, Jackie Doyle-Price"
+  },
+  {
+   "unit": "Tipton and Wednesbury",
+   "key": "tipton and wednesbury",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Antonia Bance",
+   "notes": "Defeated Shaun Bailey, incumbent MP for the predecessor seat of West Bromwich West"
+  },
+  {
+   "unit": "Tiverton and Minehead",
+   "key": "tiverton and minehead",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "Rachel Gilmour",
+   "notes": "New seat. Defeated Ian Liddell-Grainger, incumbent MP Bridgwater and West Somerset."
+  },
+  {
+   "unit": "Tonbridge",
+   "key": "tonbridge",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Tom Tugendhat",
+   "notes": "MP for the predecessor seat of Tonbridge and Malling"
+  },
+  {
+   "unit": "Tooting",
+   "key": "tooting",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Rosena Allin-Khan",
+   "notes": ""
+  },
+  {
+   "unit": "Torbay",
+   "key": "torbay",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "Steve Darling",
+   "notes": "Defeated incumbent, Kevin Foster"
+  },
+  {
+   "unit": "Torfaen",
+   "key": "torfaen",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Nick Thomas-Symonds",
+   "notes": "Paymaster General, Minister for the Cabinet Office (Minister for the Constitution and European Union Relations) (8 July 2024 – 20 July 2026)"
+  },
+  {
+   "unit": "Torridge and Tavistock",
+   "key": "torridge and tavistock",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Geoffrey Cox",
+   "notes": "MP for the predecessor seat of Torridge and West Devon"
+  },
+  {
+   "unit": "Tottenham",
+   "key": "tottenham",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "David Lammy",
+   "notes": "Secretary of State for Foreign, Commonwealth and Development Affairs (5 July 2024 – 5 September 2025) Deputy Prime Minister and Secretary of State for Justice (5 September 2025 – 20 July 2026)"
+  },
+  {
+   "unit": "Truro and Falmouth",
+   "key": "truro and falmouth",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Jayne Kirkham",
+   "notes": "Defeated incumbent, Cherilyn Mackrory"
+  },
+  {
+   "unit": "Tunbridge Wells",
+   "key": "tunbridge wells",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "Mike Martin",
+   "notes": "Previous incumbent, Greg Clark, did not stand"
+  },
+  {
+   "unit": "Twickenham",
+   "key": "twickenham",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Liberal Democrats",
+   "member": "Munira Wilson",
+   "notes": ""
+  },
+  {
+   "unit": "Tynemouth",
+   "key": "tynemouth",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Alan Campbell",
+   "notes": "Lord President of the Council and Leader of the House of Commons (5 September 2025 – present) Parliamentary Secretary to the Treasury (5 July 2024 – 5 September 2025)"
+  },
+  {
+   "unit": "Upper Bann",
+   "key": "upper bann",
+   "winner": "DUP",
+   "prev_winner": "DUP",
+   "member": "Carla Lockhart",
+   "notes": ""
+  },
+  {
+   "unit": "Uxbridge and South Ruislip",
+   "key": "uxbridge and south ruislip",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Danny Beales",
+   "notes": "Defeated incumbent, Steve Tuckwell who was elected at the 2023 by-election."
+  },
+  {
+   "unit": "Vale of Glamorgan",
+   "key": "vale of glamorgan",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Kanishka Narayan",
+   "notes": "Defeated incumbent, Alun Cairns Minister for Artificial Intelligence (20 July 2026 – present)"
+  },
+  {
+   "unit": "Vauxhall and Camberwell Green",
+   "key": "vauxhall and camberwell green",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Florence Eshalomi",
+   "notes": "MP for the predecessor seat of Vauxhall"
+  },
+  {
+   "unit": "Wakefield and Rothwell",
+   "key": "wakefield and rothwell",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Simon Lightwood",
+   "notes": "New seat. Previously MP for Wakefield (Labour gain at 2022 by-election)"
+  },
+  {
+   "unit": "Wallasey",
+   "key": "wallasey",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Angela Eagle",
+   "notes": "Secretary of State for Environment, Food and Rural Affairs (20 July 2026 – present) Minister of State for Security (12 June 2026 – 20 July 2026)"
+  },
+  {
+   "unit": "Walsall and Bloxwich",
+   "key": "walsall and bloxwich",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Valerie Vaz",
+   "notes": "Previously MP for the abolished seat of Walsall South. Incumbent for the predecessor seat of Walsall North, Eddie Hughes, who stood unsuccessfully in Tamworth."
+  },
+  {
+   "unit": "Walthamstow",
+   "key": "walthamstow",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Stella Creasy",
+   "notes": ""
+  },
+  {
+   "unit": "Warrington North",
+   "key": "warrington north",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Charlotte Nichols",
+   "notes": ""
+  },
+  {
+   "unit": "Warrington South",
+   "key": "warrington south",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Sarah Hall",
+   "notes": "Notional hold. Defeated Conservative incumbent, Andy Carter"
+  },
+  {
+   "unit": "Warwick and Leamington",
+   "key": "warwick and leamington",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Matt Western",
+   "notes": ""
+  },
+  {
+   "unit": "Washington and Gateshead South",
+   "key": "washington and gateshead south",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Sharon Hodgson",
+   "notes": "MP for the predecessor seat of Washington and Sunderland West"
+  },
+  {
+   "unit": "Watford",
+   "key": "watford",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Matt Turmaine",
+   "notes": "Defeated incumbent, Dean Russell"
+  },
+  {
+   "unit": "Waveney Valley",
+   "key": "waveney valley",
+   "winner": "Green",
+   "prev_winner": "Conservative",
+   "member": "Adrian Ramsay",
+   "notes": "New seat"
+  },
+  {
+   "unit": "Weald of Kent",
+   "key": "weald of kent",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Katie Lam",
+   "notes": "New seat"
+  },
+  {
+   "unit": "Wellingborough and Rushden",
+   "key": "wellingborough and rushden",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Gen Kitchen",
+   "notes": "Won by Labour at 2024 by-election"
+  },
+  {
+   "unit": "Wells and Mendip Hills",
+   "key": "wells and mendip hills",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "Tessa Munt",
+   "notes": "Previous incumbent for the predecessor seat of Wells, James Heappey, did not stand"
+  },
+  {
+   "unit": "Welwyn Hatfield",
+   "key": "welwyn hatfield",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Andrew Lewin",
+   "notes": "Defeated incumbent, Grant Shapps"
+  },
+  {
+   "unit": "West Aberdeenshire and Kincardine",
+   "key": "west aberdeenshire and kincardine",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Andrew Bowie",
+   "notes": ""
+  },
+  {
+   "unit": "West Bromwich",
+   "key": "west bromwich",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Sarah Coombes",
+   "notes": "Previous incumbent for the predecessor seat of West Bromwich East, Nicola Richards, did not stand"
+  },
+  {
+   "unit": "West Dorset",
+   "key": "west dorset",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "Edward Morello",
+   "notes": "Defeated incumbent, Chris Loder"
+  },
+  {
+   "unit": "West Dunbartonshire",
+   "key": "west dunbartonshire",
+   "winner": "Labour",
+   "prev_winner": "SNP",
+   "member": "Douglas McAllister",
+   "notes": "Defeated incumbent, Martin Docherty-Hughes"
+  },
+  {
+   "unit": "West Ham and Beckton",
+   "key": "west ham and beckton",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "James Asser",
+   "notes": "Previous incumbent for the predecessor seat of West Ham, Lyn Brown, did not stand"
+  },
+  {
+   "unit": "West Lancashire",
+   "key": "west lancashire",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Ashley Dalton",
+   "notes": ""
+  },
+  {
+   "unit": "West Suffolk",
+   "key": "west suffolk",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Nick Timothy",
+   "notes": "Previous incumbent, Matt Hancock, did not stand"
+  },
+  {
+   "unit": "West Tyrone",
+   "key": "west tyrone",
+   "winner": "Sinn Féin",
+   "prev_winner": "Sinn Féin",
+   "member": "Órfhlaith Begley",
+   "notes": ""
+  },
+  {
+   "unit": "West Worcestershire",
+   "key": "west worcestershire",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Harriett Baldwin",
+   "notes": ""
+  },
+  {
+   "unit": "Westmorland and Lonsdale",
+   "key": "westmorland and lonsdale",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "Tim Farron",
+   "notes": "Seat held. Nominal gain following boundary changes."
+  },
+  {
+   "unit": "Weston-super-Mare",
+   "key": "weston super mare",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Dan Aldridge",
+   "notes": "Defeated incumbent, John Penrose"
+  },
+  {
+   "unit": "Wetherby and Easingwold",
+   "key": "wetherby and easingwold",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Alec Shelbrooke",
+   "notes": "MP for the predecessor seat of Elmet and Rothwell"
+  },
+  {
+   "unit": "Whitehaven and Workington",
+   "key": "whitehaven and workington",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Josh MacAlister",
+   "notes": "Previous incumbent for the predecessor seat of Copeland, Trudy Harrison, did not stand"
+  },
+  {
+   "unit": "Widnes and Halewood",
+   "key": "widnes and halewood",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Derek Twigg",
+   "notes": "MP for the predecessor seat of Halton"
+  },
+  {
+   "unit": "Wigan",
+   "key": "wigan",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Lisa Nandy",
+   "notes": "Secretary of State for Digital, Culture, Media and Sport (20 July 2026 – present) Secretary of State for Culture, Media and Sport (5 July 2024 – 20 July 2026)"
+  },
+  {
+   "unit": "Wimbledon",
+   "key": "wimbledon",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "Paul Kohler",
+   "notes": "Previous incumbent, Stephen Hammond, did not stand"
+  },
+  {
+   "unit": "Winchester",
+   "key": "winchester",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "Danny Chambers",
+   "notes": "Previous incumbent, Steve Brine, did not stand"
+  },
+  {
+   "unit": "Windsor",
+   "key": "windsor",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Jack Rankin",
+   "notes": "Previous incumbent, Adam Afriyie, did not stand"
+  },
+  {
+   "unit": "Wirral West",
+   "key": "wirral west",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Matthew Patrick",
+   "notes": "Previous incumbent, Margaret Greenwood, did not stand"
+  },
+  {
+   "unit": "Witham",
+   "key": "witham",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Priti Patel",
+   "notes": ""
+  },
+  {
+   "unit": "Witney",
+   "key": "witney",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "Charlie Maynard",
+   "notes": "Defeated incumbent, Robert Courts"
+  },
+  {
+   "unit": "Woking",
+   "key": "woking",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "Will Forster",
+   "notes": "Defeated incumbent, Jonathan Lord"
+  },
+  {
+   "unit": "Wokingham",
+   "key": "wokingham",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "Clive Jones",
+   "notes": "Previous incumbent, John Redwood, did not stand"
+  },
+  {
+   "unit": "Wolverhampton North East",
+   "key": "wolverhampton north east",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Sureena Brackenridge",
+   "notes": "Defeated incumbent, Jane Stevenson"
+  },
+  {
+   "unit": "Wolverhampton South East",
+   "key": "wolverhampton south east",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Pat McFadden",
+   "notes": "Seat held. Nominal gain following boundary changes. Chancellor of the Duchy of Lancaster (5 July 2024 – 5 September 2025) Minister for Intergovernmental Relations (5 September 2024 – 6 September 2025) Secretary of State for Work and Pensions (5 September 2025 – present)"
+  },
+  {
+   "unit": "Wolverhampton West",
+   "key": "wolverhampton west",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Warinder Juss",
+   "notes": "Previous incumbent for the predecessor seat of Wolverhampton South West, Stuart Anderson, stood successfully in South Shropshire"
+  },
+  {
+   "unit": "Worcester",
+   "key": "worcester",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Tom Collins",
+   "notes": "Previous incumbent, Robin Walker, did not stand"
+  },
+  {
+   "unit": "Worsley and Eccles",
+   "key": "worsley and eccles",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Michael Wheeler",
+   "notes": "Previous incumbent, Barbara Keeley, did not stand"
+  },
+  {
+   "unit": "Worthing West",
+   "key": "worthing west",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Beccy Cooper",
+   "notes": "Defeated incumbent, Peter Bottomley"
+  },
+  {
+   "unit": "Wrexham",
+   "key": "wrexham",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Andrew Ranger",
+   "notes": "Defeated incumbent, Sarah Atherton"
+  },
+  {
+   "unit": "Wycombe",
+   "key": "wycombe",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Emma Reynolds",
+   "notes": "Defeated incumbent, Steve Baker Chief Secretary to the Treasury (20 July 2026 – present) Secretary of State for Environment, Food and Rural Affairs (5 September 2025 – 20 July 2026)"
+  },
+  {
+   "unit": "Wyre Forest",
+   "key": "wyre forest",
+   "winner": "Conservative",
+   "prev_winner": "Conservative",
+   "member": "Mark Garnier",
+   "notes": ""
+  },
+  {
+   "unit": "Wythenshawe and Sale East",
+   "key": "wythenshawe and sale east",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Mike Kane",
+   "notes": ""
+  },
+  {
+   "unit": "Yeovil",
+   "key": "yeovil",
+   "winner": "Liberal Democrats",
+   "prev_winner": "Conservative",
+   "member": "Adam Dance",
+   "notes": "Defeated incumbent, Marcus Fysh"
+  },
+  {
+   "unit": "Ynys Môn",
+   "key": "ynys mon",
+   "winner": "Plaid Cymru",
+   "prev_winner": "Conservative",
+   "member": "Llinos Medi",
+   "notes": "Defeated incumbent, Virginia Crosbie"
+  },
+  {
+   "unit": "York Central",
+   "key": "york central",
+   "winner": "Labour",
+   "prev_winner": "Labour",
+   "member": "Rachael Maskell",
+   "notes": ""
+  },
+  {
+   "unit": "York Outer",
+   "key": "york outer",
+   "winner": "Labour",
+   "prev_winner": "Conservative",
+   "member": "Luke Charters",
+   "notes": "Defeated incumbent, Julian Sturdy"
+  }
+ ],
+ "national": [
+  {
+   "party": "Labour",
+   "seats": 411
+  },
+  {
+   "party": "Conservative",
+   "seats": 121
+  },
+  {
+   "party": "Liberal Democrats",
+   "seats": 72
+  },
+  {
+   "party": "SNP",
+   "seats": 9
+  },
+  {
+   "party": "Sinn Féin",
+   "seats": 7
+  },
+  {
+   "party": "Independent",
+   "seats": 6
+  },
+  {
+   "party": "DUP",
+   "seats": 5
+  },
+  {
+   "party": "Reform UK",
+   "seats": 5
+  },
+  {
+   "party": "Green",
+   "seats": 4
+  },
+  {
+   "party": "Plaid Cymru",
+   "seats": 4
+  },
+  {
+   "party": "SDLP",
+   "seats": 2
+  },
+  {
+   "party": "Alliance",
+   "seats": 1
+  },
+  {
+   "party": "Speaker",
+   "seats": 1
+  },
+  {
+   "party": "TUV",
+   "seats": 1
+  },
+  {
+   "party": "UUP",
+   "seats": 1
+  }
+ ],
+ "detail": null
+}
